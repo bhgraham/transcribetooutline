@@ -1,0 +1,448 @@
+Hello, and welcome to Legal Communication and Research 2, or LCR 2, which is the second
+legal communication and research class that you will experience while you are a student
+here at Syracuse University College of Law.
+My name is Debra Sundquist O'Malley, and along with Professor Eliza Milner, we will be your
+professors for the asynchronous portion of LCR 2 in the JDI program.
+During your first semester of LCR, you learn how to formulate a legal analysis and predict
+outcomes based on the law.
+In LCR 2, you will utilize these skills, and you will build on them.
+Learn the key aspects of conducting legal research, a skill that you will continue to develop
+as you move on in your career.
+You will also learn to use your legal analysis skills to present a legal argument that persuades
+another to make a decision that favors your client.
+You will learn this in the context of motion practice and advocacy before a trial judge.
+With that said, during the first few weeks of this course, we will focus on legal research.
+We will learn about sources of law, where and how to find them, and how to develop and launch
+a research plan.
+We will introduce you to the tools you need to be an effective researcher.
+We're glad you're here.
+Now, let's get started.
+Imagine you've been asked to go out and catch a fish for dinner.
+Where will you go to catch the fish?
+What tools will you use?
+Will you need a boat, or will you stand on the shoreline?
+And for that matter, what kind of fish are you even looking for?
+How will you know if it's edible?
+If you're like me, you know very little about how to catch a fish, and therefore, where
+you will even begin to do such a task.
+And the questions I have posed are baffling.
+The options seem limitless, and you have a lot to learn before you even attempt the task
+of catching a fish.
+But if you know something about fishing, or have fished before, this task may seem less
+intimidating.
+You may know exactly where you will go to catch a fish, what tools you will use, and
+how you will get to it.
+Like any task, the more you understand about the topic, here, fishing, the more comfortable
+you will be embarking on the task.
+Before you just go out and stick a net in the ocean, you will want to have a plan in place.
+You will want to perhaps identify the type of fish you want to catch.
+Determine where, a lake or a body of water, you will go to catch it.
+And you will get a boat there, and which tools, perhaps a fishing pole and a lure fishing hook,
+you will need to catch the fish.
+Once you've learned the basics and have a plan in place, it's just a matter of getting
+out there and doing it.
+Beginning a legal research project is, in many ways, like being asked to go out and catch
+a fish for dinner.
+If you have conducted legal research before, you know that the ocean of legal authority
+is vast.
+Statutes, constitutions, case law, rules and regulations, primary sources and secondary
+sources, mandatory authority and persuasive authority.
+The seemingly limitless array of potential sources can be intimidating.
+If you cast your net too wide, then you will catch many of these sources, including those
+that are irrelevant.
+And you will waste precious time.
+But if you plan your research well, if you understand the facts, you grasp the precise
+question you have been asked to answer, you identify the authorities that are likely to
+be relevant, and you know where and how you will find them, then your research will be
+much less frustrating and much more efficient.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Now, before we get into the details of planning your research, let's start by reviewing the
+sources of American law and the hierarchy of authority and consider how these will impact
+your research.
+Federalism and sources of American law.
+As you know, the United States employs a federal system of government.
+This means that our entire country and all of those living and working within its boundaries
+are bound by the laws of the United States.
+Furthermore, each state in the Union has its own set of laws.
+Citizens and those within the state must abide by the laws of their particular state.
+With that said, a constitution establishes a system of government and defines the boundaries
+of authority granted to that government.
+The United States Constitution is the preeminent source of law in our legal system and all other
+rules, whether promulgated by the federal government or a state government that falls within its borders,
+must align with it.
+The U.S. Constitution acts as an umbrella over other sources of law.
+So while a state's constitution may grant greater rights than those secured by the federal
+constitution, it cannot provide lesser rights than the federal constitution does.
+And thus, all of a state's legal rules beneath the umbrella of its constitution, no matter
+what form, must comport with both the federal and its state's constitution.
+Thus, in a federal system, two separate governments can share lawmaking power over the same territory.
+Note that the federal constitution has been interpreted to reserve lawmaking authority for some matters
+for itself, like immigration and interstate commerce.
+All other matters, like issues of family law and property ownership, are generally left to the state's
+state's control so long as their laws do not run afoul of the federal constitution.
+The U.S. Constitution and state constitutions divide governmental authority into three branches,
+each of which contribute rules to the body of law within its jurisdiction.
+The legislative branch makes laws in the form of statutes,
+the executive branch in the form of rules and regulations,
+and the judicial branch in the form of court opinions.
+As you know, courts interpret the rules provided by the legislative and executive branches of
+government, but they can also be an independent source of legal rules, known as common law.
+Thus, as between the federal government and the 50 states,
+you can see that the available potential sources of law are vast.
+The sources we have referred to thus far constitute the law in force in their jurisdiction,
+or the rules with which its citizens must abide.
+Constitutions, statutes, administrative rules and regulations,
+and case law are also referred to as primary authority.
+As you conduct your research, in addition to finding these primary authorities,
+you will also find secondary authorities.
+Secondary authorities are sources that summarize, analyze, or comment on the law,
+and they are typically written by private individuals, businesses, and organizations.
+They include law review articles, treatises, and hornbooks,
+and they can be very helpful to you as you try to understand a legal issue.
+To a novice legal reader, secondary authorities can at times look like primary authorities.
+But these sources are not the law, and therefore, you will generally not cite them in court documents or legal memoranda.
+At times, it can be hard to tell them apart.
+When in doubt, always look it up.
+Let's look at some examples.
+Please review each of the authorities listed in the following activity,
+and see if you can identify which are primary authorities and which are secondary authorities.
+Mandatory vs. Persuasive
+Now, you can see that one step you will need to take when you research is to distinguish
+between primary authority, or law, and a secondary authority, which is everything else.
+But even if you've determined that the source is the law, you must also consider whether it will apply to your controversy.
+Binding or mandatory authority and non-binding or persuasive authority are terms courts use to categorize
+different sources of law they use in making their decisions.
+Mandatory authority refers to a primary authority that the court is obligated to follow.
+These are the rules that will decide the issue or controversy.
+Persuasive is a term used to describe authorities, whether primary or secondary,
+that the court may follow if it is persuaded to do so.
+So, how do you determine whether a primary authority is mandatory or persuasive to your question?
+Well, one factor affecting whether a primary authority is binding is jurisdiction.
+A rule contained in a primary authority will apply only to conduct occurring within the jurisdiction
+in which the authority is in force.
+For example, say I am driving on a road in New York and get pulled over by a police officer for speeding.
+Assuming there was no indication that I'd violated a federal law,
+for example, a trucking regulation regulating interstate commerce,
+a trucking regulation.
+It's very likely that New York's laws will control.
+As we know, New York can generally regulate conduct taking place within its border.
+Thus, New York's motor vehicle laws would be binding or mandatory on my conduct.
+Take a minute to indicate whether the authorities in the following exercise
+would be mandatory or persuasive to a New York court, assuming they're on point.
+Take a minute.
+Take a minute.
+Take a minute.
+Take a minute.
+Take a minute.
+Take a minute.
+All right.
+That box is always been trained.
+Take a minute.
+What are you doing?
+What are you doing?
+I'm in the organization.
+I'm in the organization.
+All right.
+Oh, many of you have.
+I've day not had things preparedness.
+So, now you might have –
+I can stand up when I was under the operation.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Please take a minute to answer a few questions about the weight and hierarchy of authority.
+Ultimately,
+thank you.
+Ms.
+
+has specifically asked you to research whether Jackson has a viable claim against Eddie for
+breach of the implied warranty of habitability. What do you do? How do you begin to determine
+the answer to this question? As you know from our earlier discussion, your mission will be to
+locate primary, mandatory authority for your issue. And as we've learned, your pool of potential
+legal sources is vast and can overwhelm even the most seasoned of researcher if you launch a search
+without a strategy. Thus, your first step in attacking this problem should be to develop a
+research plan. This is just the first step in a multi-step process, which includes planning your
+research, followed by consulting secondary sources, consulting primary authorities,
+expanding and updating your case law research, and finally analyzing and organizing your results.
+Think of developing your research plan as planning your fishing expedition.
+You need to gather as much information as possible before you actually go out and drop your net or
+cast your rod. You need to know where you will go, what tools you will use, and what kind of fish you
+want to catch. While you will develop your own research plan and style as you become a more seasoned
+researcher, there are a few details that you should grasp before you dive into your research. The four key
+items I like to make note of before I begin my research include the determinative and background facts, the
+mandatory authority for my legal issue, my research question presented, and a list of potential search terms. I
+recommend that you write down all components of your research plan and update it as you go along in your research.
+List of key facts
+First and foremost, you should inventory your facts to make sure you have a good grasp of the events that gave rise to
+the legal dispute. I typically jot down a list of determinative and background facts for the issue.
+Include what you believe may be the legally determinative facts, as well as any additional facts that may help the
+story gel. In addition, take special note of the answers to the following questions. Who, what, when, where, and why.
+So first, who are the parties to the litigation and what is their relationship to each other?
+What is the alleged wrongful conduct? And what person or thing caused the injury?
+When did the injury occur? And under what circumstances?
+Where did the injury take place? And why does your client want to sue or is she being sued?
+Here are the facts I have included in my research plan as relevant to this cause of action.
+I identified the client as the plaintiff and tenant, Claudia Jackson.
+I also identified the defendant as the landlord, Sam Eddy.
+I made note that eight months ago, she rented an apartment from the defendant in St. Louis, Missouri.
+I also made a note to question the dates, the exact dates of the rental.
+I made note that at the start of the rental and continuing on, the plaintiff has experienced itchy red marks, rash, or bites on her skin.
+I also made note of the fact that the defendant sends an exterminator who found a spider nest, and the exterminator suggested to respray.
+I made a note of the fact that the plaintiff is not sure whether the respray was completed, and I also jotted a note to myself to confirm whether that respray may have been completed and the dates that it was done.
+I made a note that two weeks ago, the plaintiff went to an urgent care, and that the doctor identified the marks of spider bites.
+I also made a note that one week ago, the plaintiff moved out after she saw two spiders in the kitchen.
+Finally, I identified the fact that the client, plaintiff, tenant here wants to sue for breach of the implied warranty of habitability.
+For the most part, you will see that my bullet points go point by point through the fact pattern given, as it was pretty succinct.
+While I didn't specifically put them in the who, what, when, where, why format, I did inventory my facts to make sure I had all those questions answered.
+You can see I've listed the parties, their relationship as landlord and tenant, and their potential positions in the litigation.
+I've included the plaintiff's injuries, the spiders, and the location of the apartment.
+I've listed the time frames that I have, and I mentioned the suit.
+You will also see that I've included some questions, particularly concerning dates of events, as well as a note to confirm the fact that the client seems uncertain about.
+In fact, one of the advantages of sketching out facts ahead of time and using the who, what, when, where, why method to hold yourself accountable is that it will help you identify gaps in your understanding.
+If you don't think you have all of the facts, or if you are uncertain about something that you believe may bear on the legal outcome, ask.
+Another advantage of using the who, what, when, where, why method of sketching out your facts is that it should help you as you identify which jurisdiction's law will apply.
+Mandatory authority.
+That is another consideration in a research plan.
+Identifying what we believe will be the mandatory authority for this cause of action.
+This step is important because in considering potential relevant areas of law, you begin the process of narrowing your pool of applicable legal authorities.
+Sometimes the mandatory authority for your project will be provided to you.
+Other times you will have to determine it on your own.
+Either way, if you're able to enter the research project with a sense as to which laws will apply, that's the ideal, as it will save you time and energy in your research.
+If you're not sure, you will have to do some research to figure it out.
+As you consider which jurisdiction's laws will apply, some things to think about include whether the issue is civil or criminal, and the areas of law or claims that are at issue.
+You might make a note like property or torts negligence claim.
+Think both broad and narrow.
+Overall, the aim here is to generate enough information to help you identify whether it's a federal or a state issue, and if it's state, which state's laws will apply.
+This will also help you begin to determine which sources of law may be involved.
+For example, if you've identified the matter as criminal, you would know that you will likely need to consult the controlling jurisdiction statutes and case law.
+Once I've identified what I believe to be the controlling jurisdiction, I also make a list of the specific binding primary authorities I believe would apply in this situation.
+So, any constitutions, statutes, regulations, and court opinions.
+I generally try to be as specific as possible, actually calling these sources by name.
+I also specifically identify the binding courts by name.
+In light of all this, let's take a look at what I would have noted with respect to Ms. Jackson's issue in the planning for her mandatory law.
+You will see that I have written the matter as a civil suit.
+This is because I know that we are dealing with a private, civil matter between a tenant and a landlord.
+This is not a criminal action brought by a government.
+As far as areas of law, I know that my suit involves a landlord and a tenant.
+And I am certain that this is a relationship that is regulated under the law.
+So, that's why it's gotten its own topic area in my areas of law list.
+But I also included the broader topics of property, contract, and even torts law.
+Because, frankly, I'm not quite sure where the implied warranty of habitability claim will fit into these bodies of law.
+I can go back and adjust this as it becomes clearer through my research.
+But right now, it was a way for me to get into thinking about the potential sources of law for my issue.
+Speaking of which, I know that property law, contract law, and tort law are all areas traditionally controlled by state law.
+So, knowing that, and knowing that the lease and the injury in question both happened in St. Louis, Missouri,
+I was able to surmise that this is a state law matter in which the court will apply Missouri law.
+Again, you may need to fill in or adjust this later on as more information becomes available to you in your search.
+You will see that I've therefore identified the revised statutes of Missouri and Missouri Code of Regulations as the authorities that could apply here.
+Through a quick web search, I identified the primary sources of law in Missouri.
+I've left out the Missouri Constitution from this list because I don't believe there's a constitutional question that could play into this fact pattern.
+I could always go back and add it in should I change my mind.
+Finally, you can see that I've found and listed the two appellate courts that would be above our trial court in the line of appeal.
+The Missouri Court of Appeals for the Eastern District and the Supreme Court of Missouri.
+Again, through a quick web search of the court hierarchy of Missouri,
+I was able to identify which trial-level court I would likely file my suit in, in St. Louis,
+and then I was able to find its direct line of appeal.
+Question presented.
+The next stage of my research plan will build upon the facts I noted and the mandatory authority I identified.
+I will draft my research question presented.
+Chapter 1 of your text provides some good tips for drafting your question presented.
+Think about any abstract concepts at play in the fact pattern, such as the relationship of the parties,
+the legal issues involved, the relief sought and or possible defenses to enforcement,
+and the facts you anticipate will be relevant to the analysis.
+I encourage you to include a reference to the controlling jurisdiction.
+In essence, you want to try to capture the key issues presented by the research question
+and incorporate the facts that you believe may impact the outcome.
+Now, using the details of the research plan we've drafted so far,
+take a few minutes to sketch out what you believe may be an accurate question presented
+for Ms. Jackson's problem.
+Thank you.
+Now, take a look at the question presented that I drafted in connection with Ms. Jackson's research problem.
+Under Missouri law, does a tenant have a claim against her landlord for breach of the implied warranty of habitability,
+where the tenant experienced spider bites on her skin throughout her eight-month tenancy?
+The landlord sent an exterminator to the apartment who confirmed the presence of a spider's nest
+and recommended re-spraying,
+and there's no indication that the landlord took this further step to resolve the problem?
+You will see some of the key components include the controlling law through my initial reference to Missouri law
+and my reference to the party's relationship by naming them as landlord and tenant.
+As I mentioned earlier, I anticipate that this is going to play a big role in the analysis,
+and so I made sure to include their relationship in my question presented.
+Furthermore, I mentioned the claim at issue here, breach of the implied warranty of habitability,
+and the fact that it's the tenant who seeks to discover if she has a claim.
+The rest of the question presented is made up of the facts that I anticipate could be important to the outcome here,
+specifically, her spider bites and the fact that the landlord sent an exterminator to her apartment,
+that exterminator saw a spider's nest and recommended re-spraying,
+and the fact that there's no indication the landlord ever requested it.
+This, for the most part, captures much of what I believe will bear on the outcome.
+And once again, I may modify this once I begin to conduct my research.
+Like other parts of my research plan, this is a work in progress.
+The last stage of my research planning is developing search terms.
+This is when I generate words and phrases I will utilize as I search my sources for relevancy to my legal issue.
+Through this process, you will develop a list of words and concepts that are likely to be useful as you search for sources to analyze your legal problem.
+As you brainstorm, consult details from the other portions of your research plan.
+Include the facts from your fact list that you believe will help you find the law on your issue,
+as well as any facts that might help you pick up analogous cases.
+Consider the who, what, when, where, why facts you identified.
+You should also include any terms you may have identified in your question presented,
+including legal claims and defenses or potential relief.
+For any terms or facts that are central to the cause of action, identify variants or synonyms.
+For terms that are specific, include on your list their broader counterparts.
+Using the research plan I'd developed, I identified some search terms and phrases I thought might help me in my research here.
+For example, you will see that I listed and highlighted here the claim warranty of habitability,
+which was provided to me for my research assignment.
+I also included the landlord-tenant relationship in my search terms.
+Furthermore, I thought that the fact that this involved a residential lease and apartment would be important,
+based on the fact that I know that commercial leases are treated somewhat differently than residential leases under the law.
+Furthermore, I listed spiders and infestation in my plan,
+because those will be relevant to the problem the tenant experienced here.
+But I thought that those terms might be too narrow to catch everything,
+so I also added variants, including bugs, insects, and vermin, to the list.
+I also put roaches and bedbugs as potential alternatives.
+I thought that I might find analogous cases with those terms.
+I put the term dangerous condition in there with a question mark.
+While that term might have a specific meaning that does not encompass a spider in a leased apartment,
+I also don't want to rule it out as a potential way to describe the condition here.
+I want to look that up and see if it, or some variant of it,
+might encompass how my situation is viewed by the courts.
+Finally, you will see that I included a couple of phrases, too.
+Landlord, notice of dangerous condition, or landlord response slash dangerous condition.
+Again, the facts that were given to me made me wonder if Ms. Jackson gave adequate notice to her landlord of the spider situation.
+I thought that the landlord might try to argue that he was not given enough notice of the spider situation.
+So I made a note of this phrase, thinking I might later incorporate it into my search.
+Also, given the facts, I had thought the landlord might try to argue that his response by sending out the exterminator was appropriate, given the circumstances.
+I made a note of that idea, with the goal that I would look into what response to such a condition might be appropriate.
+While you may have put different terms on your list, that's fine, these terms are just a start.
+The key is that you have identified important concepts before you begin the research process.
+As you can see, legal research is complex, and to the uninitiated, it can be overwhelming.
+But with some foundational knowledge and proper planning, it is manageable.
+In the coming weeks, we will discuss the different sources in greater detail, including common and helpful secondary sources, as well as how to research case law, statutes, and regulations.
+We will also learn more about how you can check to see if your authority is still good law.
+In the meantime, start thinking about how you will plan your research for your upcoming assignment.
+And again, recognize your plan for what it is, a draft and a work in progress, subject to edits, as you conduct your research.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.

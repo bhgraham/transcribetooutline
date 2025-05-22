@@ -1,0 +1,95 @@
+We'll be right back.
+For cases, a yellow flag indicates some negative treatment, a red flag indicates the case has been reversed, and a red striped flag indicates that the case is no longer good law for at least one issue.
+A blue and white striped flag indicates a case has been appealed and is awaiting a decision, and the orange triangle indicates the case may no longer be good law because of its reliance on an overruled decision.
+The orange triangle is more than it seems. Case cites overruling risk, uses artificial intelligence to identify possible bad law even when no direct citations from overruling authority are present.
+No other tool does this.
+For statutes, there are just two flags.
+A red flag indicates the statute has been amended, repealed, superseded, or held unconstitutional or preempted in whole or in court.
+A yellow flag indicates the statute or court rule has been renumbered, that proposed legislation affecting the statute is available, that the statute or court rule was limited, or that its validity was otherwise called into doubt, or that yellow flag may indicate that a prior version of the statute or court rule received some negative treatment from a court.
+Case cites is always at work verifying your authorities, including for any authorities you place in Westlaw folders.
+Because the law is always changing, it's possible that today's good law can turn bad tomorrow, so you can set up case cites alerts to monitor your documents and send you updates, just in case a future authority casts shadow on the authority you plan to use for your research project.
+With case cites history, you can see how a case moves through the court system visually, explore what happened at the trial court level, related cases, appellate cases, and more.
+This feature can give you insights into a case that otherwise would be impossible when reading it in isolation.
+The citing references tab offers you a simple breakdown of all the sources that have cited to the document you're viewing.
+This includes any other cases that have interpreted the document, secondary sources that have cited it, and more.
+This is an easy way to check and see how more recent cases have treated a prior one, or just to find other similar cases or resources that might be worth researching.
+Other than just showing you which sources have cited a document, Westlaw can also show you what sources have been cited together with your document.
+This can help you gain valuable insights into what other authorities are frequently used in conjunction with the source you're interested in.
+Instantly see other sources cited in the same paragraph, the same string site, and more.
+This is another simple tool that can give you ideas about what other sources may be helpful to your project.
+Finally, while citing references lets you understand how others have treated your document, the table of authorities quickly lets you see a list of authorities that your document relied on.
+If a case relied on bad law, for an example, you can see that in a glance.
+Let's see how Keysight makes your research projects easier.
+Julian has gathered a few key cases from his team that he plans to include in a research memo analyzing a client's disability discrimination case.
+But he needs to confirm these cases are still good law.
+He also wants to do some more research on issues raised in these cases to see if he can find other helpful authorities to finish his project.
+Julian opens his first case, Adair v. City of Muskogee.
+He immediately notices the yellow flag by the case's name, which suggests this case has received some negative treatment, but it has not been reversed or overruled.
+To dig deeper into why and how others have viewed it negatively, he clicks on the flag.
+He sees the most negative case is Bay v. City of New York.
+On the right side, Westfall highlights what legal issues, or head notes, that Bay is negative treatment about.
+Julian can also jump into Bay now, click the search term button, and see exactly what this case said about the original case he's interested in using.
+It turns out that Bay dealt with a federal rule, and Adair dealt with an unofficial internal policy, which is what all the disagreement is about.
+Julian is interested in Adair for reasons unrelated to this issue, so he decides to move on.
+He jumps over the history tab and can see the single trial court decision that led to this appellate decision.
+There's also one related case that may be helpful to review as well.
+Julian decides that he's ready to look for other helpful cases, so he jumps into citing references.
+On the left, he quickly sees every source that has cited this case.
+He can explore secondary sources that have talked about it, other cases, and more.
+Julian wants to find more cases.
+On the right, the depth bar indicates how extensively a source analyzed or discussed the case.
+It looks like several cases have analyzed Adair at length and are likely to be helpful authorities here.
+Julian can also use Westfall's filters to narrow in on specific head notes or jurisdictions.
+Julian saves several of these cases in his research folder to review later.
+Then he jumps over to the Cited With tab for even more ideas.
+This tab shows Julian what cases are often cited together with Adair.
+This is yet another simple way that Westfall is doing work for him,
+finding authorities or resources that other practitioners often use alongside the case Julian cared about.
+Julian saves several of the cases that are most often cited with Adair to his research folder as well.
+And voila!
+Julian used Keysight to check his authority, find other helpful cases, and it took only minutes.
+Now hop on to Westfall and see how easy it is to use tools just like these.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.

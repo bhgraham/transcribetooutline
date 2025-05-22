@@ -1,0 +1,498 @@
+In the first video lecture for this week, I introduced you to the concept of future
+interests. As you recall, a future interest is a presently existing legal interest, but
+what is future about that interest is the possibility of possession. In the prior video,
+we explored, in general, the entire landscape of future interests, including interests that
+can be held by a transferor and those that can be held by a transferee. Future interests
+in a transferee include executory interests as well as remainders, and remainders are further
+classified as either contingent or vested. Now, within those classifications of remainders,
+there are further details that are important to your ability to recognize and correctly label
+remainder interests, and that's what we will focus on primarily in this video presentation.
+As you may recall, in order to have a remainder, there must be something for that remainder to
+remain after, and that something is a present possessory interest in a transferee that qualifies
+as a prior supporting estate. You may recall from the introductory video that a prior supporting
+estate is one that is of a lesser duration than a fee simple absolute or a fee simple defeasible.
+So, in other words, it is generally a life estate, a life estate per attra vie, or a leasehold estate
+known as a term of years. Now, it need not be certain that the remainder will become possessory
+upon the natural expiration of that prior supporting estate. It need only be possible. And what do we
+mean by the natural expiration of that prior supporting estate? Well, if it is a life estate,
+it is simply the end of the measuring life for that life estate. Or if it is a term of years,
+it is the conclusion of that time period set out for the term of years leasehold estate. In other
+words, there doesn't have to be the happening of a vesting condition. It is just the natural
+expiration of that prior supporting estate. To put into perspective the remainder interest,
+it's helpful to contrast it with executory interest. If you recall, an executory interest
+vests in possession only by divesting another interest. In other words, there is a condition that
+serves as that vesting event. And again, the remainder simply vests in possession upon the natural
+conclusion or expiration of that prior supporting estate. Let's review the graphic that summarizes
+executory interests. If you recall, executory interests are known as divesting interests on a
+condition precedent. This is because the only way that an executory interest can become possessory
+is by the happening of a condition that will divest the current holder of the possessory interest and
+vest into the holder of the executory interest possession. Executory interests are labeled with reference to
+whether the interest will divest a transferor or will divest another transferee. The executory interest
+that divests a transferor is known as a springing executory interest. I find it helpful to think
+about it as springing back to the transferor and divesting that transferor if the vesting event
+occurs. With the shifting executory interest, the holder of the present possessory interest
+is another transferee. So if we think about the two sides of the conveyance, one being the transferor and
+the other one being the transferee side, an executory interest is on the same side as the holder of
+the possessory interest. If we look at our example of a shifting executory interest, it helps to
+illustrate this point. O conveys to A, but if C graduates law school, then to C. A, a transferee,
+currently holds a fee simple subject to executory limitation. C has the shifting executory interest
+and the vesting event, but if C graduates law school, is the condition subsequent as to A's interest
+that actually acts like a condition precedent to the vesting of C's interest. If C graduates law school,
+C's executory interest shifts over and divests A. In contrast, our first example, O conveys to C,
+if C graduates law school, the present possessory interest in this example is held by O, the transferor.
+It is a fee simple subject to executory limitation, but one held by a transferor. So the condition to
+vesting if C graduates law school is more apparent in its nature of a condition precedent because it is
+the thing that has to happen if C's executory interest is going to spring back and divest the transferor.
+Now let's consider these examples of conveyances that contain remainder interest. Hopefully our
+brief review of executory interest will help you distinguish a remainder interest from an
+executory interest. Now in each of these conveyances, I have highlighted in yellow the
+portion that constitutes a remainder. We will come back to each of these separately to determine exactly
+what type of remainder is created. Before we do that though, I would like to look at the prior
+supporting estate in each of these conveyances. If you recall, in order to have a remainder in a
+conveyance, there must be something for that remainder to remain after, and that something
+is the prior supporting estate. A prior supporting estate is an estate of a lesser duration than either
+a fee simple absolute or a fee simple defeasible, and it must be at least possible for the remainder
+to vest in possession at the natural expiration or conclusion of that prior supporting estate.
+So in our first example to A for life, we have a life estate, and while it is not certain that C
+will have graduated law school by the end of A's life, it is at least possible. In the second example
+to A for the life of B, this is a life estate per otra B. So at the end of B's life, then C's interest
+is to vest in possession. What if C happens to die before B? It doesn't matter because C's
+remainder interest can pass to C's estate. In the last example to A for five years, we have what's
+called a term of years or a leasehold estate. It's to A for five years, then to B's children. What if in
+five years, B doesn't have any children yet? Again, it doesn't matter. What's important is that it's at
+least possible, and so we have a remainder interest that is remaining after this prior supporting estate.
+So let's take a look more closely at each of these conveyances to determine the proper label for
+the remainder interest contained in each. In our first example, O conveys to A for life, then to C,
+if C graduates law school. What C has is a contingent remainder. Why is it contingent? Because there is
+contained within that remainder a condition precedent. That condition is if C graduates law school.
+In our second example, O conveys to A for the life of B, then to C, C has an indefeasibly vested
+remainder. We know who the taker is, and there is no condition precedent to the vesting, nor is there a
+condition subsequent that could take it away. So it is an indefeasibly vested remainder. In our third
+example, O conveys to A for five years, then to B's children, we need more information before we can
+put a label on this remainder interest. So what do we need to know? Well, the relevant questions are,
+is B alive, and does B have any children? If B is alive, but B has no children, then the remainder is
+a contingent remainder. Why? Because the takers, the potential takers, are unascertained.
+If B is alive and has at least one child, then the remainder is labeled as a vested remainder
+subject to open. And what subject to open means is that that child's interest could be partially
+divested by the birth of more children. The remainder remains subject to open until the class
+of B's children is closed. When does that happen? Closure of that class will happen on B's death.
+And what if B is dead at the time of this conveyance? If B is dead and has children,
+then the remainder is an indefeasibly vested remainder. The takers are known and the class
+is closed. So B's children will share proportionately in this vested remainder.
+As you will recall, there are two basic categories of remainders, contingent and vested. Let's review
+the features of each. Contingent remainders occur when we have an ascertainment issue in the conveyance.
+If you take a look at the example on the graphic, 2A for life, remainder 2A's children,
+and we're told that A has no children at the time of the conveyance, so the potential takers are
+unascertained, or there is a condition precedent. Our example with a condition precedent is to A
+for life, remainder 2B if B survives A, or the conveyance has both, both an ascertainment issue
+and a condition precedent. So our example for this is to A for life, remainder 2A's children who survive
+A and we're told that A has no children at the time of the conveyance. So while a remainder may be
+considered contingent for different reasons, no matter what the reason, ascertainment, condition
+precedent, or both, we simply call that remainder a contingent remainder. If we know at least one
+taker and there is no condition precedent to vesting, the remainder is some type of vested
+remainder. That said, there are three types of vested remainders. The most easily recognizable
+vested remainder is the indefeasibly vested remainder. In our example, the conveyance is to
+A for life, remainder 2B. We have a known taker, there is no condition precedent, and there is no
+condition subsequent. The second type of vested remainder is vested subject to open. Our example,
+to A for life, remainder 2B's children. And in this example, we're told that B is alive and has
+one child D. This is a class gift. So with a vested remainder subject to open, we know at least one
+taker, but we have an open class of takers. The third type of vested remainder, vested subject to
+complete divestment, occurs when the remainderman has the interest, the future interest, but could lose
+it upon the happening of a condition subsequent. So in our example, to A for life, remainder to C,
+but if C fails to survive A, then to B, C has a vested interest. However, C could lose it upon the
+happening of the condition subsequent. And that condition in the conveyance is, but if C fails
+to survive A. Who would take if that condition happens? Well, B would take. B has the shifting
+executory interest. Now, while there are only three types of vested remainders, indefeasibly vested,
+vested subject to open, and vested subject to complete divestment, and this is sometimes phrased
+simply as subject to divestment, while there are only those three types, it is possible for a taker to
+have a vested remainder that is both subject to open and subject to complete divestment. Consider the
+example. O conveys to A for life, then to B's children, but if B has no children that survive
+A, then to C. In this example, we're told that B is alive and has one child, D. So D has a vested
+remainder subject to open. His interest is a part of a class gift to B's children, and so if additional
+children are born to that class before it closes, D's interest will be diluted. But D's interest is
+also subject to complete divestment. What would the divesting event be that could completely take away
+D's interest? It would be that on the death of A, that none of B's children survive A. In the event of
+that occurrence, then D's interest would be completely divested. So again, for now, just
+keep in mind that while there are three types of vested remainders, it is possible for a remainder
+to be both subject to open and subject to complete divestment. This occurs when you have both a gift
+to an open class or conveyance to an open class, and you have a condition subsequent that could
+completely divest that interest. So let's recap. With a contingent remainder, either no taker is
+ascertained, there is a condition precedent, or both. Regardless, all contingent remainders are simply
+called contingent. With a vested remainder, we know at least one taker, and there is no
+condition precedent. The three types of vested remainders are indefeasibly vested, vested subject
+to open, and vested subject to divestment. Those learning future interests, and particularly
+remainders, often have difficulty distinguishing between conditions precedent and conditions
+subsequent. The key question to this determination is, must the condition happen before or after to
+vest possession. If the condition must happen before, then it is a condition precedent. And if
+it happens after, in other words, it operates to take possession away from one transferee and vest
+it in another, then it is a condition subsequent. Let's look at condition precedent examples. O conveys to
+A for life, then to C, if C graduates law school. If C graduates law school is a condition precedent
+to C's interest, a contingent remainder vesting. In the second example, O conveys to A for life, then to C,
+if C graduates law school, and if C does not graduate law school, to D. This example looks
+similar to the first because we have the condition precedent, if C graduates law school, necessary to
+vest possession in C, but then we have the reverse of that, and if C does not graduate law school,
+operating as a condition to vest possession in D. What these remainders in this example are called
+is alternate contingent remainders. They are alternate because if the condition happens, C graduating law
+school, possession goes to C. And if the condition does not happen, C does not graduate law school,
+it goes to D. So these are alternate contingent remaindermen, and the vesting of possession depends on
+the happening or the failure to happen of the same condition. In our last example, O conveys to C
+if C graduates law school. This is a condition precedent, but what we have in this example is not a
+contingent remainder. Why is this not a contingent remainder? Because if you recall, a remainder must
+remain after something on the transferee side of the conveyance. In this example, the present possessory
+interest is held by O. O holds a fee simple subject to executory limitation, and that means of course
+that what C has is a springing executory interest. So to review, in our first conveyance to A for life
+then to C if C graduates law school, C has a contingent remainder. In the second conveyance,
+O conveys to A for life then to C if C graduates law school, and if C does not graduate law school,
+to D, C and D have alternate contingent remainders. And in the last example, O conveys to C if C graduates
+law school, C does not have a remainder, C has a springing executory interest. Because if the
+condition precedent happens, C graduating law school, C's interest will divest O, the transfer or,
+of O's fee simple subject to executory limitation. Now let's look at condition subsequent examples.
+Our first example, O conveys to A, but if C graduates law school, then to C. But if C graduates law school
+is the condition subsequent in that conveyance. In the second example, O conveys to A for life,
+then to C. But if C fails to graduate law school, then to D. We have the same condition subsequent,
+but if C fails to graduate law school. But what the interests are labeled in these conveyances
+are very different. Let's take a closer look. In our first example, the present possessory interest
+is held by A, and that interest is called a fee simple subject to executory limitation.
+C has a shifting executory interest. Upon the occurrence of the condition subsequent,
+C graduating law school, A's interest is divested, and C's shifting executory interest shifts over
+into possession. In our last example, the present possessory interest is the life estate in A.
+It is followed by a remainder interest in C. This is a vested remainder because we know who the taker
+is, and there is no condition preceded. However, it is followed by a condition subsequent. That
+condition is but if C fails to graduate law school. If that condition subsequent happens,
+it will operate to divest C of C's vested interest. So what C has is a vested remainder subject to divestment,
+sometimes referred to as subject to complete divestment, and the divesting interest, the
+shifting executory interest, is held by D. Following this video, I have designed two problem
+sets to test your knowledge of future interests in the transferee. I have divided the problem sets
+into executory interests treated in one and remainder interests in the other to help reinforce what you
+have learned about the distinguishing characteristics that separate executory interests from contingent
+remainders and from vested remainders. Good luck with these.
+Thank you.
+If there were an initiation into the legal profession, it would be the rule against
+perpetuities. I guarantee that if you mention this rule among a gathering of lawyers, you
+will hear groans and you will probably hear some people exclaim, I never really understood
+that rule. Well, it's my goal and expectation this semester that you will not only understand
+it, but that you will develop a confidence in analyzing conveyances to determine whether
+or not the future interests in those conveyances are valid under the rule. So let's get started.
+The purpose of the rule against perpetuities is to limit the extent of deadhand control that one can
+exercise over property. As formulated under the common law, the rule provides no contingent future
+interest is valid unless it is certain to vest or fail not later than 21 years after a life and being
+at the creation of the interest. What this rule enables the grantor to do is to make a gift to
+takers in the first generation after known lives and to condition it upon the traditional age of
+majority, the age of 21. Contingent future interests must be analyzed under the rule at the time the
+conveyance becomes effective. That is, if it is an inter vivos conveyance, the conveyance is analyzed
+for validity at the time the conveyance is executed. If it is a testamentary devise, it is analyzed at the
+moment of the decedent's death. If an interest fails the rule scrutiny, it is void ab initio, in other
+words, void from the moment that it was purportedly created. A conveyance that contains a contingent future
+interest that is void under the rule must be construed as if it did not contain the faulty interest.
+Let's take a look at the constituent parts and break this down step by step.
+Let's begin by looking at the type of future interests that are subject to the rule.
+The rule applies only to contingent future interests in a transferee. So future interests
+in a transferor are not subject to the rule. If a conveyance contains a reversion, a possibility of
+reverter, or a right of entry, those future interests do not need to be scrutinized under the rule.
+What are contingent future interests in the transferee? Please note that category is broader
+than merely contingent remainders. Contingent future interests include not only contingent remainders,
+but also vested remainders subject to open and executory interests. Each of these types of future
+interests contains some sort of contingency to vesting. If you recall, with a contingent
+remainder, it is contingent because either we don't know who the taker is, we have an
+ascertainment issue, or there is a condition precedent, or both. With a vested remainder
+subject to open, the contingency is closure of that class gift. And with executory interest,
+by definition, an executory interest is a divesting interest on a condition precedent,
+on a condition that has to happen first. If it is a springing executory interest, it will divest
+the transferor, and if it is a shifting executory interest, it will divest a transferee.
+These are the types of contingent future interests that must be analyzed under the rule against
+perpetuities. Thus, the first question you should ask yourself when examining a conveyance
+for validity under the rule is whether you have a contingent future interest. Identify
+all future interests in the conveyance, and then hone in on any that meet the definition
+for a contingent future interest. Next, be sure to remember that the rule is applied at
+the moment the conveyance becomes effective. If it is an inter-bibos conveyance, that moment is
+when the conveyance is executed. If it is a testamentary devise, the relevant facts are
+those that exist when the testator dies. Also keep in mind that if a contingent future interest
+violates the rule, that interest is void ad initio, meaning from its purported creation,
+it is as if it never existed in the language of conveyance.
+You may encounter many tips for applying the rule against perpetuities. What I recommend in this video
+is what works for me, and what seems to have helped a lot of my students. That said, if you find the
+techniques described in the textbook to be more helpful to you, then by all means use them. These
+are all roads to the same destination. What I recommend is that you work in three steps. First,
+you analyze the conveyance to identify all contingent future interests in a transferee. Then, second,
+for each of those contingent future interests, identify what the vesting event for that interest would be.
+And third, find a validating life or lives, if there are any, for each of those vesting events.
+And that validating life must be one that has relevance for the vesting event. The textbook
+refers to it as causally related. But remember, the only real way to learn the rule against
+perpetuities is by practice and looking at examples. Before we do that, I have one other tip for you.
+The rule against perpetuities describes the perpetuities period as lives in being,
+and not later than 21 years thereafter. The 21 years part of the definition only comes into play
+when we have conditions that involve reaching a certain age or the passage of a certain period of time.
+For many conveyances, it will not be relevant. So I recommend that you put the 21 years off to the
+side and only bring it to the table if you need it for the particular vesting event at hand. It is
+much simpler to look at just these three steps. The contingent future interest, the vesting event
+for that interest, and the validating life or lives, if any, exist for that vesting event. Okay,
+let's look at some examples. In our first example, O conveys to A for life, then to A's children for
+their lives, remainder to B. We're not told whether A has children at the time of this conveyance.
+Our first task then is to identify whether there are any contingent future interests
+in a transferee. Analyzing this conveyance, we see that A has the present possessory interest,
+a life estate. The remainder in life estate to A's children is a contingent future interest.
+Because we know that A is alive, this interest in A's children is either a contingent remainder,
+if A does not have children yet, or if at least one child is born and known, then the remainder would
+be a vested remainder subject to open in life estate. So the answer is yes, we have a contingent future
+interest. The remainder to B in fee simple is an indefeasibly vested remainder, and it does not
+need to be analyzed under the rule. The next step in our analysis is we need to determine what is
+the vesting event for the contingent future interest, the remainder for life in A's children.
+When we look at the remainder for life in A's children and ask what is the contingency,
+or another way of putting that is what is the vesting event, we realize that it is being a child of A
+and closing the class. That leads us then to our third question, which is do we have a validating
+life for that vesting event? The answer to this last question is yes, A is a validating life. The
+class will close at the conclusion of A's life. In other words, we will know at the conclusion of A's
+life whether A had children and the identities of all of those children. Given that all of the
+contingent future interests in this conveyance are valid under the rule, what is the state of the
+title? A has a life estate. A's children have either a contingent remainder for life, if none are yet born,
+or a vested remainder subject to open for life, if at least one child is born. B has an indefeasibly
+vested remainder in fee simple. Let's look at our next example. O conveys to A for life, then to A's
+children for their lives, remainder to A's grandchildren. We're told that A is alive and
+has one child B and no grandchildren. First, let's analyze to identify any contingent future interests
+in a transferee. In analyzing this conveyance, we find that we have two contingent future interests.
+One in B, who has a vested remainder subject to open in life estate, and the other in A's grandchildren,
+there are none identified at this time, so it would be a contingent remainder in fee simple.
+Our second step is to identify what the vesting event is for each of these contingent future
+interests. The vesting event for B's vested remainder subject to open in life estate is simply
+closure of the class of A's children. The vesting event for the contingent remainder in A's grandchildren
+is closure of the class of A's grandchildren. Next, we need to analyze for the validating life or lives
+for each of these vesting events. In our search for validating lives for these vesting events,
+we find that yes, we do have a validating life for B's interest. A can serve as a validating life
+because at the end of A's life, the class of A's children will close, thus vesting B's interest.
+However, the contingent remainder in A's grandchildren is problematic. We do not have the requisite
+validating lives. Why? Because we would need to have a closed class of A's children to serve as a
+validating life for ascertainment of the identity of A's grandchildren. Because the class of A's
+children is open at the time of this conveyance, we do not have the requisite validating lives,
+and therefore the contingent remainder in A's grandchildren is void. And as you recall,
+if an interest is void under Rule Against Perpetuities analysis, it is considered void
+ab initio from the beginning as if the conveyance had been drafted without that interest.
+Any interest that is void under Rule Against Perpetuities analysis must be stricken from the
+conveyance. In our example then, the conveyance now reads to A for life, then to A's children for
+their lives. The language remainder to A's grandchildren has been stricken.
+So what then is the state of the title as a result of this conveyance? A has a life estate,
+B has a vested remainder subject to open in life estate, and O has a reversion.
+Let's reconsider this example, changing one fact. If instead of an intervibos conveyance,
+what if the testator, T, devises to A for life, then to A's children for their lives,
+remainder to A's grandchildren, and we're told that A pre-deceased T, would this change the result?
+The answer, of course, is yes, because the class of A's children is already closed when the conveyance
+became effective, which of course was on T's death. Therefore, the contingent future interest
+in the grandchildren will vest or fail no later than the death of A's last child to die. So in
+other words, the class of A's children, because it is a closed class under this example, can serve as
+the validating life for the remainder in A's grandchildren. Let's consider one final example.
+O conveys to A for life, then to A's children who reach age 21. We're told that at the time of the
+conveyance, A is alive and has one child, B, age six. Following our three-step approach,
+the first part of our analysis is to identify any contingent future interest in a transferee.
+That analysis reveals that, yes, B has a contingent future interest. B has a contingent
+remainder. B is a child of A, and there is a condition precedent. B must not only be a child
+of A, but B must reach the age of 21. Keep in mind that this vesting event, being a child of A and
+reaching age 21, applies not only to B, but to any other children that might be born of A. Generally,
+when we identify an interest in a conveyance, once we have a known taker,
+that identification is with reference to that taker. But if A has more children,
+obviously those children will likewise have a contingent remainder. Now we need to analyze
+whether we have a validating life for this vesting event. Yes, we have a validating life
+for this vesting event. That life is A, because at A's death, all of A's children will be known,
+and no later than 21 years thereafter, we will also know who among them has reached the age of 21.
+Note, this conveyance demonstrates an example of when we do, in fact, need that 21-year period
+in order to validate the contingent future interest. This interest in A's children who
+reach age 21 is valid because we will know at the conclusion of A's life, the validating life,
+who all of the potential takers are, and we will know no later than 21 years after A's death,
+who among those children have reached the age of 21. So what is the state of the title? A has a life
+estate, B has a contingent remainder, and O has a reversion. Why does the transferor have a reversion?
+Because it is possible that B's contingent remainder will not vest if B fails to reach the age of 21,
+and it's also possible that A may not have any children who satisfy that condition precedent.
+And now the time has come for the most important step in your mastery of the rule against
+perpetuities, and that is practice, practice, practice. Good luck.
+To be able to consider that it is possible that B Schader Guillenfeld is the sameRAC One of the
+ką Tie Players Siwa is defined. And what Stephanie has transformed?
+Together without a seal, visit youriloqu Separation and Orchest medication.
+You can get it to the same access part that we advise иногда, and get to their own
+instances where they need to take checker than testers and the other conditions.
+If Lite, put a checker at the Mon Zealand University,
+I said that the top 5 or 9 of the trainでき powert or not to discourage that we become
+for both accountability for Colombia and the Athleticени.
+You can, think, we will determine whether it's going to be a better sense.
+And that's what we can do.
+There is a very interesting thing.
+For the past two weeks, we've looked at consecutive possessory interests, present and future.
+Now we turn to concurrent possessory interests, also known as co-tenancies.
+We'll examine the characteristics of the different types of co-tenancies, how they are created, and how they may be terminated.
+We'll also look at the rules that govern the relations among co-tenants, and what remedies exist if not all of the co-tenants play by those rules.
+Let's take a closer look.
+Concurrent ownership is one of three types of ownership.
+The labels that we give to these types of ownership stem from the nature of the possessory rights of the owner or owners in question.
+Inseveralty, ownership refers to the right of one owner who has sole and exclusive possession.
+Consecutive ownership refers to an estate that is divided among rights of both present and future interest holders.
+These are the rights that we have studied for the past two weeks.
+Now we turn to concurrent ownership, in which there are concurrent rights of present or future possession.
+And here is the key feature of concurrent ownership.
+Each tenant in a co-tenancy has a possessory right to the undivided whole.
+More on that in a moment.
+Under the category of concurrent ownership, there are three types of co-tenancies.
+Tenancy by the entirety, joint tenancy, and tenancy in common.
+We will now look at the features that distinguish these three types of co-tenancy.
+When more than one person has a concurrent interest in property, how do we know what type of co-tenancy exists?
+Two steps are important in answering this question.
+One, we must look at the unities of title that existed when the co-tenancy was created,
+and we must look at the specific language that was used.
+We're going to next turn to a deeper understanding of what these two factors involve.
+The unities of title refer to characteristics that have to exist at the time the co-tenancy is created.
+I use the acronym TIP, T-T-I-P-P, to help you remember these five unities.
+The first is the unity of time, meaning that the interest must be acquired or must vest at the same time among the co-tenants.
+The unity of title refers to title that is granted by the same instrument or that arises through joint adverse possession.
+The unity of interest means that each co-tenant must have an equal and undivided interest of the same duration in the property.
+Unity of possession is the one unity of title that must exist for each of the three types of co-tenancies,
+and this means that each co-tenant has the equal right to possession of the undivided whole.
+The last unity of title refers to unity of person, and that simply means marriage.
+We'll now look at what unities must exist for each of the three types of co-tenancies.
+A tenancy by the entirety, which can exist only between married persons, is the co-tenancy that requires all five unities of title.
+Now, while only married persons can qualify to hold property as tenants by the entirety, it is not necessary that they do so.
+They may choose to hold property as joint tenants or tenants in common.
+A joint tenancy, which can exist between any two persons, requires only the first four unities of title, time, title, interest, and possession.
+The third type of co-tenancy, a tenancy in common, requires only the unity of possession.
+What that means is that tenants in common may acquire their interests at different times through different title instruments,
+and their proportionate share of the property may also be unequal.
+Of the three types of co-tenancies, only tenants by the entirety and joint tenants enjoy a right of survivorship.
+Looking at the two examples, in the tenancy by the entirety, we label the interest that the spouses have as each having an undivided one-half interest in the estate.
+In the joint tenancy, in our illustration, there are three joint tenants.
+They have equal and undivided interests, so we would label this as each having an undivided one-third interest in the estate.
+Let's see how the right of survivorship operates to affect those interests.
+Let's look first at the tenancy by the entirety.
+When one spouse dies, the other spouse survives to the whole, unencumbered by the deceased spouse's share.
+In other words, the surviving spouse does not receive anything from the deceased spouse.
+The deceased spouse's interest is extinguished at that spouse's death.
+With a joint tenancy, where we had three joint tenants, each with undivided one-third interest,
+when B dies, A and C survive to the whole, unencumbered by B's interest.
+Once again, A and C do not receive their increased share from B.
+B's interest is merely extinguished at his death, and now A and C each have an undivided one-half interest in the whole.
+Because a tenancy by the entirety exists only between married persons,
+when one spouse dies, the surviving spouse then holds title in severalty.
+With a joint tenancy, however, if there are more than two joint tenants to begin with,
+then when one joint tenant dies, the remaining joint tenants still hold the estate in a joint tenancy.
+In our example, A and C each have an undivided half interest as joint tenants.
+Now let's look at a tenancy in common for purposes of comparison.
+In our example, A, B, and C hold undivided one-third interest as tenants in common.
+If B dies, what is the result?
+Well, B's estate will hold an undivided one-third interest as a tenant in common with A and C.
+What if there is an intervivos transfer of the interest of one of the tenants in common?
+If C sells her interest to D, D will hold an undivided one-third interest as a tenant in common with B's estate and with A.
+The creation of a co-tenancy depends not only on satisfaction of the required unities of title,
+but also on the inclusion of the appropriate language.
+With a tenancy by the entirety, some jurisdictions have a statutory presumption
+that the creation of a concurrent estate in spouses creates a tenancy by the entirety.
+In such jurisdictions, this is the default position unless contrary language is included in the grant.
+It is good drafting policy nonetheless that when a tenancy by the entirety is intended,
+that the appropriate terminology should be used in the grant.
+Please note that spouses can choose to hold property instead as joint tenants or tenants in common,
+so when drafting for married persons, it's essential that you be crystal clear what the client's intentions are
+and that the conveyance be drafted with the appropriate language.
+Creation of a joint tenancy must include wording that indicates an unequivocal intent to create a true joint tenancy.
+Examples of such language include in joint tenancy with right of survivorship,
+or as joint tenants with rights of survivorship.
+Without this unequivocal language, the modern-day presumption is that a co-tenancy is a tenancy in common.
+Because all co-tenants have a right to possession of the undivided whole,
+we label their interests as fractional interests in the undivided whole.
+A key question is, does a co-tenant have the right to unilaterally convey his or her fractional undivided interest?
+The answer to that question, if it's a tenancy by the entirety, is no.
+Neither spouse has the right to unilaterally sever or convey their fractional interest.
+With a joint tenancy, the answer is yes.
+A joint tenant can unilaterally convey the interest, but the consequence of this is significant.
+What this conveyance does is destroy the survivorship right of that severing tenant.
+So the tenant who unilaterally conveys gains with certainty the value of that fractional share,
+but loses the possibility of surviving to the whole.
+With a tenancy in common, yes, all tenants in common may unilaterally convey their fractional interests.
+You now have an overview of how each co-tenancy may be created.
+It's time to look at how each may be terminated.
+If you recall, a tenancy by the entirety may not be unilaterally severed by either spouse.
+To terminate a tenancy by the entirety, it must be by a mutual written agreement or by divorce
+or by execution on a judgment by a joint creditor of both spouses.
+One of the advantages of a tenancy by the entirety is that the entirety interest is not vulnerable
+to the liabilities of only one of the spouses.
+In order for a creditor to execute against a tenancy by the entirety,
+it must be a joint creditor of both spouses.
+To terminate a joint tenancy, that can happen by unilateral severance where there are only two joint tenants.
+However, if there are more than two joint tenants, the remaining joint tenants will continue to hold their interest
+with rights of survivorship after unilateral severance by one.
+The other means of terminating a joint tenancy is partition, and that can be a voluntary partition
+that is accomplished by the joint tenants through seeking a resurvey of the property
+and dividing up the property in kind, meaning each joint tenant ends up with a parcel of equal value,
+or it may be impractical to partition in kind,
+and the joint tenants may instead choose to sell the parcel and divide the proceeds.
+When there is disagreement among the joint tenants, then an action in partition may be sought through judicial resources,
+and depending on the circumstances, the court may order a partition in kind or a partition in sale.
+The Delfino case that we'll examine this week looks at those issues.
+And last, the tenancy in common likewise can be terminated through a partition, either voluntary or judicial.
+Now let's apply what you have learned.
+These examples compare a joint tenancy with a tenancy in common.
+In the joint tenancy, we're told that A, B, and C hold Blackacre as joint tenants,
+and that C has conveyed his interest to D.
+We are to determine the state of the title.
+Recall that when C conveys his interest to D, that severs the joint tenancy as to C.
+So the result is that A and B continue as joint tenants to an undivided two-thirds interest in Blackacre,
+but they are now tenants in common with D as to his undivided one-third interest that results from the conveyance that C made.
+Let's look at the tenancy in common and compare.
+A, B, and C hold Blackacre as tenants in common.
+C conveys his interest to D.
+What is the state of the title?
+In this scenario, A, B, and D each have an undivided one-third interest as tenants in common.
+C's undivided one-third interest as a tenant in common was merely transferred to D, who holds an interest of the same nature.
+One need only observe a preschool class to be reminded that problems with sharing are inherent in human nature.
+Co-tenancy disputes are cases in point.
+Next, we'll look at the question of sharing not only from the standpoint of the goodies or the benefits connected to co-owned property, but also the burdens.
+Without doubt, the most challenging aspect of co-ownership, both in theory and in practice, is that each co-owner has an equal right to possession of the whole.
+How can that possibly work if co-tenants have different and conflicting notions about property use?
+Due to the inherent difficulties of the right to equal possession of the whole, the law favors agreements for sorting out the sharing of benefits and burdens among co-tenants.
+Where there is a valid agreement or contract between or among co-tenants, the court will respect that, and that will supersede what the rights of the co-tenants would otherwise be under the common law.
+Next, we'll look at what the common law provides with respect to a co-tenant's right to share benefits and duty to share burdens.
+With respect to sharing the benefits of co-owned property, there are basically two categories.
+One has to do with rent or value received from third parties, in other words, from persons or entities who are not co-owners,
+and the other has to do with profits generated by a co-tenant's own labor or business activities or the value of possession from a co-tenant who is in sole possession.
+Let's look first at rent or value coming from third parties.
+The answer is yes, absent agreement, co-tenants have a right to share in rent or value from third parties,
+and they share in proportion to whatever their fractional interest in the property happen to be.
+With respect to profits generated by a co-tenant's own labor or business activities or the value of that co-tenant's sole possession,
+the answer is no, co-tenants do not have a right to a share unless there is an agreement that provides otherwise,
+or the other co-tenants have been ousted by the co-tenant in possession.
+In other words, they've been prevented from enjoying their rights to equal enjoyment of possession of the property.
+Also, there are exceptions when a co-tenant has depleted natural resources from the property.
+What about sharing the burdens associated with co-owned property?
+Must a co-tenant share the burden of taxes and governmental obligations?
+What about mortgage payments?
+The answer is yes, absent an agreement to the contrary.
+Must a co-tenant share the cost of repairs and improvements on a co-owned property?
+The answer to these questions is more complicated.
+Under the traditional common law approach, a co-tenant was not required to share the cost of a repair.
+Instead, the co-tenant who paid for the repair was entitled to a credit,
+and the credit would be paid at such time as there was an accounting for other benefits
+or the property was sold and the proceeds distributed.
+Under the more modern view, if a repair is of the type that would be viewed as objectively necessary,
+and the co-tenant who intends to make the repair gives the other co-tenants advanced notice of the necessity of the repair,
+then the co-tenant who has paid the cost may seek contribution from the other co-tenants.
+With respect to improvements, a co-tenant who voluntarily makes an improvement of co-owned property
+is not entitled to seek contribution for that improvement.
+The rationale is that an improvement is a subjective expenditure.
+The consequence of expending funds to make an improvement is this.
+The co-tenant who makes the improvement is entitled to any appreciated value,
+either in the overall value of the property or in the rent that can be charged.
+However, if the improvement turns out to decrease the value of the property,
+that tenant is also responsible for the diminution in value.
+So let's take an example.
+Let's say that a co-tenant decides to put on a room addition of a residence that's being rented out for the rental income.
+Because of the addition, the residence can now be rented for an additional $100 a month.
+If the improving co-tenant can show that this increase in rental value is due to the improvement,
+the improving co-tenant will be allowed the additional $100 a month
+on top of what his or her share would be of the rents normally collected.
+If, on the other hand, a change is made to a property,
+let's say that one of the bedrooms is now converted into a hot tub room,
+and the co-owners are now getting less rent for the property because it has fewer bedrooms,
+then that diminution in the rental value will be deducted from the portion of the co-tenant
+who converted the bedroom into a hot tub room.
+What are the remedies available to co-owners with respect to sharing the benefits and burdens of co-owned property?
+If a co-tenant wishes to collect his or her share of a benefit, such as rents from third parties,
+the action that is brought is one for accounting.
+If, instead, a co-tenant wishes to collect the share of cost of taxes or a mortgage payment from other co-tenants,
+the action is one for contribution.
+If there is damage to property interest due to the actions or failure to act of other co-tenants,
+the action that is brought is one for waste.
+And if a co-tenant wishes to separate the interests or terminate the co-tenancy,
+typically the action that is brought is one for partition.
+Now it's time to test your knowledge and to attempt the multiple-choice questions that are posted.

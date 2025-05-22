@@ -1,0 +1,113 @@
+of future interests. The contingent remainder, the vested remainder, and the executory interest.
+A contingent remainder occurs when the transferee is either not ascertainable,
+or the vesting is subject to a condition precedent, or possibly both. With a vested remainder,
+you know who the transferee is, and there is no condition precedent. The executory interest is
+defined as a divesting interest on a condition precedent. Now, I realize that this all just
+sounds like definitions, and that you need something more concrete to be able to recognize
+these interests when they appear in a conveyance. I'm now going to give you a step-by-step approach
+to help you do that. Let's look first at remainders. If you recall, the general classification of
+remainders includes both contingent remainders and vested remainders. In either category, to be a
+remainder, there must be something for the remainder to remain after. That something is a prior
+supporting estate in a transferee. That will be the present possessory interest. A prior supporting
+estate must be a lesser estate than a fee simple absolute or a fee simple defeasible. Why? Because
+a fee simple absolute or fee simple defeasible is of potentially infinite duration. In order to be a
+prior supporting estate, it must be possible for a remainder to become possessory at the natural
+expiration of that estate. Let's look at some examples that illustrate the concept of a prior
+supporting estate. In our first conveyance, O conveys to A for life, then to C if C graduates law
+school. We look for the present possessory interest, and that is a life estate in A. What remains after
+is a contingent remainder in C, which contains the condition precedent if C graduates law school.
+It is possible in this conveyance that at the natural expiration of A's life estate, in other
+words, at A's death, that C's remainder interest could become possessory if in fact C has graduated
+law school. In the next conveyance, to A for the life of B, then to C, what C has is a vested
+remainder. We know who C is, and there is no condition precedent. The prior supporting estate to A for the
+life of B is a life estate per autra B, a life estate measured by the life of B. At the natural conclusion
+of that life estate per autra B, C's vested remainder will become possessory. In the third example, to A for five
+years, then to B's children, what A has is a term of years. We haven't studied this yet. It is one of
+the leasehold estates. Then to B's children is a remainder, and what type of remainder it is depends
+on facts that are not apparent on the face of this conveyance. If B is dead and all of B's children
+are known, then it's a vested remainder. If B is alive and has no children yet, it's a contingent
+remainder because we have an ascertainment issue. Now for the sake of comparison and contrast, let's
+consider examples where there is no prior supporting estate for the transferee's future
+interest. In the first example, O conveys to C if C graduates law school. Note, O has retained the
+present possessory interest, and if C graduates law school, C's future interest divests O's present
+possessory interest. In the next example, O conveys to A, but if A dies before B, then to B. In this
+example, it's a transferee that has the present possessory interest, but note if A dies before B,
+A's interest is actually divested, and B's interest becomes vested in possession. So rather than there
+being a present possessory estate in a transferee, that concludes at the natural expiration of the
+estate, in this instance, A has a fee symbol subject to executory limitation that could be of infinite
+duration. But if the condition subsequent happens, A dying before B, then B's interest, which we call
+an executory interest, shifts and divests A. So in these examples, we do not have remainders, we have
+executory interests, and as we'll see later in this video, the interest to C in our first example is also
+an executory interest, but it behaves differently than the one in B in our second example. What is
+the difference? The executory interest in C will divest the transfer or, whereas the executory
+interest in B divests another transferee. When analyzing a conveyance that contains a future
+interest in a transferee, I recommend that you first analyze it to determine whether the interest is a
+remainder. Let's look at this example. To A for life, then to B if B reaches the age of 25. The first
+question you should ask is, where is the present possessory interest, and does it qualify as a
+prior supporting estate? The answer to the first question in this example is yes. The present
+possessory interest is a life estate in A, and it qualifies as a prior supporting estate. Once we know
+that we have a prior supporting estate, we also know that what follows is a remainder interest in the
+transferee. Now we have to determine what kind of remainder interest. I recommend that you next look
+at whether there is an ascertainment issue and whether there is a condition precedent.
+In this particular example, there is not an ascertainment issue because we know the taker.
+The taker is B. However, when we look at the language of the conveyance, we see that there
+is a condition precedent. What is a condition precedent? A condition that must happen before
+the taker's interest vests in possession. The condition precedent in this conveyance is B reaching
+the age of 25. Because there is a condition precedent and there was a prior supporting estate,
+B has a remainder known as a contingent remainder.
+Let's look at another example. In this conveyance, O conveys to A for life, then to B. Of course,
+our first question is do we have a prior supporting estate? The answer is yes, we have a life estate
+in A, that is the present possessory interest, and it qualifies as a prior supporting estate.
+Next, we analyze to determine whether this is a contingent remainder. Remember that the two
+questions we ask are whether there's an ascertainment issue and whether there is a condition precedent.
+In this conveyance, the answer to both questions is no. B is a known taker, and there is no
+condition precedent to B's interest vesting. Thus, what B has is a remainder known
+as a vested remainder.
+Now that you have the general guidelines for distinguishing a contingent remainder from a
+vested remainder, it's time to take a closer look at both of these categories to understand the
+different types of contingent remainders and vested remainders that can occur. In the category of
+contingent remainders, any one of three circumstances will yield a contingent remainder, either an
+ascertainment issue, a condition precedent, or both. The example to A for life, remainder to A's children,
+the remainder to A's children is contingent because at the time of the conveyance we're told
+that A has no children, and thus we have an ascertainment issue. In the second example,
+to A for life, remainder to B if B survives A, the remainderman B is ascertained. However,
+there is a condition precedent. In order for B's remainder to vest, there is a condition precedent
+that B survives A. In the last example, to A for life, remainder to A's children who survive A,
+we have both circumstances, both an ascertainment issue and a condition precedent. We're told that at
+the time of the conveyance, A has no children, which is the ascertainment issue, and there is also a
+condition precedent that those children, if A has any, must survive A for that remainder to vest.
+Now let's return to the examples where there is no prior supporting estate for the transferee's
+future interest. These are known as executory interests. In the example O conveys to C if C
+graduates law school, the present possessory interest is retained in O, and the interest in C
+is known not only as an executory interest, but as a springing executory interest. In the second example,
+O conveys to A, but if A dies before B, then to B, the present possessory interest in A is known as a
+fee symbol, subject to executory limitation, and B's interest is known as a shifting executory interest.
+The definition of an executory interest is that it is a divesting interest on a condition
+precedent. Now I just mentioned that there are two types of executory interests, springing and
+shifting. It's fairly easy to see from our two examples how an executory interest is a divesting
+interest. So it becomes possessory not at the natural expiration of a prior supporting estate,
+it becomes possessory by divesting another present possessory interest, either a present possessory
+interest in the transferee or a present possessory interest in a transferee. It's a springing
+executory interest when it springs back and divests a transferee, and it's a shifting executory interest
+when it shifts over and divests another transferee. Now the definition, a divesting interest on a
+condition precedent, many students find confusing. Let's look at the more straightforward example of
+this. O conveys to C if C graduates law school. If we look at the wording to C if C graduates law
+school, the wording if C graduates law school looks like a condition precedent. So it's easy to
+understand in that example how the springing executory interest is a divesting interest on a
+condition precedent. What becomes confusing is the circumstance of the shifting executory interest,
+and why is that so? If we look at the conveyance O conveys to A, but if A dies before B, then to B,
+what we recognize in that conveyance is the condition subsequent. We learned when we study the feasible
+fees that this is a fee simple subject to executory limitation because of that condition subsequent,
+but if A dies before B. So if this conveyance contains a condition subsequent, how can we say
+that the shifting executory interest is a divesting interest on a condition precedent? Here's the
+answer. When we label interest, we always go from left to right, but if A dies before B is called a
+condition subsequent because it refers to the preceding interest, that defeasible fee in A. It's the
+condition that happens after that can divest A's fee simple subject to executory limitation.
+But consider that same condition, but if A dies before B, while it operates as a condition subsequent
+that can take away, divest A's interest, that same condition operates as a condition precedent to B's
+shifting executory interest vesting. However, the label is condition subsequent because it refers to
+the preceding interest. So while we never call that a condition precedent in the operation of B's
+shifting executory interest, what B has is a divesting interest on a condition precedent. The condition
+subsequent that takes the interest away from A and vests it in B. Congratulations, you've now learned
+all of the basic rules to recognize and work with future interests. I recommend that you watch this
+video several times.

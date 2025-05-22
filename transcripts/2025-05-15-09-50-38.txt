@@ -1,0 +1,504 @@
+In our last discussion, we learned about the different sources of legal authority, and
+we learned that the pool of available legal authorities is vast.
+At the same time, we know that our mission for a research assignment is to locate primary,
+mandatory authority for our legal issue.
+We learned that the first step of any legal research assignment is to develop a research
+plan.
+We learned that if you craft a thoughtful research plan at the outset, the research becomes
+less intimidating because your plan will help you hone in on the legal issue as well
+as the body of law you will need to search to find your answer.
+And now that you have these details in place, you're likely eager to begin your search.
+Today we will discuss the second step in a research assignment, consulting secondary sources
+to address your issue.
+But before we talk about the next step in the legal research process, let's take a couple
+of minutes to discuss how and where legal information is published and retrieved.
+Before you dive into your research, it's important to understand how legal information is published
+and stored.
+Most, if not all, of the authorities you will research are available from a variety of sources.
+They may be published in print, electronically, or both.
+Regardless of where it is found, keep in mind that legal information is typically organized
+by type of authority, jurisdiction, and source of law.
+As you can imagine, secondary sources or commentary on the law are printed in their own volumes separate
+and apart from primary authorities.
+Furthermore, different sources of law from different jurisdictions are printed in different compiled
+volumes of books.
+For example, let's say you want to find a court opinion from Pennsylvania.
+You will find court opinions from Pennsylvania in one set of books, called reporters, while
+Pennsylvania statutes would be found in a compiled volume of a different set of books.
+And if you wanted to pull a court opinion from Arizona, you would visit a different set
+of reporters than those housing the Pennsylvania court opinions.
+Electronic research tools are organized similarly.
+Some sources, like the United States Supreme Court website, will provide access to only one
+source of law from one jurisdiction.
+In this example, Supreme Court opinions, which are the court opinions from the highest court in
+the federal system.
+Other services provide access to a wide range of authorities.
+Those that do typically subdivide their contents, much like the print sources, into individual
+databases organized by type, jurisdiction, and source.
+Retrieving legal authority.
+In practice, you will be able to find print sources in a few different places depending on
+the type.
+Many law firms and organizations have collections of print sources from the jurisdiction commonly
+practiced in.
+For example, when I practiced law in a law firm, we had reporters with state court opinions on
+the shelves in our firm.
+We also had the state statutes in print.
+Furthermore, you can often access print sources from a local law school or courthouse.
+In today's age, however, many legal authorities are widely accessible online.
+The content and reliability of each site varies.
+For the most part, lawyers consult specialized search engines to complete their research.
+At the top end of the commercial legal research market are Westlaw and Lexis Advance, which have
+been around for decades and are designed to meet the needs of researchers across jurisdictions
+and topic areas.
+Both have a good variety of primary and secondary sources.
+A recent new player into this sphere is Bloomberg, which strengths lie in its business and news
+platforms.
+All of the top end research services feature a breadth of sources and sophisticated search algorithms
+to support search processing.
+Other legal research platforms, including FastCase and Casemaker, have less content and fewer
+bells and whistles than the higher-end services.
+Nevertheless, you may find yourself using them for specific content while you are a student
+with us or at some point in your career.
+While you are students at Syracuse Law, you have free access to the big three services, Lexis
+Advanced, Westlaw, and Bloomberg.
+Because we all have common access to the commercial sites, our video lectures in the coming weeks will focus on electronic
+research and specifically research in Westlaw and Lexis Advance.
+While Bloomberg is certainly a new and big player in the marketplace, the other two services have
+time-tested reliability and offer the breadth of sources we will need for our searches.
+Nevertheless, I encourage you to visit all of the services at different times for different
+purposes so you can get a sense as to the range of options available and the functionality of each.
+Furthermore, print versions of legal sources have had a massive impact on the research process and
+therefore I will, from time to time, reference them.
+Print sources are by no means obsolete.
+If you know that you will utilize print sources or otherwise have a particular interest in learning
+about conducting research in print, check your textbook.
+You can also speak with your professor, who should be able to direct you to additional resources
+in this regard.
+Now that you have a well-crafted research plan, it's time to get started on your research.
+The second step in your research process is to consult secondary sources.
+As you recall, secondary sources are not the law.
+Instead, they provide commentary on the law.
+Since you know that your mission for your research project will be to locate primary, mandatory authority
+on your issue, you may be wondering why consulting secondary sources is the second step on the list.
+Why we use them
+Have you ever consulted a study guide for class, whether here in law school or for your undergraduate
+education, something that helps to explain the overlay of the subject in a more succinct and relatable way?
+As you tackle an entire subject, perhaps you find the study guide, now or in the past, would be giving
+you a big picture view of the topic area and how all of the pieces work together. A secondary source
+can serve the same purpose.
+Furthermore, have you ever read a document that uses a lot of technical jargon or lingo,
+perhaps a manual or an insurance policy, and then, because it was not exactly clear,
+you searched for the document on the web in the hopes that you could find a summary of what you just read?
+Similarly, a secondary source can take a single document or a slice of a subject area and explain
+the small details beautifully and in a way that could take you hours to understand on your own.
+Finally, another advantage of a secondary source is that it will direct you to primary sources for your
+area in your jurisdiction. They will provide you mandatory authority in a relatable, understandable way.
+You can then use these references to pull the primary authorities. And as you will see,
+having a primary source citation can help you narrow your search and pool of available sources exponentially.
+With that said, if you are already familiar with the area of law you are researching, you may skip this step.
+But if the area of law is new or unfamiliar to you, my unequivocal recommendation is that you save time and
+frustration. Start with a secondary source. What they are. So now that we've established some reasons to
+consult secondary sources. While these sources are all available, keep in mind that the usefulness of a
+particular secondary source depends upon the governing law and your client's legal issues and facts.
+Keep going to be how exciting works.
+thatphere
+98
+98
+99
+100
+100
+Treatise
+A treatise is a single book or multi-volume section that provide you mandatory authority
+in a relatable, understandable way.
+You can then use these references to pull the primary authorities.
+And as you will see, having a primary source citation can help you narrow your search and
+pool of available sources exponentially.
+With that said, if you are already familiar with the area of law you are researching, you
+may skip this step.
+But if the area of law is new or unfamiliar to you, my unequivocal recommendation is that
+you save time and frustration.
+Start with a secondary source.
+What they are
+So now that we've established some reasons to consult secondary sources, let's talk
+about common examples of the characteristics of each.
+While these sources are all available, keep in mind that the usefulness of a particular
+secondary source depends upon the governing law and your client's legal issues and facts.
+Legal Encyclopedias
+The first source we'll discuss is Legal Encyclopedias.
+Legal Encyclopedias are similar to traditional multi-volume set encyclopedias you may have used
+in grade school, except that they are limited in scope to legal subjects.
+They are a great way to get general background information on an area of law, and they are typically
+organized alphabetically by topic.
+There are two national encyclopedias, American Jurisprudence 2nd Edition, Amjur 2nd, and Corpus
+Juris Secundum, CJS.
+Both of these address and provide citations to federal and state laws.
+If you are researching state law, you will want to see if the particular state has its own
+legal encyclopedia, as it would contain summaries and primary source references for just that state.
+Examples include New York Jurisprudence, Maryland Law Encyclopedia, and Michigan Law in Practice.
+Treatise
+A treatise is a single book or multi-volume set of books that have a narrower focus than legal
+encyclopedias.
+While legal encyclopedias give a general overview of a broad range of topics, treatises provide
+in-depth treatment of a single subject, like torts or contracts.
+Not only will it provide a general state of the law for all of the major topics in that
+subject area, a treatise may discuss the history of the development of the law in that area,
+analyze the relationship of subjects to one another, and discuss policy reasons for the
+rules.
+An example includes Dobbs' Law of Torts, 2nd.
+Practice Manual
+A practice manual will provide a detailed analysis of an area of law in a specific court or jurisdiction.
+These differ from treatises in one primary respect.
+They focus on practical applications of the law and often include tools for practicing attorneys,
+like sample complaints or a checklist for filing a matter at court.
+Practice manuals are usually written by practitioners or scholars specializing in that jurisdiction.
+They are organized by topic and can be one volume or many.
+An example is Texas Practice Contract Law
+American Law Reports, ALR
+American Law Reports, or ALR, is a huge multi-volume set of books full of articles called annotations.
+The annotations provide a summary of law on a narrow topic in depth, as well as a table of relevant
+primary authorities organized by jurisdiction, which can be quick references for finding authority
+across jurisdictions.
+These are especially helpful at the beginning of your research to give you an overview of a topic.
+The ALR books are available for federal law, and there's also a compilation covering the states.
+Legal Periodicals
+The final source I will touch on is Legal Periodicals.
+These are sources that provide a collection of articles discussing the law.
+This includes law reviews and commercially available legal magazines.
+Law review articles are thoughtful treatments of legal issues written by law professors, judges, practitioners, and even students.
+They generally provide in-depth treatment on a single subject, though they sometimes include background,
+which gives a general overview of the topic that can be helpful.
+Commercially published magazines, such as the National ABA Journal, and local bar journals and newspapers,
+such as the Los Angeles Lawyer Magazine, are legal magazines published by state or local bar associations,
+which are written by practitioners or judges practicing in that area.
+These provide short articles, which are focused more on describing legal developments than on analysis.
+Chapter 8 of your textbook discusses other secondary sources, including restatements, loose-leaf services,
+uniform acts and model codes, and jury instructions.
+You will likely use different secondary sources at different times throughout your career,
+and I encourage you to become familiar with them.
+The key for you at this point is to know that they exist and be able to recognize them for what they are.
+Secondary sources.
+As I've mentioned, novice legal researchers can mistake secondary sources for primary,
+a mistake you don't want to make because secondary sources are never mandatory for your issue.
+Now that we've covered a handful of secondary sources in some detail,
+see if you can identify the answers to the following questions.
+Thank you.
+Thank you.
+How to research them.
+As you can imagine, secondary sources are available in either print or online.
+If you are planning to perform research within a secondary source using books,
+and you are lucky enough to have the citation you need to access,
+you would just go to the correct source and page.
+If not, your first step would be to identify which of the print sources are available to you,
+and which ones will be most helpful to you as you research your topic.
+Most secondary sources, other than legal periodicals,
+have indexes at the back of their volumes, which are organized by subject,
+and then, within each larger topic area, subtopic.
+If you know which subject you want to research,
+you would then go to the index and look it up to find the references to that subject within the larger text.
+Start by using some of the search terms that you identified in your research plan as you search for your subject.
+You could also scan the table of contents, if available, in the beginning of each relevant subject volume.
+If you plan to research secondary sources online, you are in luck.
+Many of the referenced secondary sources are available on the major legal research platforms.
+Secondary source material can be retrieved in a few different ways from the online legal research platforms.
+You can retrieve a document directly if you have its citation.
+You can browse the sources by type or subject.
+Or you can perform a keyword search.
+Search by citation.
+First, as always, you can retrieve the document from an online source if you have the relevant citation.
+You would merely enter the citation into the search bar of the research site and hit go or enter.
+You would not need to apply any of the filters as long as the citation is relatively strongly constructed.
+In that case, the search engine will recognize the source for what it is and immediately pull open the document.
+Search by type or subject.
+Furthermore, even if you don't have a citation, you can find secondary sources by browsing the secondary source by type or subject area.
+If you are going to search by type, start by identifying the relevant jurisdiction you want to search and filter your secondary source options through that.
+Let's go back to our example problem from last week to see how this works.
+As you may recall, we have a client, Claudia Jackson, who wants to know if she can hold her landlord liable for breach of the warranty of habitability in Missouri.
+Since I'm not familiar with the topic, I would want to start my research by consulting secondary sources first.
+To browse through the secondary sources available for Missouri law using West law, you would first click on the state materials tab from the home page.
+Click on Missouri, scroll down and click on All Missouri Secondary Sources from the next screen to view a list of all secondary sources covering Missouri law.
+The process is similar in Lexis from the home screen, select the state tab to view a list of all states, click on Missouri, and then scroll down and click All Missouri Treatises, Practice Guides, and Jurisprudence to see the list of Missouri Secondary Sources.
+Once you are in this database of sources, you can click on one of the sources and browse the topic areas available within it.
+Or you could perform a keyword search of one or all of the secondary sources in this database.
+We'll discuss this process in just a few minutes.
+Furthermore, another way to search secondary sources is by general subject area.
+If you want a broad overview of an area of law, generally, that's not specific to one jurisdiction, you can browse secondary sources by subject area in either West law or Lexis.
+Both of these platforms have categorized their secondary sources by over 40 topics, such as contracts law, criminal law, and real property law.
+To navigate to this screen, you would start from the main screen and click Secondary Sources.
+Then scroll down and click on the topic area in West law or practice area in Lexis.
+If you click on the topic area, you would then have to drill down through sub-subjects until you find the topic you are looking for.
+If you browse the secondary sources available on both West law and Lexis, you will see that they vary widely because they each produce or own publishers that produce different titles.
+I encourage you to utilize more than one platform when you conduct your secondary search so you can get a sense of the variety of materials available on each.
+Another method by which to search secondary sources in either of the major online research platforms is through keyword search.
+A keyword search is a simple process that consists of typing terms into a search bar and then scanning through the results.
+The terms used may be as simple as a single word or as complex as a complete sentence.
+No matter which service you use, there are generally two methods to complete a keyword search.
+Through a natural language search or a terms and connectors search.
+Natural language search.
+If you have ever used Google or another popular search engine, you are familiar with the natural language search.
+This is where you just enter a term or phrase and the search engine does the work for you,
+returning a set of documents it believes are relevant to your question or search.
+Similarly, through conducting a natural language search on one of the major legal research platforms,
+you are relying on the search engine's algorithm to read the words you've entered and produce relevant information.
+This is often a good place for you to start in a search engine because it will generally return many results
+and push general, frequently cited sources toward the top of your results.
+However, keep in mind that natural language searches often also return thousands of results,
+or results not precise enough for a legal researcher.
+For this demo, let's go back to our research text and review the question presented there for the research problem.
+Under North Carolina law, does the illegality defense prevent a court from enforcing a partnership agreement
+where the partnership was not created for an illegal purpose,
+but the partners later engaged in illegal acts in performing the business affairs of the partnership?
+Let's say we'd like to launch a keyword search for this question
+because we know nothing about partnerships and the illegality defense in North Carolina.
+Before we enter our keywords,
+we'll want to be sure we've filtered out
+into our search for the correct databases
+so we can ensure our search is sufficiently narrowed to the pool of relevant authority for our issue.
+This includes selecting the relevant jurisdiction,
+North Carolina,
+and or the type of authority or document you want to search.
+Here, secondary sources.
+Just remember,
+any time you perform a keyword search
+in the major commercial service platforms,
+you must double-check your database selections
+to ensure you've adequately narrowed your pool of sources.
+So, returning to our question,
+let's say we formulate a natural language search
+of contract illegality defense
+to start
+or perhaps even more specific
+partnership agreement illegality defense.
+Take a break
+and go run the searches identified in either Westlaw or Lexis
+and see how many sources you come up with.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+When I ran this search, both searches returned over 10,000 results for me in Westlaw.
+In Lexis Advance, the numbers were more manageable.
+For Contract Illegality Defense, I got around 579 hits.
+For Partnership Agreement Illegality Defense, I got 19 results.
+Because that seems like a reasonable number, I would probably start there.
+But for those of you who got 10,000 results on Westlaw, or even 500-plus results on Lexis Advance, that may have felt overwhelming.
+You will have a lot of results to sift through.
+Furthermore, don't forget, anytime you are running a natural language search, you are relying on the search algorithm to return and order the results it believes are the most relevant.
+What if the most helpful authority is actually number 472 on the list?
+Terms and Connectors Search
+Well, a Terms and Connectors Search, or Boolean Search, is also available.
+Through this process, a legal researcher can take greater control of her search by specifying which exact words the document should or should not contain,
+as well as the words' relationships to one another.
+Running a Terms and Connectors Search is a great way to narrow your search if you find you've gotten too many results.
+And furthermore, depending on how you craft your search, it may produce results that are much more precise.
+To run a Terms and Connectors Search, you specify the relationship through logical symbols or operators,
+because they operate upon the basic search function to modify the forced algorithm.
+You can usually find a list of the available operators by clicking on the Advanced Search link,
+which is found at or near the top of the right corner of the search bar in both Westlaw and Lexis Advance.
+Remember that if you run a Terms and Connectors Search, you want to make sure you capture all variations of the terms
+to ensure that you don't unnecessarily narrow your search.
+Using the OR feature, the asterisk, or the exclamation point root expander
+will help you to broaden the search beyond initial search terms you may have used.
+So let's try an example.
+Using the same contract illegality problem referenced before, we could build a more specific Terms and Connectors Search
+for North Carolina secondary sources using the following operators.
+The translation of this search is that the document must contain the word contract or agreement,
+and that term must appear within the same paragraph as a word that has illegal as its root,
+which must appear within the same sentence as a word that has perform at its root.
+Again, a key step before running this search will be to select the relevant jurisdiction and source.
+Here, choose North Carolina and secondary sources.
+Take a minute to run this search in Westlaw or Lexis Advance and check out your results.
+When I ran the search in Westlaw, I returned 30 results.
+In Lexis, I had 29 results.
+This is much more manageable than our initial natural language search.
+You can always modify your operators and terms to further expand or narrow your search.
+I encourage you to utilize both natural language and Terms and Connectors searches
+and experiment with the different operators as you construct searches.
+Conveniently, note that any time you incorporate operators into your search,
+the search bar will generally recognize the search as a Terms and Connectors search.
+If your search bar contains only words and no operators,
+then the search engine will default to a natural language search
+and utilize the built-in algorithm to determine the results it believes are the most relevant.
+Now that you know the two different search methods for searching the typical legal search engines,
+it's time to put your knowledge into practice.
+Take a few minutes to complete the following exercise before you move on.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Hopefully you found some helpful information as a result of your search.
+I ran a natural language search in both search engines using implied warranty of habitability
+as my phrase.
+I also ran a terms and connectors search that limited the number of results I received.
+There's no exactly right answer to the terms you would use to search.
+It's a matter of trial and error.
+The key is that through your searches you begin to feel comfortable with your grasp on
+the law.
+For example, you should have determined through your search that there is indeed a claim for
+warranty of habitability and its breach in Missouri.
+In Lexis, I found a helpful publication of the Missouri Bar called Missouri Tort Law
+Section 13.47, which talked about the ways a tenant could utilize the warranty of habitability
+and included some references to Missouri case law.
+I also found a great breakdown of the cause of action, including potential elements, on Westlaw
+under 36 Missouri Practice Series Section 23.3.
+It even provided me with that four-element test and a case site for that test, Keodini v. Fox.
+Make sure you get in the habit now of taking good notes on your research trail.
+You will want to make note of search terms you used, sources you consulted, and relevant
+material from each.
+The good news is that the major legal research platforms track your research history and
+the documents you viewed, typically for a period of several months.
+These are found under the History tab toward the top right of your screen on the research platforms.
+While you should certainly use these to refresh your recollection, and for moments where you
+may not have taken copious notes, get into the habit now of tracking your search terms, documents
+retrieved, and the information gleaned therefrom.
+This will save you time and headaches in the long run.
+At some point during your secondary source search, you will feel as though you have a pretty good
+overview of the subject area.
+With that said, remember to never rely on a secondary source's analysis of a primary authority.
+You must always review the underlying primary authorities and conduct your own analysis, relevant
+to the facts of the issue you are researching.
+Once you feel like you have a good enough grasp on the material and a solid lead on relevant
+primary sources, you will be ready to move on to step three of the research process, drafting
+a preliminary outline and beginning your primary authority research.
+If all has gone well in your secondary source research, you should have a good background
+of the law on your legal question.
+You should even have some primary authorities to consult as you move along in your research.
+But before you move on to pull those primary authorities, you should draft a preliminary outline
+of the major issues you identified in your research.
+For example, in my research for our client, Claudia Jackson, with respect to her warranty of habitability claim,
+I mentioned earlier that I had found a state-specific secondary source that laid out a four-element test
+for an implied warranty of habitability claim.
+The Missouri Practice Series section stated that, in order to state a cause of action for breach
+of an implied warranty of habitability claim, the tenant must prove, one, entry into a lease
+for residential property, two, the subsequent development of a dangerous or unsanitary condition
+on the premises materially affecting the life, health, and safety of the tenant, three, reasonable
+notice of the defects to the landlord, and four, subsequent failure to restore the premises to habitability.
+Take a minute to sketch out what you believe would be a solid preliminary outline for the warranty
+of habitability claim based on the law we found.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Behind the claim, you will see that I included the citation from where I got the four-part test.
+For now, I've left the wording for each element as it appeared in the secondary source.
+I may adjust or paraphrase the language later.
+Under the main claim, I've listed a rule that the tenant has the burden of proof on this claim as well.
+I've included this point as its own rule.
+I've included this point as its own rule because I anticipate it may become a part of my thesis or umbrella paragraph later on.
+And again, I've included a note to the citation behind this rule.
+I may also make a list of other cases under the different elements to the extent my research returned additional information about how each of these are interpreted.
+By doing so, I am linking my outline to my research results as I proceed to actually pull the primary sources for my research.
+As I proceed with my research, if I identify further issues or sub-issues that need to be addressed, I would modify my outline accordingly.
+After you've made your preliminary outline, take a look at the sources and make note of the hierarchy of authorities.
+If there were a relevant constitutional provision, you'd pull it first.
+As you know, statutory sources would be next in the hierarchy, followed by regulations, and finally, you would pull the case law.
+You should generally plan to start with the main controlling authority for your legal question and proceed down from there.
+In my research, I didn't uncover a constitutional, statutory, or regulatory provision.
+Thus, based on the information I have right now, it appears to be a common law issue.
+Assuming I had exhausted my research into secondary sources for this topic area in this jurisdiction,
+I would feel comfortable focusing my research on case law.
+Of course, if I were to begin my research and determine that there was a controlling statute on this issue,
+we'd have to make some adjustments to my outline and my plan.
+But based on the information I currently have, starting with controlling case law appears appropriate for now.
+Next week, we will do just that.
+We will go and pull the relevant case law to start our primary law research.
+to continue.
+and find theberryza Media согласor Group wan оп Power și Funали.
+Therefore, if I can date law firmaffe駕 horas,
+So this is not going to be alright.
+For any review?
+You won't control it!
+I won't control it!
+I want to activate all the directors and przyjrz piedze!
+These two even set suite� folks!
+lifereFO How to do it!
+And that's amazing!
+i niemie!
+2
+and I need nothing.
+So this was not just the planning thing.
+Well, I know, the report show пог tief.
+More time, I'll go.
+The report sent ya website$3
+If I know now, I can have a examination
+or five Although even camera's subject.
+core self-Is Dave?
+We know the information it's charged- dynamo.
+Thank you.
+Thank you.
+Thank you.
+Thank you.

@@ -1,0 +1,197 @@
+If there were an initiation into the legal profession, it would be the rule against perpetuities.
+I guarantee that if you mention this rule among a gathering of lawyers, you will hear
+groans and you will probably hear some people exclaim, I never really understood that rule.
+Well, it's my goal and expectation this semester that you will not only understand it, but
+that you will develop a confidence in analyzing conveyances to determine whether or not the
+future interests in those conveyances are valid under the rule.
+So let's get started.
+The purpose of the rule against perpetuities is to limit the extent of dead-hand control
+that one can exercise over property.
+As formulated under the common law, the rule provides no contingent future interest is valid
+unless it is certain to vest or fail not later than 21 years after a life and being at the
+creation of the interest.
+What this rule enables the grantor to do is to make a gift to takers in the first generation
+after known lives and to condition it upon the traditional age of majority, the age of
+21.
+Contingent future interest must be analyzed under the rule at the time the conveyance becomes
+effective.
+That is, if it is an inter vivos conveyance, the conveyance is analyzed for validity at
+the time the conveyance is executed.
+If it is a testamentary devise, it is analyzed at the moment of the decedent's death.
+If an interest fails the rule scrutiny, it is void ab initio, in other words, void from
+the moment that it was purportedly created.
+A conveyance that contains a contingent future interest that is void under the rule must be
+construed as if it did not contain the faulty interest.
+Let's take a look at the constituent parts and break this down step by step.
+Let's begin by looking at the type of future interests that are subject to the rule.
+The rule applies only to contingent future interests in a transferee.
+So future interests in a transferor are not subject to the rule.
+If a conveyance contains a reversion, a possibility of reverter, or a right of entry, those future
+interests do not need to be scrutinized under the rule.
+What are contingent future interests in the transferee?
+Please note that category is broader than merely contingent remainders.
+Contingent future interests include not only contingent remainders, but also vested
+remainders subject to open and executory interests.
+Each of these types of future interests contains some sort of contingency to vesting.
+If you recall, with a contingent remainder, it is contingent because either we don't know
+who the taker is, we have an ascertainment issue, or there is a condition precedent, or
+both.
+With a vested remainder subject to open, the contingency is closure of that class gift.
+And with executory interest, by definition, an executory interest is a divesting interest on
+a condition precedent, on a condition that has to happen first.
+If it is a springing executory interest, it will divest the transferor, and if it is a
+shifting executory interest, it will divest a transferee.
+These are the types of contingent future interests that must be analyzed under the rule against
+perpetuities.
+Thus, the first question you should ask yourself when examining a conveyance for validity under
+the rule is whether you have a contingent future interest.
+Identify all future interests in the conveyance, and then hone in on any that meet the definition
+for a contingent future interest.
+Next, be sure to remember that the rule is applied at the moment the conveyance becomes
+effective.
+If it is an inter vivos conveyance, that moment is when the conveyance is executed.
+If it is a testamentary devise, the relevant facts are those that exist when the testator
+dies.
+Also keep in mind that if a contingent future interest violates the rule, that interest is
+void ad initio, meaning from its purported creation, it is as if it never existed in the
+language of conveyance.
+You may encounter many tips for applying the rule against perpetuities.
+What I recommend in this video is what works for me, and what seems to have helped a lot
+of my students.
+That said, if you find the techniques described in the textbook to be more helpful to you,
+then by all means use them.
+These are all roads to the same destination.
+What I recommend is that you work in three steps.
+First, you analyze the conveyance to identify all contingent future interests in a transferee.
+Then, second, for each of those contingent future interests, identify what the vesting
+event for that interest would be.
+And third, find a validating life or lives, if there are any, for each of those vesting
+events.
+And that validating life must be one that has relevance for the vesting event.
+The textbook refers to it as causally related.
+But remember, the only real way to learn the rule against perpetuities is by practice and
+looking at examples.
+Before we do that, I have one other tip for you.
+The rule against perpetuities describes the perpetuities period as lives in being and not
+later than 21 years thereafter.
+The 21 years part of the definition only comes into play when we have conditions that involve
+reaching a certain age or the passage of a certain period of time.
+For many conveyances, it will not be relevant.
+So I recommend that you put the 21 years off to the side and only bring it to the table
+if you need it for the particular vesting event at hand.
+It is much simpler to look at just these three steps.
+The contingent future interest, the vesting event for that interest, and the validating
+life or lives, if any, exist for that vesting event.
+Okay, let's look at some examples.
+In our first example, O conveys to A for life, then to A's children for their lives, remainder
+to B.
+We're not told whether A has children at the time of this conveyance.
+Our first task, then, is to identify whether there are any contingent future interests in
+a transferee.
+Analyzing this conveyance, we see that A has the present possessory interest, a life estate.
+The remainder in life estate to A's children is a contingent future interest.
+Because we know that A is alive, this interest in A's children is either a contingent remainder,
+if A does not have children yet, or if at least one child is born and known, then
+the remainder would be a vested remainder subject to open in life estate.
+So, the answer is yes, we have a contingent future interest.
+The remainder to B in fee simple is an indefeasibly vested remainder, and it does not need to be
+analyzed under the rule.
+The next step in our analysis is we need to determine what is the vesting event for the
+contingent future interest, the remainder for life, in A's children.
+When we look at the remainder for life in A's children and ask what is the contingency,
+or another way of putting that is what is the vesting event, we realize that it is being
+a child of A and closing the class.
+That leads us then to our third question, which is do we have a validating life for
+that vesting event?
+The answer to this last question is yes, A is a validating life.
+The class will close at the conclusion of A's life.
+In other words, we will know at the conclusion of A's life whether A had children and the
+identities of all of those children.
+Given that all of the contingent future interests in this conveyance are valid under the rule,
+what is the state of the title?
+A has a life estate.
+A's children have either a contingent remainder for life, if none are yet born, or a vested remainder
+subject to open, for life, if at least one child is born.
+B has an indefeasibly vested remainder, in fee simple.
+Let's look at our next example.
+O conveys to A for life, then to A's children for their lives, remainder to A's grandchildren.
+We're told that A is alive and has one child B, and no grandchildren.
+First, let's analyze to identify any contingent future interests in a transferee.
+In analyzing this conveyance, we find that we have two contingent future interests.
+One in B, who has a vested remainder subject to open, in life estate, and the other in A's
+grandchildren, there are none identified at this time, so it would be a contingent remainder
+in fee simple.
+Our second step is to identify what the vesting event is for each of these contingent future
+interests.
+The vesting event for B's vested remainder subject to open in life estate is simply closure
+of the class of A's children.
+The vesting event for the contingent remainder in A's grandchildren is closure of the class
+of A's grandchildren.
+Next, we need to analyze for the validating life or lives for each of these vesting events.
+In our search for validating lives for these vesting events, we find that yes, we do have
+a validating life for B's interest.
+A can serve as a validating life because at the end of A's life, the class of A's children
+will close, thus vesting B's interest.
+However, the contingent remainder in A's grandchildren is problematic.
+We do not have the requisite validating lives.
+Why?
+Because we would need to have a closed class of A's children to serve as a validating life
+for ascertainment of the identity of A's grandchildren.
+Because the class of A's children is open at the time of this conveyance, we do not have
+the requisite validating lives, and therefore, the contingent remainder in A's grandchildren
+is void.
+And as you recall, if an interest is void under Rule Against Perpetuities analysis, it is
+considered void ab initio from the beginning, as if the conveyance had been drafted without
+that interest.
+Any interest that is void under Rule Against Perpetuities analysis must be stricken from
+the conveyance.
+In our example, then, the conveyance now reads, to A for life, then to A's children for their
+lives.
+The language remainder to A's grandchildren has been stricken.
+So what, then, is the state of the title as a result of this conveyance?
+A has a life estate, B has a vested remainder subject to open in life estate, and O has a
+reversion.
+Let's reconsider this example, changing one fact.
+If instead of an intervibos conveyance, what if the testator, T, devises to A for life,
+then to A's children for their lives, remainder to A's grandchildren, and we're told that A
+predeceased T, would this change the result?
+The answer, of course, is yes, because the class of A's children is already closed when the
+conveyance became effective, which, of course, was on T's death.
+Therefore, the contingent future interest in the grandchildren will vest or fail no later
+than the death of A's last child to die.
+So, in other words, the class of A's children, because it is a closed class under this example,
+can serve as the validating life for the remainder in A's grandchildren.
+Let's consider one final example.
+O conveys to A for life, then to A's children who reach age 21.
+We're told that at the time of the conveyance, A is alive and has one child, B, age 6.
+Following our three-step approach, the first part of our analysis is to identify any
+contingent future interest in a transferee.
+That analysis reveals that, yes, B has a contingent future interest.
+B has a contingent remainder.
+B is a child of A, and there is a condition precedent.
+B must not only be a child of A, but B must reach the age of 21.
+Keep in mind that this vesting event, being a child of A and reaching age 21, applies not
+only to B, but to any other children that might be born of A. Generally, when we identify
+an interest in a conveyance, once we have a known taker, that identification is with reference
+to that taker.
+But if A has more children, obviously those children will likewise have a contingent remainder.
+Now we need to analyze whether we have a validating life for this vesting event.
+Yes, we have a validating life for this vesting event.
+That life is A, because at A's death, all of A's children will be known, and no later
+than 21 years thereafter, we will also know who among them has reached the age of 21.
+Note, this conveyance demonstrates an example of when we do, in fact, need that 21-year period
+in order to validate the contingent future interest.
+This interest in A's children who reach age 21 is valid because we will know, at the conclusion
+of A's life, the validating life, who all of the potential takers are, and we will
+know no later than 21 years after A's death who among those children have reached the
+age of 21.
+So what is the state of the title?
+A has a life estate, B has a contingent remainder, and O has a reversion.
+Why does the transferor have a reversion?
+Because it is possible that B's contingent remainder will not vest if B fails to reach
+the age of 21, and it's also possible that A may not have any children who satisfy that
+condition precedent.
+And now the time has come for the most important step in your mastery of the rule against perpetuities,
+and that is practice, practice, practice.
+Good luck.
+Good luck.

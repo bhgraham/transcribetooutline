@@ -1,0 +1,35 @@
+Now that you are familiar with present possessory estates and land, it's time to learn future
+interests.
+A future interest is a presently existing legal interest that will or may become possessory
+in the future.
+At first encounter, most students find future interests daunting.
+My goal in this video is to introduce you to a methodology that will help you identify
+and analyze future interests correctly each and every time out.
+Think of it like a board game.
+You have to know the rules before you can play.
+That's what this video is about, so let's have some fun with future interests.
+Perhaps without realizing it, you have already learned the class of future interests that
+can be held by a transferor.
+There are three types, the reversion, the possibility of reverter, and a right of entry or power of
+termination.
+A transferor retains a reversion any time the transferor carves out a lesser estate than
+what the transferor has.
+So in the instance of a transferor who has a fee simple absolute, when a life estate is
+carved out, the transferor retains a reversion in fee simple absolute.
+So in our example, O conveys to A for life.
+At the end of A's life, which is the end of the life estate, O's reversion becomes possessory
+once again, and O is restored to a fee simple absolute.
+The possibility of reverter accompanies the creation of a fee simple determinable.
+Our example, O conveys to A so long as A uses the land for farming.
+Now if you recall, a defeasible fee is of potentially infinite duration.
+So long as A uses the land for farming, A's fee simple determinable will not be defeased.
+But if A ceases to use the land for farming, then O's future interest, the possibility of
+reverter, automatically becomes possessory.
+The right of entry, power of termination, as you recall, does not operate in an automatic fashion.
+This future interest in a transferor accompanies the creation of a fee simple subject to condition
+subsequent.
+In this example, O conveys to A, but if A no longer uses the land for farming, that's
+the condition subsequent, O has the right to reenter.
+If A no longer uses the land for farming, O has to exercise that right to reenter.
+Now let's turn to future interests in the transferee.
+There are three types.
