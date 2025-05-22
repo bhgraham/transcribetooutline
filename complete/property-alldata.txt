@@ -1,0 +1,3147 @@
+We are now entering the study of estates and land. Estates are the basic building blocks of
+
+both real estate practice and estate planning. Our system of estates and land is built on the
+
+English common law system that developed in feudal times, and as such, you're going to find
+
+the terms and the nomenclature very unfamiliar. But just like names arbitrarily given to individuals,
+
+the only way to really master this terminology is to memorize it and to practice making the
+
+associations between those terms and the interests they represent. In this video, I offer you a
+
+methodical approach to learning estates and land and to distinguishing between the present and the
+
+future interests that the parties have in those estates. Let's take a look. There were four
+
+categories of estates in feudal England, the fee simple, the fee tail, life estate, and leasehold
+
+estates. And despite the intervening centuries between feudal England and our modern day,
+
+we have not added any new estates to this system of possessory interests. And in fact,
+
+we no longer recognize the fee tail estate in the United States, so we will not study that. That was
+
+an estate that was created to keep land within the bloodline of a family in feudal times. So we
+
+will concentrate on the fee simple, on the life estate, and leasehold tenancies we will put aside
+
+to week six, where we will give them concentrated study at that time. Estates are present possessory
+
+interests that are measured in terms of duration. The fee simple has two categories, fee simple absolute
+
+and fee simple defeasible, which we'll explore in greater depth in a moment. The life estate is one of
+
+the few estates that is pretty much what it sounds to be, and that is an estate measured by a person's life.
+
+This graphic sets out the basic distinction between a fee simple absolute and a fee simple
+
+defeasible, and that distinction is one of duration. The fee simple absolute is a potentially infinite
+
+duration, while the fee simple defeasible has a limitation or a condition subsequent built into
+
+the conveyance that creates it that may cause it to terminate upon the violation of that limitation
+
+or the occurrence of that condition. There are three types of fee simple defeasible, which we will
+
+look at in a moment. The fee simple determinable, the fee simple subject to condition subsequent,
+
+and the fee simple subject to executory limitation. Before we examine the feasible fees, let's look
+
+first at the fee simple absolute. The language of conveyance to create a fee simple absolute may
+
+appear as to A and his heirs or simply to A. The language to A and his heirs was necessary in
+
+feudal times because and his heirs was used to denote heritability of A's fee. What do we mean by
+
+heritability? It means that A's interest could descend to A's legal heirs at his death. Prior to this point
+
+in time, if someone were given a possessory interest in land, which usually happened in exchange for
+
+services to the king or to the lords that served under the king, this interest was not one that
+
+could be alienated or that could be passed on to heirs. Well, when the fee simple absolute was first
+
+recognized, it was not alienable and it actually was not divisible, meaning it could not be designated
+
+to someone in a will, but it was heritable. And to indicate that this type of interest was being
+
+created, the words and his heirs was added to the conveyance. But please note that those words and his
+
+heirs creates no direct interest in the heirs. These words are considered merely words of
+
+limitation, meaning that they denote what is being conveyed, a fee simple, rather than being words
+
+of purchase, which indicate who takes. So in this conveyance to A and his heirs, to A are words of
+
+purchase indicating who takes, and his heirs are words of limitation that simply denote that a fee
+
+simple absolute has been created. Today, it is no longer necessary to include the terminology and his
+
+heirs or and her heirs in a conveyance when the objective is to create a fee simple absolute. And where
+
+those words may appear, it is important that you remember that these are just words of limitation and not
+
+words of purchase. Also in our system of estates, it is important to note that a fee simple interest is
+
+alienable, divisible, and descendable. If you will recall, when I set forth the context for what we
+
+were going to study this semester, I talked about the typical ways that property interests are created
+
+and the two categories, creation inter vivos and creation at depth. So when we say an interest is
+
+alienable, we're talking about an inter vivos transfer of some type. To say that it's divisible means that it
+
+passes through a will, and to say that it's descendable means that it is passed through intestate
+
+succession, which is controlled by statute, when a person has neither planned with a will or with
+
+non-testamentary devices such as beneficiary designations. Next, we turn to the fee simple,
+
+defeasible. There are three types of defeasible fees. The language that's used to construct the
+
+conveyance is determinative of the type of defeasible fee. There are component parts to these
+
+conveyances that will help you identify correctly every time out what type of defeasible fee has been
+
+created and what the consequences will be for those who hold the present or future interest in the
+
+conveyance. Unlike so many areas of the law, this area has a right and a wrong answer. So for those who
+
+resonate to that type of analysis, you'll love this area of the law because once you learn the
+
+component parts, you will be able to correctly analyze a problem set without fail each time out.
+
+Okay, let's start out with looking at the basic construction for each type of defeasible fee.
+
+The first one on this graphic is the fee simple determinable. You will recognize this because in
+
+each fee simple determinable, there is incorporated into the conveyance durational language. In my example,
+
+it's to a so long as, but the durational language might be something like to a until, to a during such
+
+time as. All of those phrases are durational and create the limitation that is wrapped right up
+
+in the creation of the defeasible fee. The other two types of defeasible fees contain a condition
+
+subsequent. So the construction would be 2A, but if, now insert the condition subsequent, if this
+
+condition happens, then there is a consequence. In a fee simple subject to condition subsequent,
+
+the consequence is that the transferor, O, has the right to reenter. With a fee simple subject to
+
+executory limitation, if the condition subsequent happens, the consequence is that another transferee,
+
+in my example B, that transferee's interest will divest the holder of the defeasible fee.
+
+So let's recap again. The fee simple determinable must contain durational language that sets out a
+
+limitation on the fee holder's interest. In the other two types of defeasible fees, there is a
+
+condition subsequent, and the distinction between the two turns on who holds the future interest. If it's
+
+the transferor, we're looking at a fee simple subject to condition subsequent. If it's another
+
+transferee, it's a fee simple subject to executory limitation. Now we're going to look more closely
+
+at each of these types. Let's look first at the fee simple determinable. In our example, O conveys
+
+green acre to A, so long as the land is used for farming. A is said to have a fee simple determinable,
+
+and this is the present possessory interest in this conveyance. Note that the durational limitation is
+
+built right into the fee that is created. What is the limitation? That the land is used for farming.
+
+That durational language, so long as the land is used for farming. Now we could have phrased it to A,
+
+until such time as the land is no longer used for farming. Or we could have said to A during the time
+
+that the land is used for farming. So it could be different types of durational language, but what's
+
+essential is that it is creating a durational limit on that fee that if the limitation is violated,
+
+the fee is what we call defeased. The fee ends. So given that this is the present possessory
+
+interest, this fee simple determinable, if the land is no longer used for farming, who then has the
+
+present possessory interest. The answer to this question is that O, the transfer or, would once
+
+again have a fee simple absolute. Now let's look more closely at the transfer or side of this
+
+transaction. When O conveys green acre to A so long as the land is used for farming, O has some type of
+
+an interest that if A's interest is later defeased because the limitation is violated, O has an interest
+
+that can then become possessory and restore O to a status of having a fee simple absolute. What do we
+
+call the interest that O has when the fee simple determinable is created by O? That interest is
+
+called a possibility of reverter. A possibility of reverter is among a class of interest known as
+
+future interest. Why do we label this a future interest? First, it should be noted that a possibility
+
+of reverter is a presently existing legal interest. But what is future in its character is that the
+
+possibility of possession is in the future. So let's look at our conveyance again and suppose that A
+
+continues to use the land for farming throughout A's lifetime. So in other words, the limitation is
+
+never violated. O's possibility of reverter then never became possessory. So that's why it's a
+
+possibility of reverter. The possibility exists that the limitation, the land being used for farming,
+
+might be violated, in which case O would then once again have the present possessory interest.
+
+Note that if the limitation in a fee simple determinable is violated, the possibility of reverter
+
+becomes possessory automatically. So let's recap what we've learned about the fee simple determinable.
+
+In the conveyance, O conveys green acre to A, so long as the land is used for farming. If you are asked
+
+to identify the state of the title to green acre, what is the appropriate response? A has a fee simple
+
+determinable, and this is the present interest because that is the present possessory interest in the
+
+estate. O has a possibility of reverter, which is known as the future interest. If you recall, the other
+
+two types of defeasible fees each contain a condition subsequent. First, let's look at the fee simple
+
+subject to condition subsequent. Our example is that O conveys green acre to A, but if A no longer
+
+uses the land for farming, O has the right to reenter. The phrase, but if A no longer uses the
+
+land for farming, is known as a condition subsequent. If you look at the construction, think of it in
+
+these terms. The conveyance grants something to A, but the phrase, the condition subsequent, but if A no
+
+longer uses the land for farming, is the mechanism that could take it away. That is the condition
+
+subsequent. A is said to have a fee simple subject to condition subsequent, and A's interest, this
+
+defeasible fee, is the present possessory interest. What is unique to a fee simple subject to condition
+
+subsequent is that the transfer or, O in our example, holds the future interest. O has the right
+
+to reenter. A distinction between a fee simple subject to condition subsequent and a fee simple
+
+determinable, which we just looked at, is that with a fee simple subject to condition subsequent,
+
+O's right to reenter does not result in automatic divestment of A's defeasible fee, but it gives O
+
+the option to reenter. In other words, O must exercise the right to reenter. What happens if
+
+A no longer uses the land for farming, and O does not exercise the right to reenter? Well, if the
+
+period of time for asserting property interest passes, in other words, the statute of limitations
+
+passes, A would then have a fee simple absolute unencumbered by the condition subsequent. So once the
+
+condition subsequent happens, it starts the statute running that sets the time period within which
+
+O has to assert O's right to reenter. So what is the label that we give to O's interest at the time
+
+that O creates the fee simple subject to condition subsequent in A? We call O's interest a right of
+
+entry. It is sometimes also phrased as a power of termination. The right of entry is called a
+
+future interest because there is the possibility of a future right of possession. Although the possessory
+
+interest is future, a right of entry or power of termination, if phrased that way, is a presently
+
+existing legal interest, just not a possessory one. Let's then review the fee simple subject to
+
+condition subsequent. In our example, O conveys green acre to A, but if A no longer uses the land
+
+for farming, O has the right to reenter. What is the state of the title? The correct answer is that A
+
+has a fee simple subject to condition subsequent, which is the present interest, and O has a right of
+
+entry, the future interest. The third type of defeasible fee is the fee simple subject to
+
+executory limitation. Like the fee simple subject to condition subsequent, the fee simple subject to
+
+executory limitation always contains a condition subsequent. In fact, in our example, O conveys
+
+green acre to A, but if A no longer uses the land for farming, then to C, the condition subsequent is
+
+exactly the same condition subsequent as we used in our fee simple subject to condition subsequent
+
+illustration. That being, but if A no longer uses the land for farming. What is different between the fee
+
+simple subject to executory limitation and the fee simple subject to condition subsequent is that in
+
+the fee simple subject to executory limitation, the future interest is held by another transferee
+
+rather than the transfer or. In this example, then to C creates an executory interest in C,
+
+and if the condition subsequent occurs, A no longer using the land for farming, the executory interest in
+
+C will automatically divest A's fee. If you recall, in our example of the fee simple subject to
+
+condition subsequent, the right of entry in O was not automatic upon the occurrence of the condition
+
+subsequent. O had to exercise that right. In contrast, the executory interest in C, in this
+
+example, does operate in an automatic fashion to divest A's fee. A, in this example, is said to have
+
+a fee simple subject to executory limitation, and this is the present possessory interest until or
+
+unless the condition subsequent happens. You should also note that in some literature, this defeasible
+
+fee is known as a fee simple subject to executory interest. The terminology executory limitation
+
+and executory interest are interchangeable. With a fee simple subject to executory limitation,
+
+if the condition subsequent happens, who then has the present possessory interest?
+
+The answer, of course, is C, who held the executory interest, now has the present possessory interest,
+
+which we call a fee simple absolute. So let's review the fee simple subject to executory limitation.
+
+If the conveyance is O conveys greenacre to A, but if A no longer uses the land for farming,
+
+then to C, what is the state of the title to greenacre? The answer is that A has a fee simple
+
+subject to executory limitation, which is the present possessory interest, and C has an executory
+
+interest, which is a future interest. This recap comparison of a fee simple subject to condition
+
+subsequent with a fee simple subject to executory limitation should help you keep these two types
+
+of defeasible fees distinguished. While they both contain a condition subsequent, the most obvious
+
+difference is that with a fee simple subject to condition subsequent, the future interest is in
+
+the transferor, and the language indicates that interest has either a right to reenter or a power
+
+to terminate. With a fee simple subject to executory limitation, the future interest is in a
+
+transferee, and that interest is an executory interest. A distinction in terms of the way that
+
+defeasement operates in each of these defeasible fees is that with the fee simple subject to condition
+
+subsequent, the fee is not automatically divested when the condition subsequent occurs. The transferor
+
+has to elect to use the right to reenter or the power to terminate. With a fee simple subject to
+
+executory limitation, the fee is automatically divested by the executory interest. Now let's look
+
+at the easiest estate to recognize, the life estate. A life estate is either measured by the transferee's
+
+life or measured by the life of another. Our example O conveys to A for life illustrates a life estate
+
+measured by the transferee's life. O conveys to A for the life of B is an example of a life estate
+
+measured by the life of another in this example B. A life estate that is measured by the life of
+
+another is known as a life estate per autre B. Whether the life estate is measured by the transferee's
+
+life or by the life of another, the life estate is the present possessory interest. When a life estate
+
+is created, as in the examples illustrated, who has the future interest? The answer is that O,
+
+the transferor, has the future interest known as a reversion. Note at the conclusion of the life
+
+estate, O's future interest becomes possessory. When that happens, we classify O's interest as once
+
+again a fee simple absolute. Let's recap. If O conveys Greenacre to A for life, what is the state of the
+
+title to Greenacre? A has a life estate, the present possessory interest. O has a reversion, the future
+
+interest. Now let's apply what you've learned about estates and land. Please answer the questions in
+
+this week's self-paced material on estates and land.
+
+Now that you are familiar with present possessory estates and land, it's time to learn future
+
+interest. A future interest is a presently existing legal interest that will or may become possessory
+
+in the future. At first encounter, most students find future interests daunting. My goal in this
+
+video is to introduce you to a methodology that will help you identify and analyze future interests
+
+correctly each and every time out. Think of it like a board game. You have to know the rules before you
+
+can play. That's what this video is about, so let's have some fun with future interests.
+
+Perhaps without realizing it, you have already learned the class of future interests that can be held by a
+
+transferor. There are three types, the reversion, the possibility of reverter, and a right of entry or
+
+power of termination. A transferor retains a reversion any time the transferor carves out a
+
+lesser estate than what the transferor has. So in the instance of a transferor who has a fee simple
+
+absolute, when a life estate is carved out, the transferor retains a reversion in fee simple absolute.
+
+So in our example, O conveys to A for life. At the end of A's life, which is the end of the life estate,
+
+O's reversion becomes possessory once again, and O is restored to a fee simple absolute.
+
+The possibility of reverter accompanies the creation of a fee simple determinable. Our example,
+
+O conveys to A so long as A uses a land for farming. Now if you recall, a defeasible fee is of
+
+potentially infinite duration. So long as A uses a land for farming, A's fee simple determinable will
+
+not be defeased. But if A ceases to use the land for farming, then O's future interest, the possibility
+
+of reverter, automatically becomes possessory. The right of entry, power of termination, as you recall,
+
+does not operate in an automatic fashion. This future interest in a transferor accompanies the
+
+creation of a fee simple subject to condition subsequent. In this example, O conveys to A,
+
+but if A no longer uses the land for farming, that's the condition subsequent, O has the right
+
+to reenter. If A no longer uses the land for farming, O has to exercise that right to reenter.
+
+Now let's turn to future interests in the transferee. There are three types of future interests,
+
+the contingent remainder, the vested remainder, and the executory interest. A contingent remainder
+
+occurs when the transferee is either not ascertainable, or the vesting is subject to a condition
+
+precedent, or possibly both. With a vested remainder, you know who the transferee is,
+
+and there is no condition precedent. The executory interest is defined as a divesting interest on a
+
+condition precedent. Now I realize that this all just sounds like definitions, and that you need
+
+something more concrete to be able to recognize these interests when they appear in a conveyance.
+
+I'm now going to give you a step-by-step approach to help you do that. Let's look first at remainders.
+
+If you recall, the general classification of remainders includes both contingent remainders and vested
+
+remainders. In either category, to be a remainder, there must be something for the remainder to remain
+
+after. That something is a prior supporting estate in a transferee. That will be the present possessory
+
+interest. A prior supporting estate must be a lesser estate than a fee simple absolute or a fee simple
+
+defeasible. Why? Because a fee simple absolute or fee simple defeasible is of potentially infinite
+
+duration. In order to be a prior supporting estate, it must be possible for a remainder to become
+
+possessory at the natural expiration of that estate. Let's look at some examples that illustrate the
+
+concept of a prior supporting estate. In our first conveyance, O conveys to A for life, then to C if
+
+C graduates law school. We look for the present possessory interest, and that is a life estate in
+
+A. What remains after is a contingent remainder in C, which contains the condition precedent if C
+
+graduates law school. It is possible in this conveyance that at the natural expiration of A's
+
+life estate, in other words at A's death, that C's remainder interest could become possessory if in fact
+
+C has graduated law school. In the next conveyance, to A for the life of B, then to C, what C has is a
+
+vested remainder. We know who C is, and there is no condition precedent. The prior supporting estate
+
+to A for the life of B is a life estate per autre B, a life estate measured by the life of B. At the
+
+natural conclusion of that life estate per autre B, C's vested remainder will become possessory.
+
+In the third example, to A for five years, then to B's children, what A has is a term of years. We
+
+haven't studied this yet. It is one of the leasehold estates. Then to B's children is a remainder,
+
+and what type of remainder it is depends on facts that are not apparent on the face of this
+
+conveyance. If B is dead and all of B's children are known, then it's a vested remainder. If B is
+
+alive and has no children yet, it's a contingent remainder because we have an ascertainment issue.
+
+Now for the sake of comparison and contrast, let's consider examples where there is no prior
+
+supporting estate for the transferee's future interest. In the first example, O conveys to C
+
+if C graduates law school. Note O has retained the present possessory interest, and if C graduates
+
+law school, C's future interest divests O's present possessory interest. In the next example, O conveys
+
+to A, but if A dies before B, then to B. In this example, it's a transferee that has the present
+
+possessory interest, but note if A dies before B, A's interest is actually divested, and B's interest
+
+becomes vested in possession. So rather than there being a present possessory estate in a transferee
+
+that concludes at the natural expiration of the estate, in this instance, A has a fee simple subject to
+
+executory limitation that could be of infinite duration. But if the condition subsequent happens,
+
+A dying before B, then B's interest, which we call an executory interest, shifts and divests A. So in
+
+these examples, we do not have remainders, we have executory interests. And as we'll see later in this
+
+video, the interest to C in our first example is also an executory interest, but it behaves differently
+
+than the one in B in our second example. What is the difference? The executory interest in C will
+
+divest the transfer ore, whereas the executory interest in B divests another transferee.
+
+When analyzing a conveyance that contains a future interest in a transferee, I recommend that you
+
+first analyze it to determine whether the interest is a remainder. Let's look at this example. To A for
+
+life, then to B, if B reaches the age of 25. The first question you should ask is, where is the
+
+present possessory interest, and does it qualify as a prior supporting estate? The answer to the first
+
+question in this example is yes. The present possessory interest is a life estate in A, and it qualifies as
+
+a prior supporting estate. Once we know that we have a prior supporting estate, we also know that
+
+what follows is a remainder interest in the transferee. Now we have to determine what kind
+
+of remainder interest. I recommend that you next look at whether there is an ascertainment issue
+
+and whether there is a condition precedent. In this particular example, there is not an
+
+ascertainment issue because we know the taker. The taker is B. However, when we look at the language of the
+
+conveyance, we see that there is a condition precedent. What is a condition precedent? A condition that must
+
+happen before the taker's interest vests in possession. The condition precedent in this conveyance
+
+is B reaching the age of 25. Because there is a condition precedent and there was a prior supporting
+
+estate, B has a remainder known as a contingent remainder. Let's look at another example. In this
+
+conveyance, O conveys to A for life, then to B. Of course, our first question is, do we have a prior
+
+supporting estate? The answer is yes. We have a life estate in A that is the present possessory interest,
+
+and it qualifies as a prior supporting estate. Next, we analyze to determine whether this is a
+
+contingent remainder. Remember that the two questions we ask are whether there's an ascertainment issue
+
+and whether there is a condition precedent. In this conveyance, the answer to both questions is no.
+
+B is a known taker, and there is no condition precedent to B's interest vesting. Thus, what B has is a
+
+remainder known as a vested remainder. Now that you have the general guidelines for distinguishing a
+
+contingent remainder from a vested remainder, it's time to take a closer look at both of these
+
+categories to understand the different types of contingent remainders and vested remainders that
+
+can occur. In the category of contingent remainders, any one of three circumstances will yield a
+
+contingent remainder, either an ascertainment issue, a condition precedent, or both. The example to A for
+
+life, remainder to A's children, the remainder to A's children is contingent because at the time of the
+
+conveyance we're told that A has no children, and thus we have an ascertainment issue. In the second
+
+example, to A for life, remainder to B if B survives A, the remainderman B is ascertained. However, there
+
+is a condition precedent. In order for B's remainder to vest, there is a condition precedent that B
+
+survives A. In the last example, to A for life, remainder to A's children who survive A, we have
+
+both circumstances, both an ascertainment issue and a condition precedent. We're told that at the
+
+time of the conveyance, A has no children, which is the ascertainment issue, and there is also a
+
+condition precedent that those children, if A has any, must survive A for that remainder to vest.
+
+Now let's return to the examples where there is no prior supporting estate for the transferee's
+
+future interest. These are known as executory interests. In the example, O conveys to C if
+
+C graduates law school, the present possessory interest is retained in O, and the interest
+
+in C is known not only as an executory interest, but as a springing executory interest. In the
+
+second example, O conveys to A, but if A dies before B, then to B, the present possessory interest
+
+in A is known as a fee simple, subject to executory limitation, and B's interest is known as a
+
+shifting executory interest. The definition of an executory interest is that it is a divesting
+
+interest on a condition precedent. Now I just mentioned that there are two types of executory
+
+interest, springing and shifting. It's fairly easy to see from our two examples how an executory
+
+interest is a divesting interest. So it becomes possessory not at the natural expiration of a prior
+
+supporting estate. It becomes possessory by divesting another present possessory interest,
+
+either a present possessory interest in the transferor or a present possessory interest
+
+in a transferee. It's a springing executory interest when it springs back and divests a
+
+transferor, and it's a shifting executory interest when it shifts over and divests another transferee.
+
+Now the definition, a divesting interest on a condition precedent, many students find confusing.
+
+Let's look at the more straightforward example of this. O conveys to C if C graduates law school.
+
+If we look at the wording to C if C graduates law school, the wording if C graduates law school
+
+looks like a condition precedent. So it's easy to understand in that example how the springing
+
+executory interest is a divesting interest on a condition precedent. What becomes confusing is
+
+the circumstance of the shifting executory interest, and why is that so? If we look at the
+
+conveyance O conveys to A, but if A dies before B, then to B, what we recognize in that conveyance is
+
+the condition subsequent. We learned when we studied the feasible fees that this is a fee simple subject
+
+to executory limitation because of that condition subsequent, but if A dies before B. So if this
+
+conveyance contains a condition subsequent, how can we say that the shifting executory interest
+
+is a divesting interest on a condition precedent? Here's the answer. When we label interest,
+
+we always go from left to right. But if A dies before B is called a condition subsequent because
+
+it refers to the preceding interest, that the feasible fee in A. It's the condition that happens
+
+after that can divest A's fee simple subject to executory limitation. But consider that same
+
+condition, but if A dies before B, while it operates as a condition subsequent that can take away,
+
+divest A's interest, that same condition operates as a condition precedent to B's shifting executory
+
+interest vesting. However, the label is condition subsequent because it refers to the preceding
+
+interest. So while we never call that a condition precedent in the operation of B's shifting
+
+executory interest, what B has is a divesting interest on a condition precedent, the condition
+
+subsequent that takes the interest away from A and vests it in B. Congratulations, you've now learned
+
+all of the basic rules to recognize and work with future interests. I recommend that you watch this
+
+video several times and then practice, practice, practice. You'll have plenty of opportunity for that
+
+with handout problems in the live lecture, as well as the problem sets in the self-paced units. Good luck!
+
+In the first video lecture for this week, I introduced you to the concept of future interests. As you recall,
+
+a future interest is a presently existing legal interest, but what is future about that interest
+
+is the possibility of possession. In the prior video, we explored, in general, the entire landscape
+
+of future interests, including interests that can be held by a transferor and those that can be held
+
+by a transferee. Future interests in a transferee include executory interests as well as remainders,
+
+and remainders are further classified as either contingent or vested. Now, within those classifications
+
+of remainders, there are further details that are important to your ability to recognize and correctly
+
+label remainder interests, and that's what we will focus on primarily in this video presentation.
+
+As you may recall, in order to have a remainder, there must be something for that remainder to
+
+remain after, and that something is a present possessory interest in a transferee that qualifies
+
+as a prior supporting estate. You may recall from the introductory video that a prior supporting
+
+estate is one that is of a lesser duration than a fee simple absolute or a fee simple defeasible.
+
+So, in other words, it is generally a life estate, a life estate per entre vie, or a leasehold estate
+
+known as a term of years. Now, it need not be certain that the remainder will become possessory upon the
+
+natural expiration of that prior supporting estate. It need only be possible. And what do we mean by the
+
+natural expiration of that prior supporting estate? Well, if it is a life estate, it is simply the end
+
+of the measuring life for that life estate. Or if it is a term of years, it is the conclusion of that
+
+time period set out for the term of years leasehold estate. In other words, there doesn't have to be
+
+the happening of a vesting condition. It is just the natural expiration of that prior supporting estate.
+
+To put into perspective the remainder interest, it's helpful to contrast it with executory
+
+interest. If you recall, an executory interest vests in possession only by divesting another
+
+interest. In other words, there is a condition that serves as that vesting event. And again,
+
+the remainder simply vests in possession upon the natural conclusion or expiration of that prior
+
+supporting estate. Let's review the graphic that summarizes executory interests. If you recall,
+
+executory interests are known as divesting interests on a condition precedent. This is because the only
+
+way that an executory interest can become possessory is by the happening of a condition
+
+that will divest the current holder of the possessory interest and vest into the holder
+
+of the executory interest possession. Executory interests are labeled with reference to whether
+
+the interest will divest a transferor or will divest another transferee. The executory interest
+
+that divests a transferor is known as a springing executory interest. I find it helpful to think about it
+
+as springing back to the transferor and divesting that transferor if the vesting event occurs.
+
+With the shifting executory interest, the holder of the present possessory interest
+
+is another transferee. So if we think about the two sides of the conveyance, one being the transferor
+
+and the other one being the transferee side, an executory interest is on the same side as the
+
+holder of the possessory interest. If we look at our example of a shifting executory interest,
+
+it helps to illustrate this point. O conveys to A, but if C graduates law school, then to C.
+
+A, a transferee currently holds a fee simple subject to executory limitation. C has the shifting
+
+executory interest, and the vesting event, but if C graduates law school, is the condition
+
+subsequent as to A's interest that actually acts like a condition precedent to the vesting
+
+of C's interest. If C graduates law school, C's executory interest shifts over and divests
+
+A. In contrast, our first example, O conveys to C, if C graduates law school, the present possessory
+
+interest in this example is held by O, the transferor. It is a fee simple subject to executory limitation,
+
+but one held by a transferor. So the condition to vesting if C graduates law school is more apparent
+
+in its nature of a condition precedent because it is the thing that has to happen if C's executory
+
+interest is going to spring back and divest the transferor. Now let's consider these examples
+
+of conveyances that contain remainder interest. Hopefully our brief review of executory interest
+
+will help you distinguish a remainder interest from an executory interest. Now in each of these
+
+conveyances, I have highlighted in yellow the portion that constitutes a remainder. We will come back
+
+to each of these separately to determine exactly what type of remainder is created. Before we do
+
+that, though, I would like to look at the prior supporting estate in each of these conveyances.
+
+If you recall, in order to have a remainder in a conveyance, there must be something for that
+
+remainder to remain after, and that something is the prior supporting estate. A prior supporting
+
+estate is an estate of a lesser duration than either a fee simple absolute or a fee simple defeasible,
+
+and it must be at least possible for the remainder to vest in possession at the natural expiration
+
+or conclusion of that prior supporting estate. So in our first example to A for life, we have a life estate,
+
+and while it is not certain that C will have graduated law school by the end of A's life,
+
+it is at least possible. In the second example to A for the life of B, this is a life estate per
+
+Atra B. So at the end of B's life, then C's interest is to vest in possession. What if C happens to die
+
+before B? It doesn't matter because C's remainder interest can pass to C's estate. In the last example
+
+to A for five years, we have what's called a term of years or a leasehold estate. It's to A for five
+
+years, then to B's children. What if in five years B doesn't have any children yet? Again, it doesn't matter.
+
+What's important is that it's at least possible, and so we have a remainder interest that is
+
+remaining after this prior supporting estate. So let's take a look more closely at each of these
+
+conveyances to determine the proper label for the remainder interest contained in each.
+
+In our first example, O conveys to A for life, then to C if C graduates law school. What C has is a
+
+contingent remainder. Why is it contingent? Because there is contained within that remainder a condition
+
+precedent. That condition is if C graduates law school. In our second example, O conveys to A for the
+
+life of B, then to C, C has an indefeasibly vested remainder. We know who the taker is, and there is
+
+no condition precedent to the vesting, nor is there a condition subsequent that could take it away. So it
+
+is an indefeasibly vested remainder. In our third example, O conveys to A for five years, then to B's
+
+children. We need more information before we can put a label on this remainder interest. So what do we
+
+need to know? Well, the relevant questions are, is B alive, and does B have any children?
+
+If B is alive, but B has no children, then the remainder is a contingent remainder. Why? Because the
+
+takers, the potential takers, are unascertained. If B is alive and has at least one child, then the
+
+remainder is labeled as a vested remainder subject to open. And what subject to open means is that that
+
+child's interest could be partially divested by the birth of more children. The remainder remains subject
+
+to open until the class of B's children is closed. When does that happen? Closure of that class will
+
+happen on B's death. And what if B is dead at the time of this conveyance? If B is dead and has
+
+children, then the remainder is an indefeasibly vested remainder. The takers are known and the
+
+class is closed. So B's children will share proportionately in this vested remainder. As you
+
+will recall, there are two basic categories of remainders, contingent and vested. Let's review the
+
+features of each. Contingent remainders occur when we have an ascertainment issue in the conveyance.
+
+If you take a look at the example on the graphic, to A for life, remainder to A's children, and we're
+
+told that A has no children at the time of the conveyance. So the potential takers are unascertained.
+
+Or there is a condition precedent. Our example with a condition precedent is to A for life, remainder to
+
+B, if B survives A. Or the conveyance has both, both an ascertainment issue and a condition precedent.
+
+So our example for this is to A for life, remainder to A's children who survive A, and we're told that A has no
+
+children at the time of the conveyance. So while a remainder may be considered contingent for different
+
+reasons, no matter what the reason, ascertainment, condition precedent, or both, we simply call that
+
+remainder a contingent remainder. If we know at least one taker and there is no condition precedent
+
+to vesting, the remainder is some type of vested remainder. That said, there are three types of vested
+
+remainders. The most easily recognizable vested remainder is the indefeasibly vested remainder.
+
+In our example, the conveyance is to A for life, remainder to B. We have a known taker, there is no
+
+condition precedent, and there is no condition subsequent. The second type of vested remainder
+
+is vested subject to open. Our example, to A for life, remainder to B's children. And in this example,
+
+we're told that B is alive and has one child, D. This is a class gift. So with a vested remainder
+
+subject to open, we know at least one taker, but we have an open class of takers. The third type of
+
+vested remainder, vested subject to complete divestment, occurs when the remainderman has the interest,
+
+the future interest, but could lose it upon the happening of a condition subsequent. So in our example,
+
+to A for life, remainder to C, but if C fails to survive A, then to B, C has a vested interest.
+
+However, C could lose it upon the happening of the condition subsequent. And that condition in the
+
+conveyance is, but if C fails to survive A. Who would take if that condition happens? Well, B would take.
+
+B has the shifting executory interest. Now, while there are only three types of vested remainders,
+
+indefeasibly vested, vested subject to open, and vested subject to complete divestment, and this is
+
+sometimes phrased simply as subject to divestment, while there are only those three types, it is
+
+possible for a taker to have a vested remainder that is both subject to open and subject to complete
+
+divestment. Consider the example. O conveys to A for life, then to B's children, but if B has no
+
+children that survive A, then to C. In this example, we're told that B is alive and has one child, D.
+
+So D has a vested remainder subject to open. His interest is a part of a class gift to B's children,
+
+and so if additional children are born to that class before it closes, D's interest will be diluted.
+
+But D's interest is also subject to complete divestment. What would the divesting event be
+
+that could completely take away D's interest? It would be that on the death of A, that none of
+
+B's children survive A. In the event of that occurrence, then D's interest would be completely
+
+divested. So again, for now, just keep in mind that while there are three types of vested remainders,
+
+it is possible for a remainder to be both subject to open and subject to complete divestment. This
+
+occurs when you have both a gift to an open class or conveyance to an open class, and you have a
+
+condition subsequent that could completely divest that interest. So let's recap. With a contingent
+
+remainder, either no taker is ascertained, there is a condition precedent, or both. Regardless, all
+
+contingent remainders are simply called contingent. With a vested remainder, we know at least one
+
+taker, and there is no condition precedent. The three types of vested remainders are indefeasibly
+
+vested, vested subject to open, and vested subject to divestment. Those learning future interests, and
+
+particularly remainders, often have difficulty distinguishing between conditions precedent and
+
+conditions subsequent. The key question to this determination is, must the condition happen before
+
+or after to vest possession? If the condition must happen before, then it is a condition precedent.
+
+And if it happens after, in other words, it operates to take possession away from one transferee
+
+and vest it in another, then it is a condition subsequent. Let's look at condition precedent examples.
+
+O conveys to A for life, then to C, if C graduates law school. If C graduates law school is a condition
+
+precedent to C's interest, a contingent remainder vesting. In the second example, O conveys to A for
+
+life, then to C, if C graduates law school, and if C does not graduate law school, to D. This example
+
+looks similar to the first because we have the condition precedent if C graduates law school
+
+necessary to vest possession in C, but then we have the reverse of that, and if C does not graduate law
+
+school, operating as a condition to vest possession in D. What these remainders in this example are called
+
+is alternate contingent remainders. They are alternate because if the condition happens,
+
+C graduating law school, possession goes to C. And if the condition does not happen, C does not
+
+graduate law school, it goes to D. So these are alternate contingent remaindermen, and the vesting
+
+of possession depends on the happening or the failure to happen of the same condition. In our last example,
+
+O conveys to C if C graduates law school. This is a condition precedent, but what we have in this
+
+example is not a contingent remainder. Why is this not a contingent remainder? Because if you recall,
+
+a remainder must remain after something on the transferee side of the conveyance. In this example,
+
+the present possessory interest is held by O. O holds a fee simple subject to executory limitation,
+
+and that means, of course, that what C has is a springing executory interest. So to review, in our
+
+first conveyance to A for life, then to C if C graduates law school, C has a contingent remainder.
+
+In the second conveyance, O conveys to A for life, then to C if C graduates law school, and if C does
+
+not graduate law school, to D, C and D have alternate contingent remainders. And in the last example,
+
+O conveys to C if C graduates law school, C does not have a remainder, C has a springing executory
+
+interest, because if the condition precedent happens, C graduating law school, C's interest will divest O,
+
+the transferor, of O's fee simple subject to executory limitation. Now let's look at condition
+
+subsequent examples. Our first example, O conveys to A, but if C graduates law school, then to C.
+
+But if C graduates law school is the condition subsequent in that conveyance. In the second
+
+example, O conveys to A for life, then to C, but if C fails to graduate law school, then to D. We have
+
+the same condition subsequent, but if C fails to graduate law school, but what the interests are
+
+labeled in these conveyances are very different. Let's take a closer look. In our first example,
+
+the present possessory interest is held by A, and that interest is called a fee simple subject to
+
+executory limitation. C has a shifting executory interest. Upon the occurrence of the condition
+
+subsequent, C graduating law school, A's interest is divested, and C's shifting executory interest
+
+shifts over into possession. In our last example, the present possessory interest is the life estate in
+
+A. It is followed by a remainder interest in C. This is a vested remainder because we know who the
+
+taker is, and there is no condition preceded. However, it is followed by a condition subsequent.
+
+That condition is but if C fails to graduate law school. If that condition subsequent happens,
+
+it will operate to divest C of C's vested interest. So what C has is a vested remainder subject to
+
+divestment, sometimes referred to as subject to complete divestment, and the divesting interest,
+
+the shifting executory interest, is held by D. Following this video, I have designed two problem
+
+sets to test your knowledge of future interests in the transferee. I have divided the problem sets
+
+into executory interest treated in one and remainder interest in the other to help reinforce what you
+
+have learned about the distinguishing characteristics that separate executory interests from contingent
+
+remainders and from vested remainders. Good luck with these.
+
+Thank you.
+
+If there were an initiation into the legal profession, it would be the rule against perpetuities.
+
+I guarantee that if you mention this rule among a gathering of lawyers, you will hear
+
+groans and you will probably hear some people exclaim, I never really understood that rule.
+
+Well, it's my goal and expectation this semester that you will not only understand it, but
+
+that you will develop a confidence in analyzing conveyances to determine whether or not the
+
+future interests in those conveyances are valid under the rule.
+
+So let's get started.
+
+The purpose of the rule against perpetuities is to limit the extent of dead-hand control
+
+that one can exercise over property.
+
+As formulated under the common law, the rule provides no contingent future interest is valid
+
+unless it is certain to vest or fail not later than 21 years after a life and being at the
+
+creation of the interest.
+
+What this rule enables the grantor to do is to make a gift to takers in the first generation
+
+after known lives and to condition it upon the traditional age of majority, the age of
+
+21.
+
+Contingent future interest must be analyzed under the rule at the time the conveyance becomes
+
+effective.
+
+That is, if it is an inter vivos conveyance, the conveyance is analyzed for validity at
+
+the time the conveyance is executed.
+
+If it is a testamentary devise, it is analyzed at the moment of the decedent's death.
+
+If an interest fails the rule scrutiny, it is void ab initio, in other words, void from
+
+the moment that it was purportedly created.
+
+A conveyance that contains a contingent future interest that is void under the rule must be
+
+construed as if it did not contain the faulty interest.
+
+Let's take a look at the constituent parts and break this down step by step.
+
+Let's begin by looking at the type of future interests that are subject to the rule.
+
+The rule applies only to contingent future interests in a transferee.
+
+So future interests in a transferor are not subject to the rule.
+
+If a conveyance contains a reversion, a possibility of reverter, or a right of entry, those future
+
+interests do not need to be scrutinized under the rule.
+
+What are contingent future interests in the transferee?
+
+Please note that category is broader than merely contingent remainders.
+
+Contingent future interests include not only contingent remainders, but also vested
+
+remainders subject to open and executory interests.
+
+Each of these types of future interests contains some sort of contingency to vesting.
+
+If you recall, with a contingent remainder, it is contingent because either we don't know
+
+who the taker is, we have an ascertainment issue, or there is a condition precedent, or
+
+both.
+
+With a vested remainder subject to open, the contingency is closure of that class gift.
+
+And with executory interest, by definition, an executory interest is a divesting interest on
+
+a condition precedent, on a condition that has to happen first.
+
+If it is a springing executory interest, it will divest the transferor, and if it is a
+
+shifting executory interest, it will divest a transferee.
+
+These are the types of contingent future interests that must be analyzed under the rule against
+
+perpetuities.
+
+Thus, the first question you should ask yourself when examining a conveyance for validity under
+
+the rule is whether you have a contingent future interest.
+
+Identify all future interests in the conveyance, and then hone in on any that meet the definition
+
+for a contingent future interest.
+
+Next, be sure to remember that the rule is applied at the moment the conveyance becomes
+
+If it is an inter vivos conveyance, that moment is when the conveyance is executed.
+
+If it is a testamentary devise, the relevant facts are those that exist when the testator
+
+dies.
+
+Also keep in mind that if a contingent future interest violates the rule, that interest is
+
+void ad initio, meaning from its purported creation, it is as if it never existed in the
+
+language of conveyance.
+
+You may encounter many tips for applying the rule against perpetuities.
+
+What I recommend in this video is what works for me, and what seems to have helped a lot
+
+of my students.
+
+That said, if you find the techniques described in the textbook to be more helpful to you,
+
+then by all means use them.
+
+These are all roads to the same destination.
+
+What I recommend is that you work in three steps.
+
+First, you analyze the conveyance to identify all contingent future interests in a transferee.
+
+Then, second, for each of those contingent future interests, identify what the vesting
+
+event for that interest would be.
+
+And third, find a validating life or lives, if there are any, for each of those vesting
+
+events.
+
+And that validating life must be one that has relevance for the vesting event.
+
+The textbook refers to it as causally related.
+
+But remember, the only real way to learn the rule against perpetuities is by practice and
+
+looking at examples.
+
+Before we do that, I have one other tip for you.
+
+The rule against perpetuities describes the perpetuities period as lives in being and not
+
+later than 21 years thereafter.
+
+The 21 years part of the definition only comes into play when we have conditions that involve
+
+reaching a certain age or the passage of a certain period of time.
+
+For many conveyances, it will not be relevant.
+
+So I recommend that you put the 21 years off to the side and only bring it to the table
+
+if you need it for the particular vesting event at hand.
+
+It is much simpler to look at just these three steps.
+
+The contingent future interest, the vesting event for that interest, and the validating
+
+life or lives, if any, exist for that vesting event.
+
+Okay, let's look at some examples.
+
+In our first example, O conveys to A for life, then to A's children for their lives, remainder
+
+to B.
+
+We're not told whether A has children at the time of this conveyance.
+
+Our first task, then, is to identify whether there are any contingent future interests in
+
+a transferee.
+
+Analyzing this conveyance, we see that A has the present possessory interest, a life estate.
+
+The remainder in life estate to A's children is a contingent future interest.
+
+Because we know that A is alive, this interest in A's children is either a contingent remainder,
+
+if A does not have children yet, or if at least one child is born and known, then
+
+the remainder would be a vested remainder subject to open in life estate.
+
+So, the answer is yes, we have a contingent future interest.
+
+The remainder to B in fee simple is an indefeasibly vested remainder, and it does not need to be
+
+analyzed under the rule.
+
+The next step in our analysis is we need to determine what is the vesting event for the
+
+contingent future interest, the remainder for life, in A's children.
+
+When we look at the remainder for life in A's children and ask what is the contingency,
+
+or another way of putting that is what is the vesting event, we realize that it is being
+
+a child of A and closing the class.
+
+That leads us then to our third question, which is do we have a validating life for
+
+that vesting event?
+
+The answer to this last question is yes, A is a validating life.
+
+The class will close at the conclusion of A's life.
+
+In other words, we will know at the conclusion of A's life whether A had children and the
+
+identities of all of those children.
+
+Given that all of the contingent future interests in this conveyance are valid under the rule,
+
+what is the state of the title?
+
+A has a life estate.
+
+A's children have either a contingent remainder for life, if none are yet born, or a vested remainder
+
+subject to open, for life, if at least one child is born.
+
+B has an indefeasibly vested remainder, in fee simple.
+
+Let's look at our next example.
+
+O conveys to A for life, then to A's children for their lives, remainder to A's grandchildren.
+
+We're told that A is alive and has one child B, and no grandchildren.
+
+First, let's analyze to identify any contingent future interests in a transferee.
+
+In analyzing this conveyance, we find that we have two contingent future interests.
+
+One in B, who has a vested remainder subject to open, in life estate, and the other in A's
+
+grandchildren, there are none identified at this time, so it would be a contingent remainder
+
+in fee simple.
+
+Our second step is to identify what the vesting event is for each of these contingent future
+
+interests.
+
+The vesting event for B's vested remainder subject to open in life estate is simply closure
+
+of the class of A's children.
+
+The vesting event for the contingent remainder in A's grandchildren is closure of the class
+
+of A's grandchildren.
+
+Next, we need to analyze for the validating life or lives for each of these vesting events.
+
+In our search for validating lives for these vesting events, we find that yes, we do have
+
+a validating life for B's interest.
+
+A can serve as a validating life because at the end of A's life, the class of A's children
+
+will close, thus vesting B's interest.
+
+However, the contingent remainder in A's grandchildren is problematic.
+
+We do not have the requisite validating lives.
+
+Why?
+
+Because we would need to have a closed class of A's children to serve as a validating life
+
+for ascertainment of the identity of A's grandchildren.
+
+Because the class of A's children is open at the time of this conveyance, we do not have
+
+the requisite validating lives, and therefore, the contingent remainder in A's grandchildren
+
+is void.
+
+And as you recall, if an interest is void under Rule Against Perpetuities analysis, it is
+
+considered void ab initio from the beginning, as if the conveyance had been drafted without
+
+that interest.
+
+Any interest that is void under Rule Against Perpetuities analysis must be stricken from
+
+the conveyance.
+
+In our example, then, the conveyance now reads, to A for life, then to A's children for their
+
+lives.
+
+The language remainder to A's grandchildren has been stricken.
+
+So what, then, is the state of the title as a result of this conveyance?
+
+A has a life estate, B has a vested remainder subject to open in life estate, and O has a
+
+reversion.
+
+Let's reconsider this example, changing one fact.
+
+If instead of an intervibos conveyance, what if the testator, T, devises to A for life,
+
+then to A's children for their lives, remainder to A's grandchildren, and we're told that A
+
+predeceased T, would this change the result?
+
+The answer, of course, is yes, because the class of A's children is already closed when the
+
+conveyance became effective, which, of course, was on T's death.
+
+Therefore, the contingent future interest in the grandchildren will vest or fail no later
+
+than the death of A's last child to die.
+
+So, in other words, the class of A's children, because it is a closed class under this example,
+
+can serve as the validating life for the remainder in A's grandchildren.
+
+Let's consider one final example.
+
+O conveys to A for life, then to A's children who reach age 21.
+
+We're told that at the time of the conveyance, A is alive and has one child, B, age 6.
+
+Following our three-step approach, the first part of our analysis is to identify any
+
+contingent future interest in a transferee.
+
+That analysis reveals that, yes, B has a contingent future interest.
+
+B has a contingent remainder.
+
+B is a child of A, and there is a condition precedent.
+
+B must not only be a child of A, but B must reach the age of 21.
+
+Keep in mind that this vesting event, being a child of A and reaching age 21, applies not
+
+only to B, but to any other children that might be born of A. Generally, when we identify
+
+an interest in a conveyance, once we have a known taker, that identification is with reference
+
+to that taker.
+
+But if A has more children, obviously those children will likewise have a contingent remainder.
+
+
+
+Yes, we have a validating life for this vesting event.
+
+That life is A, because at A's death, all of A's children will be known, and no later
+
+than 21 years thereafter, we will also know who among them has reached the age of 21.
+
+Note, this conveyance demonstrates an example of when we do, in fact, need that 21-year period
+
+in order to validate the contingent future interest.
+
+This interest in A's children who reach age 21 is valid because we will know, at the conclusion
+
+of A's life, the validating life, who all of the potential takers are, and we will
+
+know no later than 21 years after A's death who among those children have reached the
+
+age of 21.
+
+So what is the state of the title?
+
+A has a life estate, B has a contingent remainder, and O has a reversion.
+
+Why does the transferor have a reversion?
+
+Because it is possible that B's contingent remainder will not vest if B fails to reach
+
+the age of 21, and it's also possible that A may not have any children who satisfy that
+
+condition precedent.
+
+And now the time has come for the most important step in your mastery of the rule against perpetuities,
+
+and that is practice, practice, practice.
+
+Good luck.
+
+We are now entering the study of estates and land.
+
+Estates are the basic building blocks of both real estate practice and estate planning.
+
+Our system of estates and land is built on the English common law system that developed
+
+in feudal times.
+
+And as such, you are going to find the terms and the nomenclature very unfamiliar.
+
+But just like names arbitrarily given to individuals, the only way to really master this terminology
+
+is to memorize it and to practice making the associations between those terms and the interests
+
+they represent.
+
+In this video, I offer you a methodical approach to learning estates and land and to distinguishing
+
+between the present and the future interests that the parties have in those estates.
+
+Let's take a look.
+
+There were four categories of estates in feudal England.
+
+The fee simple, the fee tail, life estate and leasehold estates.
+
+And despite the intervening centuries between feudal England and our modern day, we have
+
+not added any new estates to this system of possessory interests.
+
+And in fact, we no longer recognize the fee tail estate in the United States.
+
+So we will not study that.
+
+That was an estate that was created to keep land within the bloodline of a family in feudal
+
+times.
+
+So we will concentrate on the fee simple, on the life estate and leasehold tenancies.
+
+We will put aside to week six, where we will give them concentrated study at that time.
+
+Estates are present possessory.
+
+Thank you very much.
+
+and to distinguishing between the present and the future interests that the parties have in those estates.
+
+There were four categories of estates in feudal England, the fee simple, the fee tail, life estate, and leasehold estates.
+
+And despite the intervening centuries between feudal England and our modern day,
+
+we have not added any new estates to this system of possessory interests.
+
+And in fact, we no longer recognize the fee tail estate in the United States, so we will not study that.
+
+That was an estate that was created to keep land within the bloodline of a family in feudal times.
+
+So we will concentrate on the fee simple, on the life estate, and leasehold tenancies we will put aside to week six,
+
+where we will give them concentrated study at all.
+
+at that time.
+
+Estates are present possessory interests that are measured in terms of duration.
+
+The fee simple has two categories, fee simple absolute and fee simple defeasible,
+
+which we'll explore in greater depth in a moment.
+
+The life estate is one of the few estates that is pretty much what it sounds to be,
+
+and that is an estate measured by a person's life.
+
+This graphic sets out the basic distinction between a fee simple absolute and a fee simple defeasible.
+
+Thank you!
+
+And you're Stefan says,
+
+I wish you were 24 days on our stage,
+
+but what you're planning to migrate here.
+
+You can see which we're not allowed for Pokemon
+
+you guys are invading for membershipation a lot of questions.
+
+You can see that this is a conversation of a messageäv麻布-like ёlder
+
+total, fixed, deductible,
+
+at which freedom is
+
+possible.
+
+And that distinction
+
+is one of duration.
+
+The fee
+
+symbol queda is
+
+exclusively
+
+full.
+
+It's not possible,
+
+
+
+absolute has been created. Today, it is no longer necessary to include the terminology and his
+
+heirs or and her heirs in a conveyance when the objective is to create a fee simple absolute.
+
+And where those words may appear, it is important that you remember that these are just words of
+
+limitation and not words of purchase. Also, in our system of estates, it is important to note that a
+
+bit more vandaag web opera is closed but it has been TIME. And we're каче preaching.
+
+But I just noted that, with such a question here, it
+
+is important that...
+
+We, I think, are the clams kind of mentality going after the product of
+
+start to offer that, of course, a vehicle aience left right?
+
+This is what what we expect to do versus what the provenance of the order is
+
+divisible and descendable. If you will recall when I set forth the context for what we were
+
+going to study this semester, I talked about the typical ways that property interests are created
+
+and the two categories, creation inter vivos and creation at death. So when we say an interest
+
+is alienable, we're talking about an inter vivos transfer of some type. To say that it's divisible
+
+means that it passes through a will, and to say that it's descendable means that it is passed
+
+through intestate succession, which is controlled by statute, when a person has neither planned with
+
+a will or with non-testamentary devices, such as beneficiary designations.
+
+Next, we turn to the fee simple defeasible. There are three types of defeasible fees.
+
+The language that's used to construct the conveyance is determinative of the type of
+
+defeasible fee. There are component parts to these conveyances that will help you identify
+
+correctly every time out what type of defeasible fee has been created and what the consequences
+
+will be for those who hold the present or future interest in the conveyance. Unlike so many areas
+
+of the law, this area has a right and a wrong answer. So for those who resonate to that type
+
+of analysis, you'll love this area of the law because once you learn the component parts,
+
+you will be able to correctly analyze a problem set without fail each time out. Okay, let's start out
+
+with looking at the basic construction for each type of defeasible fee. The first one on this graphic
+
+is the fee simple determinable. You will recognize this because in each fee simple determinable,
+
+there is incorporated into the conveyance durational language. In my example, it's to a so long as,
+
+but the durational language might be something like to a until, to a during such time as. All of those
+
+phrases are durational and create the limitation that is wrapped right up in the creation of the
+
+defeasible fee. The other two types of defeasible fees contain a condition subsequent. So the construction
+
+would be 2A, but if, and now insert the condition subsequent, if this condition happens, then there is a
+
+slip and the
+
+That last for the duration of someone's life.
+
+Once that person, the life tenant, passes away, the property goes to another person called
+
+a remainder or back to the original owner or their heirs.
+
+A lease hold is a temporary right to occupy the property, typically for a specified number
+
+of years.
+
+It's basically what a tenant has under a lease agreement and it eventually expires or can
+
+be renewed.
+
+So these terms describe different levels of control and duration of property ownership
+
+or use.
+
+Let me know if you need more details on any of these.
+
+When they say fee, it basically refers
+
+to an inheritable estate in land.
+
+The term comes from old English property law
+
+and is shorthand for feud or feudal,
+
+relating to the feudal system of landholding.
+
+In modern usage, fee indicates that the estate
+
+is capable of being inherited.
+
+For example, fee simple means you have the simplest
+
+and most extensive ownership interest in the property
+
+that can be passed on to your heirs.
+
+So fee is just a, you're welcome.
+
+Right, fee refers to an inheritable interest in land.
+
+It means that the ownership of the estate
+
+can be passed down to heirs or assigned to others,
+
+making it a permanent or enduring type of ownership.
+
+So when you hear fee simple or fee tail,
+
+it's describing the kind of inheritable interest
+
+the owner has in the property.
+
+Sure, when we talk about a fee interest,
+
+we're describing the type of inheritable ownership
+
+that an owner has in a property.
+
+Basically, it means the owner's interest in the property
+
+can be passed down to heirs or others,
+
+ensuring the ownership continues
+
+beyond the current owner's lifetime.
+
+This is in contrast to something like a life estate,
+
+which ends when the life tenant passes away.
+
+So fee essentially signals that the interest is inheritable
+
+and not just for a limited time.
+
+Yeah, it comes from the old feudal system.
+
+Back in medieval England,
+
+land ownership was structured around the feudal system,
+
+where lords granted land or fiefs
+
+to vassals in exchange for services.
+
+Over time, these feudal interests evolved
+
+into the more modern concept of fee interests,
+
+which are inheritable and can be freely transferred.
+
+So the term fee is a holdover from that historical context,
+
+indicating a type of inheritable ownership in land.
+
+Exactly, you got it.
+
+Fee simple is full ownership
+
+with the right to pass it on however you want.
+
+Fee tail restricts inheritance to your family line.
+
+Life estate lasts for the duration of your life
+
+and leasehold is controlled for the length of the lease.
+
+Nailed it.
+
+That's the core of it.
+
+Another detail you might come across
+
+is that each of these interests
+
+can have conditions or limitations.
+
+For example, a fee simple determinable
+
+or fee simple subject to conditions subsequent
+
+might mean that the ownership could revert to someone else
+
+if a certain condition is met or violated.
+
+But the main categories you covered are the big ones.
+
+If you understand these,
+
+you've got a solid grasp on the basics.
+
+Sure, let's bike it down further.
+
+A fee simple absolute is the most complete form of ownership.
+
+You have unlimited rights to the property and it can be sold, alienable,
+
+given away in a will, divisable, or passed to your heirs if you die without a will.
+
+There's no condition or limitation on it, so it lasts forever and can freely be transferred
+
+or inherited without any strings attached.
+
+A fee simple defeasible is a type of fee simple that comes with conditions.
+
+If a certain condition is violated or a specific event occurs, the property could revert to the original owner or pass to someone else.
+
+For example, a fee simple determinable automatically ends if the condition is breached.
+
+And a fee simple subject to conditions subsequent requires the original owner to take action to reclaim the property if the condition is breached.
+
+So the key difference is that a fee simple absolute has no conditions, while a fee simple defeasible has some kind of limitation or condition that could cause the ownership to end or change if the condition is not met.
+
+Fee simple absolute has no conditions and fee simple defeasible has conditions that can affect ownership.
+
+A fee simple subject to conditions subsequent is a type of fee simple defeasible.
+
+It means the property is granted with a condition attached.
+
+If that condition is violated, the original owner or their heirs has the right to take back the property, but they must take some action to enforce this right.
+
+In other words, the ownership doesn't automatically end when the condition is breached.
+
+Instead, the original owner has the option to reclaim it, usually through legal proceedings.
+
+It's a bit more flexible for the current holder than a fee simple determinable because the ownership only changes if the original owner decides to act on the breach.
+
+A fee simple determinable is another type of fee simple defeasible.
+
+A fee simple defeasible with this type, the estate automatically ends and reverts to the original owner if a specific condition is violated.
+
+The key difference is that the reversion happens automatically without the original owner needing to take any action.
+
+For example, if you grant someone a piece of land so long as it is used for a school, the moment it stops being used for a school, the property automatically reverts back to you or your heirs.
+
+It creates a possibility of automatic forfeiture if the condition is not met.
+
+As long as the land is used for farming.
+
+Now, we could have phrased it to a until such time as a land is no longer used for farming or we could have said to a during the time that the land is used for farming.
+
+So it could be different types of durational language, but what's essential is that it is creating a durational limit on that fee that if the limitation is violated, the fee is what we call defeased.
+
+The fee ends, so given that this is the present possessory interest, this fee simple determinable, if the land is no longer used for farming, who then has the present possessory interest?
+
+The answer to this question is that O, the transferor, would once again have a fee simple absolute.
+
+Now let's look more closely at the transferor side of this concession.
+
+Exactly. When the condition is violated in a fee simple determinable, the property automatically reverts to the original owner or their heirs.
+
+The original owner or whoever holds the future interest now has the present possessory interest again.
+
+This makes it a powerful tool for ensuring that the land is used as intended, but it also means the current holder must adhere strictly to the condition to maintain ownership.
+
+That interest is called a possibility of reverter. A possibility of reverter is among a class of interest known as future interest.
+
+Why do we label this a future interest?
+
+First, it should be noted that a possibility of reverter is a presently existing legal interest.
+
+But what is future in its character is that the possibility of possession is in the future.
+
+So let's look at our conveyance again and suppose that A continues to use the land for farming throughout A's lifetime.
+
+So in other words, the limitation is never violated. O's possibility of reverter then never became possessory.
+
+So that's why it's a possibility of reverter.
+
+The possibility exists that the limitation, the land being used for farming, might be violated, in which case O would then once again have the present possessory interest.
+
+Note that if the limitation in a fee simple determinable is violated, the possibility of reverter becomes possessory automatically.
+
+So let's recap what we've learned about the fee simple determinable.
+
+In the conveyance O conveys greenacre to A, so long as the land is used for farming, if you are asked to identify the state of the title to greenacre, what is the appropriate response?
+
+A has a fee simple determinable, and this is the present interest because that is the present possessory interest in the estate.
+
+O has a possibility of reverter, which is known as the future interest.
+
+If you recall, the other two types of the feasible fees each contain a condition subsequent.
+
+First, let's look at the fee simple subject to condition subsequent.
+
+Our example is that O conveys greenacre to A, but if A no longer uses the land for farming, O has the right to reenter.
+
+The phrase, but if A no longer uses the land for farming, is known as a condition subsequent.
+
+If you look at the construction, think of it in these terms.
+
+The conveyance grants something to A, but the phrase, the condition subsequent, but if A no longer uses the land for farming, is the mechanism that could take it away.
+
+That is the condition subsequent.
+
+A is said to have a fee simple subject to condition subsequent, and A's interest, this defeasible fee, is the present possessory interest.
+
+What is unique to a fee simple subject to condition subsequent is that the transfer or, O in our example, holds the future interest.
+
+O has the right to reenter.
+
+A distinction between a fee simple subject to condition subsequent and a fee simple determinable, which we just looked at, is that with a fee simple subject to condition subsequent, O's right to reenter does not result in automatic divestment of A's defeasible fee, but it gives O the option to reenter.
+
+In other words, O must exercise the right to reenter.
+
+What happens if A no longer uses the land for farming and O does not exercise the right to reenter?
+
+Well, if the period of time for asserting property interest passes, in other words, the statute of limitations passes, A would then have a fee simple absolute unencumbered by the condition subsequent.
+
+So once the condition subsequent happens, it starts the statute running that sets the time period within which O has to assert O's right to reenter.
+
+So what is the label that we give to O's interest at the time that O creates the fee simple subject to condition subsequent in A?
+
+We call O's interest a right of entry. It is sometimes also phrased as a power of termination.
+
+The right of entry is called a future interest because there is the possibility of a future right of possession.
+
+Although the possessory interest is future, a right of entry or power of termination, if phrased that way, is a presently existing legal interest, just not a possessory one.
+
+Let's then review the fee simple subject to condition subsequent. In our example, O conveys green acre to A, but if A no longer uses a land for farming, O has the right to reenter, what is the state of the title?
+
+The correct answer is that A has a fee simple subject to condition subsequent, which is the present interest, and O has a right of entry, the future interest.
+
+The third type of defeasible fee is the fee simple subject to executory limitation. Like the fee simple subject to condition subsequent, the fee simple subject to executory limitation always contains a condition subsequent.
+
+In fact, in our example, O conveys green acre to A, but if A no longer uses the land for farming, then to C, the condition subsequent is exactly the same condition subsequent as we used in our fee simple subject to condition subsequent illustration, that being, but if A no longer uses the land for farming.
+
+What is different between the fee simple subject to executory limitation and the fee simple subject to condition subsequent is that in the fee simple subject to executory limitation, the future interest is held by another transferee rather than the transferor.
+
+In this example, then to C creates an executory interest in C, and if the condition subsequent occurs, A no longer using the land for farming, the executory interest in C will automatically divest A's fee.
+
+If you recall, in our example of the fee simple subject to condition subsequent, the right of entry in O was not automatic upon the occurrence of the condition subsequent. O had to exercise that right.
+
+In contrast, the executory interest in C, in this example, does operate in an automatic fashion to divest A's fee.
+
+A, in this example, is said to have a fee simple subject to executory limitation, and this is the present possessory interest until or unless the condition subsequent happens.
+
+You should also note that in some literature, the feasible fee is known as a fee simple subject to executory interest.
+
+The terminology executory limitation and executory interest are interchangeable.
+
+With a fee simple subject to executory limitation, if the condition subsequent happens, who then has the present possessory interest?
+
+The answer, of course, is C, who held the executory interest, now has the present possessory interest, which we call a fee simple absolute.
+
+So let's review the fee simple subject to executory limitation.
+
+If the conveyance is O conveys Green Acre to A, but if A no longer uses the land for farming, then to C, what is the state of the title to Green Acre?
+
+The answer is that A has a fee simple subject to executory limitation, which is the present possessory interest, and C has an executory interest, which is a future interest.
+
+This recap comparison of a fee simple subject to condition subsequent with a fee simple subject to executory limitation should help you keep these two types of defeasible fees distinguished.
+
+While they both contain a condition subsequent, the most obvious difference is that with a fee simple subject to condition subsequent, the future interest is in the transferor, and the language indicates that there is a fee simple subject to condition subsequent.
+
+That interest has either a right to reenter or a power to terminate.
+
+With the fee simple subject to executory limitation, the future interest is in a transferee, and that interest is an executory interest.
+
+A distinction in terms of the way that defeasement operates in each of these defeasible fees is that with the fee simple subject to condition subsequent, the fee is not automatically divested when the condition subsequent occurs.
+
+The transferor has to elect to use the right to reenter or the power to terminate.
+
+With a fee simple subject to executory limitation, the fee is automatically divested by the executory interest.
+
+Now let's look at the easiest estate to recognize, the life estate.
+
+A life estate is either measured by the transferee's life or measured by the life of another.
+
+Our example O conveys to A for life illustrates a life estate measured by the transferee's life.
+
+O conveys to A for the life of B is an example of a life estate measured by the life of another in this example B.
+
+A life estate that is measured by the life of another is known as a life estate per autre vie.
+
+Whether the life estate is measured by the transferee's life or by the life of another, the life estate is the present possessory interest.
+
+Is a complexion of a marginless property.
+
+Is a은B.
+
+a conflict of opportunity.
+
+Aудь dafürn'tä...
+
+A householdria's�...
+
+A dependency being on a shaft as a classical a Hamb sophomore.
+
+A person's life.
+
+A love amount o'r live a life.
+
+
+
+K̶eo.
+
+A local a name.
+
+Anfield partyⅦ.
+
+One is dramatically new.
+
+A place where people will get anVEN.
+
+Who has the future interest?
+
+The answer is that O, the transferor, has the future interest known as a reversion.
+
+Note, at the conclusion of the life estate, O's future interest becomes possessory.
+
+When that happens, we classify O's interest as, once again, a fee symbol absolute.
+
+Let's recap.
+
+If O conveys Greenacre to A for life, what is the state of the title to Greenacre?
+
+A has a life estate, the present possessory interest.
+
+We classify O's interest as, once again, a fee symbol absolute.
+
+O has a reversion, the future interest.
+
+Now let's apply what you've learned about estates and land.
+
+Please answer the questions in this week's self-paced material on Estates and Land.
+
+You
+
+A future interest is a presently existing legal interest that will or may become possessory
+
+in the future.
+
+At first encounter, most students find future interests daunting.
+
+My goal in this video is to introduce you to a methodology that will help you identify
+
+and analyze future interests correctly each and every time out.
+
+Think of it like a board game.
+
+You have to know the rules before you can play.
+
+That's what this video is about, so let's have some fun with future interests.
+
+Perhaps without realizing it, you have already learned the class of future interests that
+
+can be held by a transferor.
+
+There are three types, the reversion, the possibility of reverter, and a right of entry or power of
+
+termination.
+
+A transferor retains a reversion any time the transferor carves out a lesser estate than
+
+what the transferor has.
+
+So in the instance of a transferor who has a fee simple absolute, when a life estate is
+
+carved out, the transferor retains a reversion in fee simple absolute.
+
+So in our example, O conveys to A for life.
+
+At the end of A's life, which is the end of the life estate, O's reversion becomes possessory
+
+once again, and O is restored to a fee simple absolute.
+
+The possibility of reverter accompanies the creation of a fee simple determinable.
+
+Our example, O conveys to A so long as A uses the land for farming.
+
+Now if you recall, a defeasible fee is of potentially infinite duration.
+
+So long as A uses the land for farming, A's fee simple determinable will not be defeased.
+
+But if A ceases to use the land for farming, then O's future interest, the possibility of
+
+reverter, automatically becomes possessory.
+
+The right of entry, power of termination, as you recall, does not operate in an automatic fashion.
+
+This future interest in a transferor accompanies the creation of a fee simple subject to condition
+
+subsequent.
+
+In this example, O conveys to A, but if A no longer uses the land for farming, that's
+
+the condition subsequent, O has the right to reenter.
+
+If A no longer uses the land for farming, O has to exercise that right to reenter.
+
+Now let's turn to future interests in the transferee.
+
+There are three types.
+
+of future interests. The contingent remainder, the vested remainder, and the executory interest.
+
+A contingent remainder occurs when the transferee is either not ascertainable,
+
+or the vesting is subject to a condition precedent, or possibly both. With a vested remainder,
+
+you know who the transferee is, and there is no condition precedent. The executory interest is
+
+defined as a divesting interest on a condition precedent. Now, I realize that this all just
+
+sounds like definitions, and that you need something more concrete to be able to recognize
+
+these interests when they appear in a conveyance. I'm now going to give you a step-by-step approach
+
+to help you do that. Let's look first at remainders. If you recall, the general classification of
+
+remainders includes both contingent remainders and vested remainders. In either category, to be a
+
+remainder, there must be something for the remainder to remain after. That something is a prior
+
+supporting estate in a transferee. That will be the present possessory interest. A prior supporting
+
+estate must be a lesser estate than a fee simple absolute or a fee simple defeasible. Why? Because
+
+a fee simple absolute or fee simple defeasible is of potentially infinite duration. In order to be a
+
+prior supporting estate, it must be possible for a remainder to become possessory at the natural
+
+expiration of that estate. Let's look at some examples that illustrate the concept of a prior
+
+supporting estate. In our first conveyance, O conveys to A for life, then to C if C graduates law
+
+school. We look for the present possessory interest, and that is a life estate in A. What remains after
+
+is a contingent remainder in C, which contains the condition precedent if C graduates law school.
+
+It is possible in this conveyance that at the natural expiration of A's life estate, in other
+
+words, at A's death, that C's remainder interest could become possessory if in fact C has graduated
+
+law school. In the next conveyance, to A for the life of B, then to C, what C has is a vested
+
+remainder. We know who C is, and there is no condition precedent. The prior supporting estate to A for the
+
+life of B is a life estate per autra B, a life estate measured by the life of B. At the natural conclusion
+
+of that life estate per autra B, C's vested remainder will become possessory. In the third example, to A for five
+
+years, then to B's children, what A has is a term of years. We haven't studied this yet. It is one of
+
+the leasehold estates. Then to B's children is a remainder, and what type of remainder it is depends
+
+on facts that are not apparent on the face of this conveyance. If B is dead and all of B's children
+
+are known, then it's a vested remainder. If B is alive and has no children yet, it's a contingent
+
+remainder because we have an ascertainment issue. Now for the sake of comparison and contrast, let's
+
+consider examples where there is no prior supporting estate for the transferee's future
+
+interest. In the first example, O conveys to C if C graduates law school. Note, O has retained the
+
+present possessory interest, and if C graduates law school, C's future interest divests O's present
+
+possessory interest. In the next example, O conveys to A, but if A dies before B, then to B. In this
+
+example, it's a transferee that has the present possessory interest, but note if A dies before B,
+
+A's interest is actually divested, and B's interest becomes vested in possession. So rather than there
+
+being a present possessory estate in a transferee, that concludes at the natural expiration of the
+
+estate, in this instance, A has a fee symbol subject to executory limitation that could be of infinite
+
+duration. But if the condition subsequent happens, A dying before B, then B's interest, which we call
+
+an executory interest, shifts and divests A. So in these examples, we do not have remainders, we have
+
+executory interests, and as we'll see later in this video, the interest to C in our first example is also
+
+an executory interest, but it behaves differently than the one in B in our second example. What is
+
+the difference? The executory interest in C will divest the transfer or, whereas the executory
+
+interest in B divests another transferee. When analyzing a conveyance that contains a future
+
+interest in a transferee, I recommend that you first analyze it to determine whether the interest is a
+
+remainder. Let's look at this example. To A for life, then to B if B reaches the age of 25. The first
+
+question you should ask is, where is the present possessory interest, and does it qualify as a
+
+prior supporting estate? The answer to the first question in this example is yes. The present
+
+possessory interest is a life estate in A, and it qualifies as a prior supporting estate. Once we know
+
+that we have a prior supporting estate, we also know that what follows is a remainder interest in the
+
+transferee. Now we have to determine what kind of remainder interest. I recommend that you next look
+
+at whether there is an ascertainment issue and whether there is a condition precedent.
+
+In this particular example, there is not an ascertainment issue because we know the taker.
+
+The taker is B. However, when we look at the language of the conveyance, we see that there
+
+is a condition precedent. What is a condition precedent? A condition that must happen before
+
+the taker's interest vests in possession. The condition precedent in this conveyance is B reaching
+
+the age of 25. Because there is a condition precedent and there was a prior supporting estate,
+
+B has a remainder known as a contingent remainder.
+
+Let's look at another example. In this conveyance, O conveys to A for life, then to B. Of course,
+
+our first question is do we have a prior supporting estate? The answer is yes, we have a life estate
+
+in A, that is the present possessory interest, and it qualifies as a prior supporting estate.
+
+Next, we analyze to determine whether this is a contingent remainder. Remember that the two
+
+questions we ask are whether there's an ascertainment issue and whether there is a condition precedent.
+
+In this conveyance, the answer to both questions is no. B is a known taker, and there is no
+
+condition precedent to B's interest vesting. Thus, what B has is a remainder known
+
+as a vested remainder.
+
+Now that you have the general guidelines for distinguishing a contingent remainder from a
+
+vested remainder, it's time to take a closer look at both of these categories to understand the
+
+different types of contingent remainders and vested remainders that can occur. In the category of
+
+contingent remainders, any one of three circumstances will yield a contingent remainder, either an
+
+ascertainment issue, a condition precedent, or both. The example to A for life, remainder to A's children,
+
+the remainder to A's children is contingent because at the time of the conveyance we're told
+
+that A has no children, and thus we have an ascertainment issue. In the second example,
+
+to A for life, remainder to B if B survives A, the remainderman B is ascertained. However,
+
+there is a condition precedent. In order for B's remainder to vest, there is a condition precedent
+
+that B survives A. In the last example, to A for life, remainder to A's children who survive A,
+
+we have both circumstances, both an ascertainment issue and a condition precedent. We're told that at
+
+the time of the conveyance, A has no children, which is the ascertainment issue, and there is also a
+
+future interest. These are known as executory interests. In the example O conveys to C if C
+
+graduates law school, the present possessory interest is retained in O, and the interest in C
+
+is known not only as an executory interest, but as a springing executory interest. In the second example,
+
+O conveys to A, but if A dies before B, then to B, the present possessory interest in A is known as a
+
+fee symbol, subject to executory limitation, and B's interest is known as a shifting executory interest.
+
+The definition of an executory interest is that it is a divesting interest on a condition
+
+precedent. Now I just mentioned that there are two types of executory interests, springing and
+
+shifting. It's fairly easy to see from our two examples how an executory interest is a divesting
+
+interest. So it becomes possessory not at the natural expiration of a prior supporting estate,
+
+it becomes possessory by divesting another present possessory interest, either a present possessory
+
+interest in the transferee or a present possessory interest in a transferee. It's a springing
+
+executory interest when it springs back and divests a transferee, and it's a shifting executory interest
+
+when it shifts over and divests another transferee. Now the definition, a divesting interest on a
+
+condition precedent, many students find confusing. Let's look at the more straightforward example of
+
+this. O conveys to C if C graduates law school. If we look at the wording to C if C graduates law
+
+school, the wording if C graduates law school looks like a condition precedent. So it's easy to
+
+understand in that example how the springing executory interest is a divesting interest on a
+
+condition precedent. What becomes confusing is the circumstance of the shifting executory interest,
+
+and why is that so? If we look at the conveyance O conveys to A, but if A dies before B, then to B,
+
+what we recognize in that conveyance is the condition subsequent. We learned when we study the feasible
+
+fees that this is a fee simple subject to executory limitation because of that condition subsequent,
+
+but if A dies before B. So if this conveyance contains a condition subsequent, how can we say
+
+that the shifting executory interest is a divesting interest on a condition precedent? Here's the
+
+answer. When we label interest, we always go from left to right, but if A dies before B is called a
+
+condition subsequent because it refers to the preceding interest, that defeasible fee in A. It's the
+
+condition that happens after that can divest A's fee simple subject to executory limitation.
+
+But consider that same condition, but if A dies before B, while it operates as a condition subsequent
+
+that can take away, divest A's interest, that same condition operates as a condition precedent to B's
+
+shifting executory interest vesting. However, the label is condition subsequent because it refers to
+
+the preceding interest. So while we never call that a condition precedent in the operation of B's
+
+shifting executory interest, what B has is a divesting interest on a condition precedent. The condition
+
+video several times.
+
+In the first video lecture for this week, I introduced you to the concept of future
+
+interests. As you recall, a future interest is a presently existing legal interest, but
+
+what is future about that interest is the possibility of possession. In the prior video,
+
+we explored, in general, the entire landscape of future interests, including interests that
+
+can be held by a transferor and those that can be held by a transferee. Future interests
+
+in a transferee include executory interests as well as remainders, and remainders are further
+
+classified as either contingent or vested. Now, within those classifications of remainders,
+
+there are further details that are important to your ability to recognize and correctly label
+
+remainder interests, and that's what we will focus on primarily in this video presentation.
+
+So, in other words, it is generally a life estate, a life estate per attra vie, or a leasehold estate
+
+known as a term of years. Now, it need not be certain that the remainder will become possessory
+
+upon the natural expiration of that prior supporting estate. It need only be possible. And what do we
+
+mean by the natural expiration of that prior supporting estate? Well, if it is a life estate,
+
+it is simply the end of the measuring life for that life estate. Or if it is a term of years,
+
+it is the conclusion of that time period set out for the term of years leasehold estate. In other
+
+words, there doesn't have to be the happening of a vesting condition. It is just the natural
+
+expiration of that prior supporting estate. To put into perspective the remainder interest,
+
+it's helpful to contrast it with executory interest. If you recall, an executory interest
+
+vests in possession only by divesting another interest. In other words, there is a condition that
+
+serves as that vesting event. And again, the remainder simply vests in possession upon the natural
+
+conclusion or expiration of that prior supporting estate. Let's review the graphic that summarizes
+
+executory interests. If you recall, executory interests are known as divesting interests on a
+
+condition precedent. This is because the only way that an executory interest can become possessory
+
+is by the happening of a condition that will divest the current holder of the possessory interest and
+
+vest into the holder of the executory interest possession. Executory interests are labeled with reference to
+
+whether the interest will divest a transferor or will divest another transferee. The executory interest
+
+that divests a transferor is known as a springing executory interest. I find it helpful to think
+
+about it as springing back to the transferor and divesting that transferor if the vesting event
+
+occurs. With the shifting executory interest, the holder of the present possessory interest
+
+is another transferee. So if we think about the two sides of the conveyance, one being the transferor and
+
+the other one being the transferee side, an executory interest is on the same side as the holder of
+
+the possessory interest. If we look at our example of a shifting executory interest, it helps to
+
+illustrate this point. O conveys to A, but if C graduates law school, then to C. A, a transferee,
+
+currently holds a fee simple subject to executory limitation. C has the shifting executory interest
+
+and the vesting event, but if C graduates law school, is the condition subsequent as to A's interest
+
+that actually acts like a condition precedent to the vesting of C's interest. If C graduates law school,
+
+C's executory interest shifts over and divests A. In contrast, our first example, O conveys to C,
+
+if C graduates law school, the present possessory interest in this example is held by O, the transferor.
+
+It is a fee simple subject to executory limitation, but one held by a transferor. So the condition to
+
+vesting if C graduates law school is more apparent in its nature of a condition precedent because it is
+
+the thing that has to happen if C's executory interest is going to spring back and divest the transferor.
+
+Now let's consider these examples of conveyances that contain remainder interest. Hopefully our
+
+brief review of executory interest will help you distinguish a remainder interest from an
+
+executory interest. Now in each of these conveyances, I have highlighted in yellow the
+
+portion that constitutes a remainder. We will come back to each of these separately to determine exactly
+
+what type of remainder is created. Before we do that though, I would like to look at the prior
+
+supporting estate in each of these conveyances. If you recall, in order to have a remainder in a
+
+conveyance, there must be something for that remainder to remain after, and that something
+
+is the prior supporting estate. A prior supporting estate is an estate of a lesser duration than either
+
+a fee simple absolute or a fee simple defeasible, and it must be at least possible for the remainder
+
+to vest in possession at the natural expiration or conclusion of that prior supporting estate.
+
+So in our first example to A for life, we have a life estate, and while it is not certain that C
+
+will have graduated law school by the end of A's life, it is at least possible. In the second example
+
+to A for the life of B, this is a life estate per otra B. So at the end of B's life, then C's interest
+
+is to vest in possession. What if C happens to die before B? It doesn't matter because C's
+
+remainder interest can pass to C's estate. In the last example to A for five years, we have what's
+
+called a term of years or a leasehold estate. It's to A for five years, then to B's children. What if in
+
+five years, B doesn't have any children yet? Again, it doesn't matter. What's important is that it's at
+
+least possible, and so we have a remainder interest that is remaining after this prior supporting estate.
+
+So let's take a look more closely at each of these conveyances to determine the proper label for
+
+the remainder interest contained in each. In our first example, O conveys to A for life, then to C,
+
+if C graduates law school. What C has is a contingent remainder. Why is it contingent? Because there is
+
+contained within that remainder a condition precedent. That condition is if C graduates law school.
+
+In our second example, O conveys to A for the life of B, then to C, C has an indefeasibly vested
+
+remainder. We know who the taker is, and there is no condition precedent to the vesting, nor is there a
+
+condition subsequent that could take it away. So it is an indefeasibly vested remainder. In our third
+
+example, O conveys to A for five years, then to B's children, we need more information before we can
+
+put a label on this remainder interest. So what do we need to know? Well, the relevant questions are,
+
+is B alive, and does B have any children? If B is alive, but B has no children, then the remainder is
+
+a contingent remainder. Why? Because the takers, the potential takers, are unascertained.
+
+If B is alive and has at least one child, then the remainder is labeled as a vested remainder
+
+subject to open. And what subject to open means is that that child's interest could be partially
+
+divested by the birth of more children. The remainder remains subject to open until the class
+
+of B's children is closed. When does that happen? Closure of that class will happen on B's death.
+
+And what if B is dead at the time of this conveyance? If B is dead and has children,
+
+then the remainder is an indefeasibly vested remainder. The takers are known and the class
+
+is closed. So B's children will share proportionately in this vested remainder.
+
+As you will recall, there are two basic categories of remainders, contingent and vested. Let's review
+
+the features of each. Contingent remainders occur when we have an ascertainment issue in the conveyance.
+
+If you take a look at the example on the graphic, 2A for life, remainder 2A's children,
+
+and we're told that A has no children at the time of the conveyance, so the potential takers are
+
+unascertained, or there is a condition precedent. Our example with a condition precedent is to A
+
+for life, remainder 2B if B survives A, or the conveyance has both, both an ascertainment issue
+
+and a condition precedent. So our example for this is to A for life, remainder 2A's children who survive
+
+A and we're told that A has no children at the time of the conveyance. So while a remainder may be
+
+considered contingent for different reasons, no matter what the reason, ascertainment, condition
+
+precedent, or both, we simply call that remainder a contingent remainder. If we know at least one
+
+taker and there is no condition precedent to vesting, the remainder is some type of vested
+
+remainder. That said, there are three types of vested remainders. The most easily recognizable
+
+vested remainder is the indefeasibly vested remainder. In our example, the conveyance is to
+
+A for life, remainder 2B. We have a known taker, there is no condition precedent, and there is no
+
+condition subsequent. The second type of vested remainder is vested subject to open. Our example,
+
+to A for life, remainder 2B's children. And in this example, we're told that B is alive and has
+
+one child D. This is a class gift. So with a vested remainder subject to open, we know at least one
+
+taker, but we have an open class of takers. The third type of vested remainder, vested subject to
+
+complete divestment, occurs when the remainderman has the interest, the future interest, but could lose
+
+it upon the happening of a condition subsequent. So in our example, to A for life, remainder to C,
+
+but if C fails to survive A, then to B, C has a vested interest. However, C could lose it upon the
+
+happening of the condition subsequent. And that condition in the conveyance is, but if C fails
+
+to survive A. Who would take if that condition happens? Well, B would take. B has the shifting
+
+executory interest. Now, while there are only three types of vested remainders, indefeasibly vested,
+
+vested subject to open, and vested subject to complete divestment, and this is sometimes phrased
+
+simply as subject to divestment, while there are only those three types, it is possible for a taker to
+
+have a vested remainder that is both subject to open and subject to complete divestment. Consider the
+
+example. O conveys to A for life, then to B's children, but if B has no children that survive
+
+A, then to C. In this example, we're told that B is alive and has one child, D. So D has a vested
+
+remainder subject to open. His interest is a part of a class gift to B's children, and so if additional
+
+children are born to that class before it closes, D's interest will be diluted. But D's interest is
+
+also subject to complete divestment. What would the divesting event be that could completely take away
+
+D's interest? It would be that on the death of A, that none of B's children survive A. In the event of
+
+that occurrence, then D's interest would be completely divested. So again, for now, just
+
+keep in mind that while there are three types of vested remainders, it is possible for a remainder
+
+to be both subject to open and subject to complete divestment. This occurs when you have both a gift
+
+to an open class or conveyance to an open class, and you have a condition subsequent that could
+
+completely divest that interest. So let's recap. With a contingent remainder, either no taker is
+
+ascertained, there is a condition precedent, or both. Regardless, all contingent remainders are simply
+
+called contingent. With a vested remainder, we know at least one taker, and there is no
+
+condition precedent. The three types of vested remainders are indefeasibly vested, vested subject
+
+to open, and vested subject to divestment. Those learning future interests, and particularly
+
+remainders, often have difficulty distinguishing between conditions precedent and conditions
+
+subsequent. The key question to this determination is, must the condition happen before or after to
+
+vest possession. If the condition must happen before, then it is a condition precedent. And if
+
+it happens after, in other words, it operates to take possession away from one transferee and vest
+
+it in another, then it is a condition subsequent. Let's look at condition precedent examples. O conveys to
+
+A for life, then to C, if C graduates law school. If C graduates law school is a condition precedent
+
+to C's interest, a contingent remainder vesting. In the second example, O conveys to A for life, then to C,
+
+if C graduates law school, and if C does not graduate law school, to D. This example looks
+
+similar to the first because we have the condition precedent, if C graduates law school, necessary to
+
+vest possession in C, but then we have the reverse of that, and if C does not graduate law school,
+
+operating as a condition to vest possession in D. What these remainders in this example are called
+
+is alternate contingent remainders. They are alternate because if the condition happens, C graduating law
+
+school, possession goes to C. And if the condition does not happen, C does not graduate law school,
+
+it goes to D. So these are alternate contingent remaindermen, and the vesting of possession depends on
+
+the happening or the failure to happen of the same condition. In our last example, O conveys to C
+
+if C graduates law school. This is a condition precedent, but what we have in this example is not a
+
+contingent remainder. Why is this not a contingent remainder? Because if you recall, a remainder must
+
+remain after something on the transferee side of the conveyance. In this example, the present possessory
+
+interest is held by O. O holds a fee simple subject to executory limitation, and that means of course
+
+that what C has is a springing executory interest. So to review, in our first conveyance to A for life
+
+then to C if C graduates law school, C has a contingent remainder. In the second conveyance,
+
+O conveys to A for life then to C if C graduates law school, and if C does not graduate law school,
+
+to D, C and D have alternate contingent remainders. And in the last example, O conveys to C if C graduates
+
+law school, C does not have a remainder, C has a springing executory interest. Because if the
+
+condition precedent happens, C graduating law school, C's interest will divest O, the transfer or,
+
+of O's fee simple subject to executory limitation. Now let's look at condition subsequent examples.
+
+Our first example, O conveys to A, but if C graduates law school, then to C. But if C graduates law school
+
+is the condition subsequent in that conveyance. In the second example, O conveys to A for life,
+
+then to C. But if C fails to graduate law school, then to D. We have the same condition subsequent,
+
+but if C fails to graduate law school. But what the interests are labeled in these conveyances
+
+are very different. Let's take a closer look. In our first example, the present possessory interest
+
+is held by A, and that interest is called a fee simple subject to executory limitation.
+
+C has a shifting executory interest. Upon the occurrence of the condition subsequent,
+
+C graduating law school, A's interest is divested, and C's shifting executory interest shifts over
+
+into possession. In our last example, the present possessory interest is the life estate in A.
+
+It is followed by a remainder interest in C. This is a vested remainder because we know who the taker
+
+is, and there is no condition preceded. However, it is followed by a condition subsequent. That
+
+condition is but if C fails to graduate law school. If that condition subsequent happens,
+
+it will operate to divest C of C's vested interest. So what C has is a vested remainder subject to divestment,
+
+sometimes referred to as subject to complete divestment, and the divesting interest, the
+
+shifting executory interest, is held by D. Following this video, I have designed two problem
+
+into executory interests treated in one and remainder interests in the other to help reinforce what you
+
+If there were an initiation into the legal profession, it would be the rule against
+
+perpetuities. I guarantee that if you mention this rule among a gathering of lawyers, you
+
+will hear groans and you will probably hear some people exclaim, I never really understood
+
+that rule. Well, it's my goal and expectation this semester that you will not only understand
+
+it, but that you will develop a confidence in analyzing conveyances to determine whether
+
+or not the future interests in those conveyances are valid under the rule. So let's get started.
+
+The purpose of the rule against perpetuities is to limit the extent of deadhand control that one can
+
+exercise over property. As formulated under the common law, the rule provides no contingent future
+
+interest is valid unless it is certain to vest or fail not later than 21 years after a life and being
+
+at the creation of the interest. What this rule enables the grantor to do is to make a gift to
+
+takers in the first generation after known lives and to condition it upon the traditional age of
+
+majority, the age of 21. Contingent future interests must be analyzed under the rule at the time the
+
+conveyance becomes effective. That is, if it is an inter vivos conveyance, the conveyance is analyzed
+
+for validity at the time the conveyance is executed. If it is a testamentary devise, it is analyzed at the
+
+moment of the decedent's death. If an interest fails the rule scrutiny, it is void ab initio, in other
+
+words, void from the moment that it was purportedly created. A conveyance that contains a contingent future
+
+interest that is void under the rule must be construed as if it did not contain the faulty interest.
+
+The rule applies only to contingent future interests in a transferee. So future interests
+
+in a transferor are not subject to the rule. If a conveyance contains a reversion, a possibility of
+
+reverter, or a right of entry, those future interests do not need to be scrutinized under the rule.
+
+What are contingent future interests in the transferee? Please note that category is broader
+
+than merely contingent remainders. Contingent future interests include not only contingent remainders,
+
+but also vested remainders subject to open and executory interests. Each of these types of future
+
+interests contains some sort of contingency to vesting. If you recall, with a contingent
+
+remainder, it is contingent because either we don't know who the taker is, we have an
+
+ascertainment issue, or there is a condition precedent, or both. With a vested remainder
+
+subject to open, the contingency is closure of that class gift. And with executory interest,
+
+by definition, an executory interest is a divesting interest on a condition precedent,
+
+on a condition that has to happen first. If it is a springing executory interest, it will divest
+
+the transferor, and if it is a shifting executory interest, it will divest a transferee.
+
+perpetuities. Thus, the first question you should ask yourself when examining a conveyance
+
+for validity under the rule is whether you have a contingent future interest. Identify
+
+all future interests in the conveyance, and then hone in on any that meet the definition
+
+for a contingent future interest. Next, be sure to remember that the rule is applied at
+
+the moment the conveyance becomes effective. If it is an inter-bibos conveyance, that moment is
+
+when the conveyance is executed. If it is a testamentary devise, the relevant facts are
+
+those that exist when the testator dies. Also keep in mind that if a contingent future interest
+
+violates the rule, that interest is void ad initio, meaning from its purported creation,
+
+it is as if it never existed in the language of conveyance.
+
+You may encounter many tips for applying the rule against perpetuities. What I recommend in this video
+
+is what works for me, and what seems to have helped a lot of my students. That said, if you find the
+
+techniques described in the textbook to be more helpful to you, then by all means use them. These
+
+are all roads to the same destination. What I recommend is that you work in three steps. First,
+
+you analyze the conveyance to identify all contingent future interests in a transferee. Then, second,
+
+for each of those contingent future interests, identify what the vesting event for that interest would be.
+
+And third, find a validating life or lives, if there are any, for each of those vesting events.
+
+And that validating life must be one that has relevance for the vesting event. The textbook
+
+refers to it as causally related. But remember, the only real way to learn the rule against
+
+perpetuities is by practice and looking at examples. Before we do that, I have one other tip for you.
+
+The rule against perpetuities describes the perpetuities period as lives in being,
+
+and not later than 21 years thereafter. The 21 years part of the definition only comes into play
+
+when we have conditions that involve reaching a certain age or the passage of a certain period of time.
+
+For many conveyances, it will not be relevant. So I recommend that you put the 21 years off to the
+
+side and only bring it to the table if you need it for the particular vesting event at hand. It is
+
+much simpler to look at just these three steps. The contingent future interest, the vesting event
+
+for that interest, and the validating life or lives, if any, exist for that vesting event. Okay,
+
+let's look at some examples. In our first example, O conveys to A for life, then to A's children for
+
+their lives, remainder to B. We're not told whether A has children at the time of this conveyance.
+
+Our first task then is to identify whether there are any contingent future interests
+
+in a transferee. Analyzing this conveyance, we see that A has the present possessory interest,
+
+a life estate. The remainder in life estate to A's children is a contingent future interest.
+
+if A does not have children yet, or if at least one child is born and known, then the remainder would
+
+be a vested remainder subject to open in life estate. So the answer is yes, we have a contingent future
+
+interest. The remainder to B in fee simple is an indefeasibly vested remainder, and it does not
+
+need to be analyzed under the rule. The next step in our analysis is we need to determine what is
+
+the vesting event for the contingent future interest, the remainder for life in A's children.
+
+or another way of putting that is what is the vesting event, we realize that it is being a child of A
+
+and closing the class. That leads us then to our third question, which is do we have a validating
+
+life for that vesting event? The answer to this last question is yes, A is a validating life. The
+
+class will close at the conclusion of A's life. In other words, we will know at the conclusion of A's
+
+life whether A had children and the identities of all of those children. Given that all of the
+
+contingent future interests in this conveyance are valid under the rule, what is the state of the
+
+title? A has a life estate. A's children have either a contingent remainder for life, if none are yet born,
+
+or a vested remainder subject to open for life, if at least one child is born. B has an indefeasibly
+
+vested remainder in fee simple. Let's look at our next example. O conveys to A for life, then to A's
+
+children for their lives, remainder to A's grandchildren. We're told that A is alive and
+
+has one child B and no grandchildren. First, let's analyze to identify any contingent future interests
+
+in a transferee. In analyzing this conveyance, we find that we have two contingent future interests.
+
+One in B, who has a vested remainder subject to open in life estate, and the other in A's grandchildren,
+
+there are none identified at this time, so it would be a contingent remainder in fee simple.
+
+interests. The vesting event for B's vested remainder subject to open in life estate is simply
+
+closure of the class of A's children. The vesting event for the contingent remainder in A's grandchildren
+
+is closure of the class of A's grandchildren. Next, we need to analyze for the validating life or lives
+
+for each of these vesting events. In our search for validating lives for these vesting events,
+
+we find that yes, we do have a validating life for B's interest. A can serve as a validating life
+
+because at the end of A's life, the class of A's children will close, thus vesting B's interest.
+
+However, the contingent remainder in A's grandchildren is problematic. We do not have the requisite
+
+validating lives. Why? Because we would need to have a closed class of A's children to serve as a
+
+validating life for ascertainment of the identity of A's grandchildren. Because the class of A's
+
+children is open at the time of this conveyance, we do not have the requisite validating lives,
+
+and therefore the contingent remainder in A's grandchildren is void. And as you recall,
+
+if an interest is void under Rule Against Perpetuities analysis, it is considered void
+
+ab initio from the beginning as if the conveyance had been drafted without that interest.
+
+Any interest that is void under Rule Against Perpetuities analysis must be stricken from the
+
+conveyance. In our example then, the conveyance now reads to A for life, then to A's children for
+
+their lives. The language remainder to A's grandchildren has been stricken.
+
+So what then is the state of the title as a result of this conveyance? A has a life estate,
+
+B has a vested remainder subject to open in life estate, and O has a reversion.
+
+Let's reconsider this example, changing one fact. If instead of an intervibos conveyance,
+
+what if the testator, T, devises to A for life, then to A's children for their lives,
+
+remainder to A's grandchildren, and we're told that A pre-deceased T, would this change the result?
+
+The answer, of course, is yes, because the class of A's children is already closed when the conveyance
+
+became effective, which of course was on T's death. Therefore, the contingent future interest
+
+in the grandchildren will vest or fail no later than the death of A's last child to die. So in
+
+other words, the class of A's children, because it is a closed class under this example, can serve as
+
+the validating life for the remainder in A's grandchildren. Let's consider one final example.
+
+O conveys to A for life, then to A's children who reach age 21. We're told that at the time of the
+
+conveyance, A is alive and has one child, B, age six. Following our three-step approach,
+
+the first part of our analysis is to identify any contingent future interest in a transferee.
+
+That analysis reveals that, yes, B has a contingent future interest. B has a contingent
+
+remainder. B is a child of A, and there is a condition precedent. B must not only be a child
+
+of A, but B must reach the age of 21. Keep in mind that this vesting event, being a child of A and
+
+reaching age 21, applies not only to B, but to any other children that might be born of A. Generally,
+
+when we identify an interest in a conveyance, once we have a known taker,
+
+that identification is with reference to that taker. But if A has more children,
+
+obviously those children will likewise have a contingent remainder. Now we need to analyze
+
+whether we have a validating life for this vesting event. Yes, we have a validating life
+
+for this vesting event. That life is A, because at A's death, all of A's children will be known,
+
+and no later than 21 years thereafter, we will also know who among them has reached the age of 21.
+
+in order to validate the contingent future interest. This interest in A's children who
+
+reach age 21 is valid because we will know at the conclusion of A's life, the validating life,
+
+who all of the potential takers are, and we will know no later than 21 years after A's death,
+
+who among those children have reached the age of 21. So what is the state of the title? A has a life
+
+estate, B has a contingent remainder, and O has a reversion. Why does the transferor have a reversion?
+
+Because it is possible that B's contingent remainder will not vest if B fails to reach the age of 21,
+
+and it's also possible that A may not have any children who satisfy that condition precedent.
+
+And now the time has come for the most important step in your mastery of the rule against
+
+perpetuities, and that is practice, practice, practice. Good luck.
+
+To be able to consider that it is possible that B Schader Guillenfeld is the sameRAC One of the
+
+ką Tie Players Siwa is defined. And what Stephanie has transformed?
+
+Together without a seal, visit youriloqu Separation and Orchest medication.
+
+You can get it to the same access part that we advise иногда, and get to their own
+
+instances where they need to take checker than testers and the other conditions.
+
+If Lite, put a checker at the Mon Zealand University,
+
+I said that the top 5 or 9 of the trainでき powert or not to discourage that we become
+
+for both accountability for Colombia and the Athleticени.
+
+You can, think, we will determine whether it's going to be a better sense.
+
+And that's what we can do.
+
+There is a very interesting thing.
+
+For the past two weeks, we've looked at consecutive possessory interests, present and future.
+
+Now we turn to concurrent possessory interests, also known as co-tenancies.
+
+We'll examine the characteristics of the different types of co-tenancies, how they are created, and how they may be terminated.
+
+We'll also look at the rules that govern the relations among co-tenants, and what remedies exist if not all of the co-tenants play by those rules.
+
+Let's take a closer look.
+
+Concurrent ownership is one of three types of ownership.
+
+The labels that we give to these types of ownership stem from the nature of the possessory rights of the owner or owners in question.
+
+Inseveralty, ownership refers to the right of one owner who has sole and exclusive possession.
+
+Consecutive ownership refers to an estate that is divided among rights of both present and future interest holders.
+
+These are the rights that we have studied for the past two weeks.
+
+Now we turn to concurrent ownership, in which there are concurrent rights of present or future possession.
+
+And here is the key feature of concurrent ownership.
+
+Each tenant in a co-tenancy has a possessory right to the undivided whole.
+
+More on that in a moment.
+
+Under the category of concurrent ownership, there are three types of co-tenancies.
+
+Tenancy by the entirety, joint tenancy, and tenancy in common.
+
+We will now look at the features that distinguish these three types of co-tenancy.
+
+When more than one person has a concurrent interest in property, how do we know what type of co-tenancy exists?
+
+Two steps are important in answering this question.
+
+One, we must look at the unities of title that existed when the co-tenancy was created,
+
+and we must look at the specific language that was used.
+
+We're going to next turn to a deeper understanding of what these two factors involve.
+
+The unities of title refer to characteristics that have to exist at the time the co-tenancy is created.
+
+I use the acronym TIP, T-T-I-P-P, to help you remember these five unities.
+
+The first is the unity of time, meaning that the interest must be acquired or must vest at the same time among the co-tenants.
+
+The unity of title refers to title that is granted by the same instrument or that arises through joint adverse possession.
+
+The unity of interest means that each co-tenant must have an equal and undivided interest of the same duration in the property.
+
+Unity of possession is the one unity of title that must exist for each of the three types of co-tenancies,
+
+and this means that each co-tenant has the equal right to possession of the undivided whole.
+
+The last unity of title refers to unity of person, and that simply means marriage.
+
+We'll now look at what unities must exist for each of the three types of co-tenancies.
+
+A tenancy by the entirety, which can exist only between married persons, is the co-tenancy that requires all five unities of title.
+
+Now, while only married persons can qualify to hold property as tenants by the entirety, it is not necessary that they do so.
+
+They may choose to hold property as joint tenants or tenants in common.
+
+A joint tenancy, which can exist between any two persons, requires only the first four unities of title, time, title, interest, and possession.
+
+The third type of co-tenancy, a tenancy in common, requires only the unity of possession.
+
+What that means is that tenants in common may acquire their interests at different times through different title instruments,
+
+and their proportionate share of the property may also be unequal.
+
+Of the three types of co-tenancies, only tenants by the entirety and joint tenants enjoy a right of survivorship.
+
+Looking at the two examples, in the tenancy by the entirety, we label the interest that the spouses have as each having an undivided one-half interest in the estate.
+
+In the joint tenancy, in our illustration, there are three joint tenants.
+
+They have equal and undivided interests, so we would label this as each having an undivided one-third interest in the estate.
+
+Let's see how the right of survivorship operates to affect those interests.
+
+Let's look first at the tenancy by the entirety.
+
+When one spouse dies, the other spouse survives to the whole, unencumbered by the deceased spouse's share.
+
+In other words, the surviving spouse does not receive anything from the deceased spouse.
+
+The deceased spouse's interest is extinguished at that spouse's death.
+
+With a joint tenancy, where we had three joint tenants, each with undivided one-third interest,
+
+when B dies, A and C survive to the whole, unencumbered by B's interest.
+
+Once again, A and C do not receive their increased share from B.
+
+B's interest is merely extinguished at his death, and now A and C each have an undivided one-half interest in the whole.
+
+Because a tenancy by the entirety exists only between married persons,
+
+when one spouse dies, the surviving spouse then holds title in severalty.
+
+With a joint tenancy, however, if there are more than two joint tenants to begin with,
+
+then when one joint tenant dies, the remaining joint tenants still hold the estate in a joint tenancy.
+
+In our example, A and C each have an undivided half interest as joint tenants.
+
+Now let's look at a tenancy in common for purposes of comparison.
+
+In our example, A, B, and C hold undivided one-third interest as tenants in common.
+
+If B dies, what is the result?
+
+Well, B's estate will hold an undivided one-third interest as a tenant in common with A and C.
+
+What if there is an intervivos transfer of the interest of one of the tenants in common?
+
+If C sells her interest to D, D will hold an undivided one-third interest as a tenant in common with B's estate and with A.
+
+The creation of a co-tenancy depends not only on satisfaction of the required unities of title,
+
+but also on the inclusion of the appropriate language.
+
+With a tenancy by the entirety, some jurisdictions have a statutory presumption
+
+that the creation of a concurrent estate in spouses creates a tenancy by the entirety.
+
+In such jurisdictions, this is the default position unless contrary language is included in the grant.
+
+It is good drafting policy nonetheless that when a tenancy by the entirety is intended,
+
+that the appropriate terminology should be used in the grant.
+
+Please note that spouses can choose to hold property instead as joint tenants or tenants in common,
+
+so when drafting for married persons, it's essential that you be crystal clear what the client's intentions are
+
+and that the conveyance be drafted with the appropriate language.
+
+Creation of a joint tenancy must include wording that indicates an unequivocal intent to create a true joint tenancy.
+
+Examples of such language include in joint tenancy with right of survivorship,
+
+or as joint tenants with rights of survivorship.
+
+Without this unequivocal language, the modern-day presumption is that a co-tenancy is a tenancy in common.
+
+Because all co-tenants have a right to possession of the undivided whole,
+
+we label their interests as fractional interests in the undivided whole.
+
+A key question is, does a co-tenant have the right to unilaterally convey his or her fractional undivided interest?
+
+The answer to that question, if it's a tenancy by the entirety, is no.
+
+Neither spouse has the right to unilaterally sever or convey their fractional interest.
+
+With a joint tenancy, the answer is yes.
+
+A joint tenant can unilaterally convey the interest, but the consequence of this is significant.
+
+What this conveyance does is destroy the survivorship right of that severing tenant.
+
+So the tenant who unilaterally conveys gains with certainty the value of that fractional share,
+
+but loses the possibility of surviving to the whole.
+
+With a tenancy in common, yes, all tenants in common may unilaterally convey their fractional interests.
+
+You now have an overview of how each co-tenancy may be created.
+
+It's time to look at how each may be terminated.
+
+If you recall, a tenancy by the entirety may not be unilaterally severed by either spouse.
+
+To terminate a tenancy by the entirety, it must be by a mutual written agreement or by divorce
+
+or by execution on a judgment by a joint creditor of both spouses.
+
+One of the advantages of a tenancy by the entirety is that the entirety interest is not vulnerable
+
+to the liabilities of only one of the spouses.
+
+In order for a creditor to execute against a tenancy by the entirety,
+
+it must be a joint creditor of both spouses.
+
+To terminate a joint tenancy, that can happen by unilateral severance where there are only two joint tenants.
+
+However, if there are more than two joint tenants, the remaining joint tenants will continue to hold their interest
+
+with rights of survivorship after unilateral severance by one.
+
+The other means of terminating a joint tenancy is partition, and that can be a voluntary partition
+
+that is accomplished by the joint tenants through seeking a resurvey of the property
+
+and dividing up the property in kind, meaning each joint tenant ends up with a parcel of equal value,
+
+or it may be impractical to partition in kind,
+
+and the joint tenants may instead choose to sell the parcel and divide the proceeds.
+
+When there is disagreement among the joint tenants, then an action in partition may be sought through judicial resources,
+
+and depending on the circumstances, the court may order a partition in kind or a partition in sale.
+
+The Delfino case that we'll examine this week looks at those issues.
+
+And last, the tenancy in common likewise can be terminated through a partition, either voluntary or judicial.
+
+Now let's apply what you have learned.
+
+These examples compare a joint tenancy with a tenancy in common.
+
+In the joint tenancy, we're told that A, B, and C hold Blackacre as joint tenants,
+
+and that C has conveyed his interest to D.
+
+We are to determine the state of the title.
+
+Recall that when C conveys his interest to D, that severs the joint tenancy as to C.
+
+So the result is that A and B continue as joint tenants to an undivided two-thirds interest in Blackacre,
+
+but they are now tenants in common with D as to his undivided one-third interest that results from the conveyance that C made.
+
+Let's look at the tenancy in common and compare.
+
+A, B, and C hold Blackacre as tenants in common.
+
+C conveys his interest to D.
+
+What is the state of the title?
+
+In this scenario, A, B, and D each have an undivided one-third interest as tenants in common.
+
+C's undivided one-third interest as a tenant in common was merely transferred to D, who holds an interest of the same nature.
+
+One need only observe a preschool class to be reminded that problems with sharing are inherent in human nature.
+
+Co-tenancy disputes are cases in point.
+
+Next, we'll look at the question of sharing not only from the standpoint of the goodies or the benefits connected to co-owned property, but also the burdens.
+
+Without doubt, the most challenging aspect of co-ownership, both in theory and in practice, is that each co-owner has an equal right to possession of the whole.
+
+How can that possibly work if co-tenants have different and conflicting notions about property use?
+
+Due to the inherent difficulties of the right to equal possession of the whole, the law favors agreements for sorting out the sharing of benefits and burdens among co-tenants.
+
+Where there is a valid agreement or contract between or among co-tenants, the court will respect that, and that will supersede what the rights of the co-tenants would otherwise be under the common law.
+
+Next, we'll look at what the common law provides with respect to a co-tenant's right to share benefits and duty to share burdens.
+
+With respect to sharing the benefits of co-owned property, there are basically two categories.
+
+One has to do with rent or value received from third parties, in other words, from persons or entities who are not co-owners,
+
+and the other has to do with profits generated by a co-tenant's own labor or business activities or the value of possession from a co-tenant who is in sole possession.
+
+Let's look first at rent or value coming from third parties.
+
+The answer is yes, absent agreement, co-tenants have a right to share in rent or value from third parties,
+
+and they share in proportion to whatever their fractional interest in the property happen to be.
+
+With respect to profits generated by a co-tenant's own labor or business activities or the value of that co-tenant's sole possession,
+
+the answer is no, co-tenants do not have a right to a share unless there is an agreement that provides otherwise,
+
+or the other co-tenants have been ousted by the co-tenant in possession.
+
+In other words, they've been prevented from enjoying their rights to equal enjoyment of possession of the property.
+
+Also, there are exceptions when a co-tenant has depleted natural resources from the property.
+
+What about sharing the burdens associated with co-owned property?
+
+Must a co-tenant share the burden of taxes and governmental obligations?
+
+What about mortgage payments?
+
+The answer is yes, absent an agreement to the contrary.
+
+Must a co-tenant share the cost of repairs and improvements on a co-owned property?
+
+The answer to these questions is more complicated.
+
+Under the traditional common law approach, a co-tenant was not required to share the cost of a repair.
+
+Instead, the co-tenant who paid for the repair was entitled to a credit,
+
+and the credit would be paid at such time as there was an accounting for other benefits
+
+or the property was sold and the proceeds distributed.
+
+Under the more modern view, if a repair is of the type that would be viewed as objectively necessary,
+
+and the co-tenant who intends to make the repair gives the other co-tenants advanced notice of the necessity of the repair,
+
+then the co-tenant who has paid the cost may seek contribution from the other co-tenants.
+
+With respect to improvements, a co-tenant who voluntarily makes an improvement of co-owned property
+
+is not entitled to seek contribution for that improvement.
+
+The rationale is that an improvement is a subjective expenditure.
+
+The consequence of expending funds to make an improvement is this.
+
+The co-tenant who makes the improvement is entitled to any appreciated value,
+
+either in the overall value of the property or in the rent that can be charged.
+
+However, if the improvement turns out to decrease the value of the property,
+
+that tenant is also responsible for the diminution in value.
+
+So let's take an example.
+
+Let's say that a co-tenant decides to put on a room addition of a residence that's being rented out for the rental income.
+
+Because of the addition, the residence can now be rented for an additional $100 a month.
+
+If the improving co-tenant can show that this increase in rental value is due to the improvement,
+
+the improving co-tenant will be allowed the additional $100 a month
+
+on top of what his or her share would be of the rents normally collected.
+
+If, on the other hand, a change is made to a property,
+
+let's say that one of the bedrooms is now converted into a hot tub room,
+
+and the co-owners are now getting less rent for the property because it has fewer bedrooms,
+
+then that diminution in the rental value will be deducted from the portion of the co-tenant
+
+who converted the bedroom into a hot tub room.
+
+What are the remedies available to co-owners with respect to sharing the benefits and burdens of co-owned property?
+
+If a co-tenant wishes to collect his or her share of a benefit, such as rents from third parties,
+
+the action that is brought is one for accounting.
+
+If, instead, a co-tenant wishes to collect the share of cost of taxes or a mortgage payment from other co-tenants,
+
+the action is one for contribution.
+
+If there is damage to property interest due to the actions or failure to act of other co-tenants,
+
+the action that is brought is one for waste.
+
+And if a co-tenant wishes to separate the interests or terminate the co-tenancy,
+
+typically the action that is brought is one for partition.
+
+Now it's time to test your knowledge and to attempt the multiple-choice questions that are posted.
